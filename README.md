@@ -36,9 +36,7 @@ tes3merge is for merging objects to automatically solve mod conflicts and it wil
 
 Wrye Mash is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists.
 
-## [Enxhanted Editor](https://mw.modhistory.com/download-95-1662)
-
-Enchanted Editor is a powerful tool that can allow you remove and tweak records in plugins.
+## [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
 
 ## [TESPCD](https://mw.modhistory.com/download-95-5283)
 
