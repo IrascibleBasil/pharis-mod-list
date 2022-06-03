@@ -14,7 +14,7 @@ SSD | Crucial P5 Plus NVME SSD 500GB
 Monitor | Dell s2721dgf
 
 With this mod list my FPS is always above 60(even in Old Eboheart) with 25 cell view distance. 
-Click [here]() for my my full settings.cfg file 
+Click [here](config/settings.cfg) for my my full settings.cfg file 
 
 # Utilities
 
@@ -926,3 +926,47 @@ Hide or delete:
 - Rem_AL_RMR+Kogoruhn Expanded.esp
 - Rem_GL_Trackless_GL.esp
 - Rem_WG - StoneWood Pass.esp
+
+### Activating Grass Plugins 
+Make sure Groundcover is turned on in your settings.cfg
+
+**Disclaimer: Do not activate grass plugins in the right pane of MO2 or in the OpenMW launcher, do not add content lines for groundcover plugins in openmw.cfg**
+```
+[Grouncover]
+enabled = true
+```
+
+Add these lines to your openmw.cfg
+```
+groundcover=Rem_BC.esp
+groundcover=Rem_AC.esp
+groundcover=Rem_AL.esp
+groundcover=Rem_AI.esp
+groundcover=Rem_WG.esp
+groundcover=Rem_GL.esp
+groundcover=Rem_GL - OAAB Landscape.esp
+
+groundcover=Rem_TR_AC.esp
+groundcover=Rem_TR_AI.esp
+groundcover=Rem_TR_AT.esp
+groundcover=Rem_TR_BC.esp
+groundcover=Rem_TR_GL.esp
+groundcover=Rem_TR_RR.esp
+groundcover=Rem_TR_WG.esp
+groundcover=Rem_TRp_AI.esp
+groundcover=Rem_TRp_AL.esp
+groundcover=Rem_TRp_AT.esp
+groundcover=Rem_TRp_BC.esp
+groundcover=Rem_TRp_GL.esp
+groundcover=Rem_TRp_GM.esp
+groundcover=Rem_TRp_RR.esp
+groundcover=Rem_TRp_Sol.esp
+groundcover=Rem_TRp_TV.esp
+groundcover=Rem_TRp_WG.esp
+
+groundcover=Sky_Main_Grass.esp
+
+groundcover=VSW-Rem-Anthology Solstheim.esp
+groundcover=Rem_Lokken_RP_Grass.esp
+groundcover=Rem_LoCM.esp
+```
