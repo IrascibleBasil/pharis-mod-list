@@ -22,7 +22,7 @@ Click here for my my full settings.cfg file
 
 For modding OpenMW I use Mod Organizer 2 with the ModOrganizer-to-OpenMW plugin graciously provided by AnyOldName3. This is the method I recommend beecause it is the simplest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
 
-## [Mlox]() ([Newest Rules]())
+## [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
 
 ## [Tes3merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
@@ -180,183 +180,181 @@ These are just assets that are used for many other mods such as Tamriel Rebuilt,
 
 # Mesh & Texture Replacers
 
-## [Weapon Sheathing]()
+## [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
 
-## [Weapon Sheathing Additions]()
+## [Weapon Sheathing Additions](https://www.nexusmods.com/morrowind/mods/49616)
 
-## [Correct Meshes]()
+## [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
 
-## [Simply Walking(Remastered)]()
+## [Simply Walking(Remastered)](https://www.nexusmods.com/morrowind/mods/49785)
 
-## [MCAR]()
+## [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
-## [Dwemer Mesh Improvement]()
+## [Dwemer Mesh Improvement](https://www.nexusmods.com/morrowind/mods/43101)
 
-## [Telvanni Mesh Improvement]()
+## [Telvanni Mesh Improvement](https://www.nexusmods.com/morrowind/mods/42343)
 
-## [Telvanni Exterior UV Fix]()
+## [Telvanni Exterior UV Fix](https://www.nexusmods.com/morrowind/mods/23233)
 
-## [Telvanni Door Handle]()
+## [Telvanni Door Handle](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
-## [Morrowind Optimization Patch]()
+## [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
-## [Mistify]()
+## [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 
-## [RR Mod Series - Better Meshes]() ([fix]())
+## [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266) ([fix]())
 
-## [Properly Smoothed Meshes]() ([flask fix]())
+## [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747) ([flask fix]())
 
-## [Graphic Herbalism - MWSE and OpenMW Edition]() ([Graphic Herbalism- Ash Yam Collision Switch]())
+## [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
 
-## [Morrowind Enhanced Textures]()
+## [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
 
-## [Glow in the Dahrk]()
+## [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 
-## [DN Lighted Dwemer Towers]()
+## [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
 
-## [Solstheim Graphical Replacer]()
+## [Solstheim Graphical Replacer](https://www.nexusmods.com/morrowind/mods/46810)
 
-## [Project Atlas]()
+## [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
-## [Vanilla Land]() ([tx_ma_crackedearth fix]())
+## [Vanilla Land]() ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
 
 ## [Lore-Friendly Balmora Suran and Caldera Ground Textures]()
 
 ## [No Scum]()
 
-## [Swamp Rocks]()
+## [Swamp Rocks](https://www.nexusmods.com/morrowind/mods/45673)
 
-## [SM Re-textures Rock and Cave]()
+## [SM Re-textures Rock and Cave](https://www.nexusmods.com/morrowind/mods/48856)
 
-## [HD Cavern of the Incarnate]()
+## [HD Cavern of the Incarnate](https://www.nexusmods.com/morrowind/mods/46101)
 
-## [I Lava Good Mesh Replacer]()
+## [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 
-## [Bitter Coast Redux II - Trees and Flora]()
+## [Bitter Coast Redux II - Trees and Flora](https://www.nexusmods.com/morrowind/mods/45762)
 
-## [SM Bitter Coast Tree Replacer]()
+## [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 
-## [Vanilla-friendly West Gash Tree Replacer]()
+## [Vanilla-friendly West Gash Tree Replacer](nexusmods.com/morrowind/mods/44173)
 
-## [Melchior's Excellent Grazelands Acacia]()
+## [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
 
-## [Remiros' Ascadian Isles Trees 2]()
+## [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 
-## [Pherim Comberry Bush 2.4]()
+## [Pherim Comberry Bush 2.4](https://www.nexusmods.com/morrowind/mods/42586)
 
-## [Pherim's Fire Fern - Plant and Ingredient]()
+## [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
 
-## [Improved Kwama Eggs and Egg Sacs]()
+## [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
 
-## [Hackle-lo Fixed]()
+## [Hackle-lo Fixed](https://www.nexusmods.com/morrowind/mods/42784)
 
-## [Epic Plants - Modular]()
+## [Epic Plants - Modular](https://www.nexusmods.com/morrowind/mods/46180)
 
-## [GH Patches and Replacers]()
+## [GH Patches and Replacers](https://www.nexusmods.com/morrowind/mods/46599)
 
-## [Ingredients Mesh Replacer]()
+## [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
 
-## [Anumaril's Bowled Ingredients]()
+## [Anumaril's Bowled Ingredients](https://www.nexusmods.com/morrowind/mods/48291)
 
-## [Daedric Intervention - Ingredients]()
+## [Daedric Intervention - Ingredients](https://www.nexusmods.com/morrowind/mods/46044)
 
-## [R-Zero's Throbbing Meat - a Corprus Meat Replacer]()
+## [R-Zero's Throbbing Meat - a Corprus Meat Replacer](https://www.nexusmods.com/morrowind/mods/45339)
 
-## [Imperial Houses and Forts Retexture - Ordo Arkitektora]()
+## [Imperial Houses and Forts Retexture - Ordo Arkitektora](https://www.nexusmods.com/morrowind/mods/43940)
 
-## [Lysol's Imperial Forts Normal Mapped for OpenMW - NOT ATLASED]() ([Atlas]())
+## [Lysol's Imperial Forts Normal Mapped for OpenMW - NOT ATLASED](https://www.nexusmods.com/morrowind/mods/46413) ([Atlas]())
 
-## [Hidden Imperial Door Fix]()
+## [Hidden Imperial Door Fix](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
-## [Imperial Door Fixes]()
+## [Imperial Door Fixes](https://www.nexusmods.com/morrowind/mods/47266?tab=description)
 
-## [Dry Stone Walls Revamped]()
+## [Dry Stone Walls Revamped](https://www.nexusmods.com/morrowind/mods/49069)
 
-## [Dragon Statue Revisited]()
+## [Dragon Statue Revisited](https://www.nexusmods.com/morrowind/mods/50561)
 
-## [Shacks Docks and Ships - Arkitektora of Vvardenfell]()
+## [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
 
-## [HD Flags and Banners]()
+## [HD Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
 
-## [Hlaalu - Arkitektora Vol.2]()
+## [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
 
-## [Vivec and Velothi - Arkitektora Vol.2]()
+## [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
 
-## [One True Faith - Saints and Frescoes Retexture]()
+## [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
 
-## [Ghastly Glowyfence]()
+## [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
 
-## [RR Mod Series - Morrowind Statues Replacer]()
+## [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
 
-## [Sewers - Arkitektora of Vvardenfell]()
+## [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
 
-## [Redoran - Arkitektora Vol.2]()
+## [Redoran - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46235)
 
-## [Telvanni Retexture]()
+## [Telvanni Retexture](https://www.nexusmods.com/morrowind/mods/45516)
 
-## [Aesthesia - Stronghold textures]()
+## [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
 
-## [Articus Old Stucco 2K Retexture]()
+## [Articus Old Stucco 2K Retexture](https://www.nexusmods.com/morrowind/mods/45880)
 
-## [Articus Mournhold 2K Retexture]()
+## [Articus Mournhold 2K Retexture](https://www.nexusmods.com/morrowind/mods/46011)
 
-## [Articus Old Mournhold and Sewers Retexture 2K]()
+## [Articus Old Mournhold and Sewers Retexture 2K](https://www.nexusmods.com/morrowind/mods/45769)
 
-## [Articus Clockwork City of Sotha Sil 2K Retexture]()
+## [Articus Clockwork City of Sotha Sil 2K Retexture](https://www.nexusmods.com/morrowind/mods/46149)
 
-## [Ruins - Daedric Intervention]()
+## [Ruins - Daedric Intervention](https://www.nexusmods.com/morrowind/mods/46044)
 
-## [Articus 6th House Dagoth - HD Nightmare Retexture 2K]()
+## [Articus 6th House Dagoth - HD Nightmare Retexture 2K](https://www.nexusmods.com/morrowind/mods/48319)
 
-## [6th House - Glowing Things]()
+## [6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
 
-## [Full Dwemer Retexture]()
+## [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
 
-## [Swappable Texture Signposts]()
+## [Swappable Texture Signposts](https://www.nexusmods.com/morrowind/mods/46804)
 
-## [Swayland]()
+## [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
 
-## [Better Waterfalls]()
+## [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 
-## [PK_GemReplacer]()
+## [Crystal Soul Gems](https://www.nexusmods.com/morrowind/mods/48300)
 
-## [Crystal Soul Gems]()
+## [Ket's Potions and Beverages Retexture](https://www.nexusmods.com/morrowind/mods/44781)
 
-## [Ket's Potions and Beverages Retexture]()
+## [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
 
-## [All Books Color-Coded and Designed]()
+## [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
 
-## [Melchior's Magnificent Manuscripts]()
-
-## [Old Dwemer Books]()
+## [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339)
 
 ## [Dwemer Plans and Schematics]()
 
-## [Pete's Scroll With Daedric Alphabet]()
+## [Pete's Scroll With Daedric Alphabet](https://www.nexusmods.com/morrowind/mods/47863)
 
-## [HD Forge]()
+## [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
 
-## [Dunmer Lanterns Replacer]()
+## [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
 
-## [Apel's Fire Retexture Patched]()
+## [Apel's Fire Retexture Patched](https://www.nexusmods.com/morrowind/mods/50092)
 
-## [Subtle Smoke]()
+## [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
 
-## [Mist Retexture]()
+## [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
 
-## [Blood]()
+## [Qwerty's Various Graphics - Blood](https://www.nexusmods.com/morrowind/mods/46026)
 
-## [Skeleton and Metal Sparks blood retexture]()
+## [Skeleton and Metal Sparks blood retexture](https://www.nexusmods.com/morrowind/mods/43359)
 
-## [Magic VFX Retexture by Articus]()
+## [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
 
-## [Bound Spells Reforged]()
+## [Bound Spells Reforged](https://www.nexusmods.com/morrowind/mods/48750)
 
-## [Spells Reforged - Elemental Shields]()
+## [Spells Reforged - Elemental Shields](https://www.nexusmods.com/morrowind/mods/50073)
 
-## [Spells Reforged - purple Shield]()
+## [Spells Reforged - purple Shield](https://www.nexusmods.com/morrowind/mods/50905)
 
-## [Pluginless NoGlow Lite]()
+## [Pluginless NoGlow Lite](https://www.nexusmods.com/morrowind/mods/43795)
 
 ## []()
 
@@ -380,22 +378,20 @@ These are just assets that are used for many other mods such as Tamriel Rebuilt,
 
 # Body & Head Replacers
 
-## []()
+## [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395) ([Fixed Meshes]())
 
-## []()
+## [Better Bodies - Hand Fixes](https://www.nexusmods.com/morrowind/mods/47521)
 
-## []()
+## [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 
-## []()
+## [Color Tweaked Westly's BB Textures]()
 
-## []()
+## [New Beast Bodies by Liztail](https://www.nexusmods.com/morrowind/mods/47678)
 
-## []()
+## [Improved Argonians](https://www.nexusmods.com/morrowind/mods/45918)
 
-## []()
+## [Pluginless Khajiit Head Pack](https://www.nexusmods.com/morrowind/mods/43110)
 
-## []()
+## [Pluginless Khajiit Head Pack - Vampires](https://www.nexusmods.com/morrowind/mods/43795)
 
-## []()
-
-## []()
+# 
