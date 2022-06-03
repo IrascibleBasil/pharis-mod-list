@@ -394,4 +394,300 @@ These are just assets that are used for many other mods such as Tamriel Rebuilt,
 
 ## [Pluginless Khajiit Head Pack - Vampires](https://www.nexusmods.com/morrowind/mods/43795)
 
-# 
+# Creatures
+
+## [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
+
+## [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
+
+## [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+
+## [By Azura](https://www.nexusmods.com/morrowind/mods/50567)
+
+## [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
+
+## [Daedric Intervention - Creatures]()
+
+## [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137)
+
+## [Atronachs Textures](https://www.nexusmods.com/morrowind/mods/46026)
+
+## [Clannfear Replacer](https://www.nexusmods.com/morrowind/mods/45173)
+
+## [Scamp Replacer - Glowing Eyes](https://www.nexusmods.com/morrowind/mods/44314)
+
+## [Creeper the Scamp](https://www.nexusmods.com/morrowind/mods/47823)
+
+## [Spriggans Glow](https://www.nexusmods.com/morrowind/mods/43350)
+
+## [Corprus Natives](https://www.nexusmods.com/morrowind/mods/45674)
+
+## [SM Bonewalker Replacer](https://www.nexusmods.com/morrowind/mods/51030)
+
+## [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
+
+## [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150)
+
+## [Guars replacer - Aendemika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/42521)
+
+## [CRAG - color replacer for Aendemika Guar](https://www.nexusmods.com/morrowind/mods/48966)
+
+## [Alit replacer - Aendemika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/42520)
+
+## [Kagouti replacer - Aendemika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/42523)
+
+## [PB Cliff Racer Replacer 2.0](https://www.nexusmods.com/morrowind/mods/48978)
+
+## [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
+
+## [Nix-Hound Replacer 1.0](https://www.nexusmods.com/morrowind/mods/43620)
+
+## [REPLACER - Scrib Mesh Tweak](https://www.nexusmods.com/morrowind/mods/45988)
+
+## [Pluginless rat replacer](https://www.nexusmods.com/morrowind/mods/43795)
+
+# Apparel & Weapon Replacers
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+# NPCs & Companions
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+# Dialogue
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+# Levelled Lists
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+# Gameplay
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+# Quests
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
+
+## []()
