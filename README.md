@@ -1,6 +1,6 @@
 # Before We Start
 
-This list is for OpenMW but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(**Pharis#2588**) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
+This list is for [**OpenMW**](https://openmw.org/downloads/) but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(**Pharis#2588**) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
 
 ### My System
 For reference this is what I am currently using to play OpenMW: 
@@ -18,7 +18,7 @@ Click [**here**](config/settings.cfg) for my my full settings.cfg file
 
 # Utilities
 
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my **Modding** Folder and the rest in a **Modding Tools** directory within the same folder.
+These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my ```Modding``` Folder and the rest in a ```Modding Tools``` directory within the same folder.
 
 ![image](images/moddingdirectory.png)
 
@@ -26,7 +26,7 @@ These are programs that are either necessary for this mod list or very helpful i
 
 ### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
 
-For modding **OpenMW** I use Mod Organizer 2 with the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin graciously provided by AnyOldName3. This is the method I recommend beecause it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
+For modding **OpenMW** I use **Mod Organizer 2** with the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by **AnyOldName3**. This is the method I recommend because it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
 
 *Do not manually install mods, I will be very disappointed in you.*
 
@@ -34,19 +34,19 @@ For modding **OpenMW** I use Mod Organizer 2 with the [**ModOrganizer-to-OpenMW*
 
 This is for analyzing and sorting your load order using a set of ordering rules.
 
-Add to your MO2 executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the arguments field to stop mlox from checking online and opening the GUI. 
+Add to your **MO2** executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the arguments field to stop **mlox** from checking online and opening the GUI. 
 
 ### [tes3merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
 A tool for automatically patching conflicts between mods by merging changes to objects. For a more detailed description refer to the Nexus page.
 
-Add to your MO2 executables list.
+Add to your **MO2** executables list.
 
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439)
 
 **Wrye Mash** is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. 
 
-Add to your MO2 executables list.
+Add to your **MO2** executables list.
 
 ## Not Technically Necessary But Still Get Them
 
@@ -66,7 +66,7 @@ Add to your MO2 executables list.
 
 # Preamble
 
-Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/README.md#grass) section.
+Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/README.md#grass) section. 
 
 The mods are in order and organized by separator.
 
@@ -94,13 +94,15 @@ Get the HD textures
 Install:
 - [x] adamantium armor compatibility
 
-If you want to use the Siege at Firemoth official plugin use the one from **BCOM - [x] Patches**.
+If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**.
 
 ### [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
 ### [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)
 
 ### [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155)
+Install:
+- [x] Pfp
 
 ### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
 
@@ -295,7 +297,7 @@ Only the assets are needed, use the plugin from BCOM - Patches
 Hide or Delete:
 - Foyada Mamaea Overhaul.esp
 
-### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified]())
+### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from **OAAB Data**. Use the edited plugin with the original mod's assets.
 
 ### [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
@@ -319,13 +321,18 @@ Hide or Delete:
 # Mesh & Texture Replacers
 
 ### [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+Download the **OpenMW** version.
+
+Install:
+- [x] Data Files
 
 ### [Weapon Sheathing Additions](https://www.nexusmods.com/morrowind/mods/49616)
 
 ### [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
 
 ### [Simply Walking(Remastered)](https://www.nexusmods.com/morrowind/mods/49785)
-Get the Weapon Sheathing Edition.
+Download:
+- **Simply Walking Weapon Sheathing Edition**
 
 ### [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
@@ -359,7 +366,7 @@ Install:
 - [x] Beaker, Flasks - clear glass
 - [x] Inkwell - cut glass
 
-### [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- [x] Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
+### [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
 Install the smoothed meshes and the fix linked above.
 
 ### [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
@@ -390,7 +397,7 @@ Download:
 - **Hotfix 0.7.2**
 - **Textures - MET**
 
-### [My Atlas Texture Collection]()
+### [My Atlas Texture Collection](mods/My%20Atlas%20Texture%20Collection.7z)
 Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas bat files
 
 ### [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
@@ -398,7 +405,7 @@ Some mods have outdated texture atlases or no atlas at all so I have provided at
 ### [Lore-Friendly Balmora Suran and Caldera Ground Textures 2k](https://www.nexusmods.com/morrowind/mods/43680)
 I prefer these over the versions in Vanilla Land.
 
-### [No Scum]()
+### [No Scum](mods/No%20Scum.7z)
 I don't like the scum so I replaced them with empty nifs.
 
 ### [Swamp Rocks](https://www.nexusmods.com/morrowind/mods/45673)
@@ -563,7 +570,7 @@ Install:
 - [x] Optional Animated Bellows
 - [x] Optional Texture for Glowing Ash
 
-Also Download:
+Download:
 - **HD Bloodmoon Forge**
 
 ### [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
@@ -617,15 +624,18 @@ Use only the Khajiit plugin because the next mod will cover the Argonians.
 ### [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
 Used only as a pluginless replacer.
 
-Hide or Delete
-- Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp
-- Bob's Diverse Dagoths - DNGDR.esp
-- Bob's Diverse Dagoths - Hostile Gilvoth.esp
-- Bob's Diverse Dagoths.esp
-- Unique Dagoth Brandy & Amulet.ESP
-
+Hide or Delete:
+```
+Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp
+Bob's Diverse Dagoths - DNGDR.esp
+Bob's Diverse Dagoths - Hostile Gilvoth.esp
+Bob's Diverse Dagoths.esp
+Unique Dagoth Brandy & Amulet.ESP
+```
 ### [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
-Also download the Floating Vivec optional file.
+Download:
+- **Divine Vivec - Blank Flame and Spark Textures**
+- **Floating Vivec**
 
 ### [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
 This mod comes with a few splash screens that fit well with vanilla but stand out when used alongside high-quality modded ones like the ones in this list, for that reason I recommend deleting the splash folder.
@@ -664,7 +674,8 @@ Download:
 Only the Glowing Eyes file is needed as it includes everything in the main file.
 
 ### [Spriggans Glow](https://www.nexusmods.com/morrowind/mods/43350)
-Install the MD replacer and Twiggans, if you want them.
+Install:
+- [x] MD Replacer
 
 ### [Corprus Natives](https://www.nexusmods.com/morrowind/mods/45674)
 
