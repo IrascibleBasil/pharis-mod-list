@@ -1,6 +1,6 @@
 # Before We Start
 
-This list is for OpenMW but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing OpenMW or for MO2; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
+This list is for OpenMW but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
 
 ### My System
 For reference this is what I am currently using to play OpenMW: 
@@ -14,39 +14,55 @@ SSD | Crucial P5 Plus NVME SSD 500GB
 Monitor | Dell s2721dgf
 
 With this mod list my FPS is always above 60(even in Old Eboheart) with 25 cell view distance. 
-Click [here](config/settings.cfg) for my my full settings.cfg file 
+Click [**here**](config/settings.cfg) for my my full settings.cfg file 
 
 # Utilities
 
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshoooting in general. Personally I have MO2 in my Modding Folder and the rest in a Modding Tools directory within the same folder.
+These are programs that are either necessary for this mod list or very helpful in modding and troubleshoooting in general. Personally I have **MO2** in my Modding Folder and the rest in a Modding Tools directory within the same folder.
+
+![image](images/Modding Directory.png)
+
+## Necessary
 
 ### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
 
-For modding OpenMW I use Mod Organizer 2 with the ModOrganizer-to-OpenMW plugin graciously provided by AnyOldName3. This is the method I recommend beecause it is the simplest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
+For modding **OpenMW** I use Mod Organizer 2 with the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin graciously provided by AnyOldName3. This is the method I recommend beecause it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
+
+Do not manually install mods, I will be very disappointed in you.
 
 ### [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
 
-This is for sorting your load order. Download mlox, add it to your executables in MO2, and run it once. This will have generated the mlox_base file in local/appdata/mlox/mlox 
+This is for analyzing and sorting your load order using a set of ordering rules.
+
+Add to your MO2 executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the arguments field to stop mlox from checking online and opening the GUI. 
 
 ### [tes3merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
-tes3merge is for merging objects to automatically solve mod conflicts and it will be run near the end of the installation process.
+A tool for automatically patching conflicts between mods by merging changes to objects. For a more detailed description refer to the Nexus page.
+
+Add to your MO2 executables list.
 
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439)
 
-Wrye Mash is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists.
+**Wrye Mash** is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell Wrye Mash where to find your Morrowind installation during the installation process. 
+
+Add to your MO2 executables list.
+
+## Not Technically Necessary But Still Get Them
 
 ### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
 
 ### [TESPCD](https://mw.modhistory.com/download-95-5283)
 
-TESPCD is for detecting conflicts between plugins, such as when two mods edit the same cell.
+**TESPCD** is for detecting conflicts between plugins, such as when two mods edit the same cell.
 
 ### [Nifskope](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z) ([VC++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685))
 
+### [Ordenator](https://www.nexusmods.com/newvegas/mods/46074?tab=description) ([Required](http://www.microsoft.com/download/en/details.aspx?id=17718))
+
 # Preamble
 
-Before moving on to the mod installation be sure to get all of the utilities installed and added to your executables list in MO2.
+Before moving on to the mod installation be sure to get all of the necessary utilities installed.
 
 The mods are in order and organized by separator.
 
