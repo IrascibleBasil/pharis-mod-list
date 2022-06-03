@@ -1,6 +1,6 @@
 # Before We Start
 
-This list is for OpenMW but with few exceptions it will work fine on the original engine. For the original engine there are also many very impressive MWSE mods that obviously will not be featured on this list. Lastly, this is not a tutorial for installing OpenMW or for MO2; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant to repeat here.
+This list is for OpenMW but with few exceptions it will work fine on the original engine. For the original engine there are also many very impressive MWSE mods that obviously will not be featured on this list. Lastly, this is not a tutorial for installing OpenMW or for MO2; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
 
 ## My System
 For reference this is what I am currently using to play OpenMW: 
@@ -14,7 +14,7 @@ SSD | Crucial P5 Plus NVME SSD 500GB
 Monitor | Dell s2721dgf
 
 With this mod list my FPS is always above 60(even in Old Eboheart) with 25 cell view distance. 
-Click here for my my full settings.cfg file 
+Click [here]() for my my full settings.cfg file 
 
 # Utilities
 
@@ -48,7 +48,7 @@ TESPCD is for detecting conflicts between plugins, such as when two mods edit th
 
 # Preamble
 
-Before moving on to the mod installation be sure to get all of the utilities installed and added to your executables list in MO2. 
+Before moving on to the mod installation be sure to get all of the utilities installed and added to your executables list in MO2.
 
 The mods are in order and organized by separator.
 
@@ -68,6 +68,10 @@ Get the HD textures
 ## [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## [Unofficial Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)
+Install:
+- adamantium armor compatibility
+
+If you want to use Siege at Firemoth use the one from BCOM - Patches
 
 ## [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
@@ -75,7 +79,7 @@ Get the HD textures
 
 ## [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155)
 
-## [Adamantium Ore Fix(PFP Edit)]()
+## [Adamantium Ore Fix](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 
 # UI
 
@@ -200,20 +204,23 @@ Install whatever configuration you want just be sure to get the Glow in the Dahr
 ## [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 
 ## [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786)
+Install:
+- Core
+- No dialogue and book edits version
 
 ## [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
 
 ## [Concept Art Plantations](https://www.nexusmods.com/morrowind/mods/50020)
-Only the assets are needed, use the plugin from BCOM patches
+Only the assets are needed, use the plugin from BCOM - Patches
 
 ## [Beautiful Cities of Morrowind - Project Atlas and GITD Patches](https://www.nexusmods.com/morrowind/mods/49231)
 Install:
-Project Atlas Patch
-GITD + Atlas
-Balmora Bridges with bigger arch - Atlas
-Stav MGO - GITD + Atlas
-RR Ghostgate Fortress - GITD
-Vanilla Style Ghostfence Pillars
+- Project Atlas Patch
+- GITD + Atlas
+- Balmora Bridges with bigger arch - Atlas
+- Stav MGO - GITD + Atlas
+- RR Ghostgate Fortress - GITD
+- Vanilla Style Ghostfence Pillars
 
 ## [Skar Face(Ald-Ruhn)](https://www.nexusmods.com/morrowind/mods/49510)
 Make sure you get the BCOM patch.
@@ -239,7 +246,7 @@ If you plan on using groundcover get the Remiros' Groundcover GL Patch.
 ## [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
 
 ## [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
-Only the assets are needed, use the plugin from BCOM Patches
+Only the assets are needed, use the plugin from BCOM - Patches
 
 ## [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified]())
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from OAAB Data. Use the edited plugin with the original mod's assets.
@@ -247,7 +254,7 @@ Since the hanging slaughterfish squirm around in OpenMW I have provided an edite
 ## [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
 
 ## [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
-Only the assets are needed, use the plugin from BCOM Patches
+Only the assets are needed, use the plugin from BCOM - Patches
 
 ## [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
 
@@ -279,7 +286,9 @@ Get the Weapon Sheathing Edition
 ## [Telvanni Door Handle](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
 ## [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
-Install only the Core Files and Weapon Sheathing Patch
+Install:
+- Core
+- Weapon Sheathing Patch
 
 ## [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 Used only as a replacer for the vanilla mist so don't use the plugin
@@ -291,9 +300,9 @@ Also download:
 
 ## [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747) ([flask fix]())
 Install:
-Core
-Beaker, Flasks - clear glass
-Inkwell - cut glass
+- Core
+- Beaker, Flasks - clear glass
+- Inkwell - cut glass
 
 ## [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
 Install the smoothed meshes and the fix linked above
@@ -302,8 +311,8 @@ Install the smoothed meshes and the fix linked above
 
 ## [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 Install:
-Nord Glass Windows
-Raven Rock Windows
+- Nord Glass Windows
+- Raven Rock Windows
 
 ## [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
 
@@ -328,12 +337,12 @@ Also download:
 - Textures - MET
 
 ## [My Atlas Texture Collection]()
-Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas bat files.
+Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas bat files
 
 ## [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
 
 ## [Lore-Friendly Balmora Suran and Caldera Ground Textures 2k](https://www.nexusmods.com/morrowind/mods/43680)
-I prefer these over the versions in Vanilla Land.
+I prefer these over the versions in Vanilla Land
 
 ## [No Scum]()
 I don't like the scum so I replaced them with empty nifs
@@ -387,8 +396,8 @@ The Project Atlas patch is outdated, skip it
 
 ## [Imperial Houses and Forts Retexture - Ordo Arkitektora](https://www.nexusmods.com/morrowind/mods/43940)
 
-## [Lysol's Imperial Forts Normal Mapped for OpenMW - NOT ATLASED](https://www.nexusmods.com/morrowind/mods/46413) ([Atlas]())
-I don't use the normal maps from this mod
+## [Lysol's Imperial Forts Normal Mapped for OpenMW - NOT ATLASED](https://www.nexusmods.com/morrowind/mods/46413)
+Atlas provided in My Atlas Texture Collection
 
 ## [Hidden Imperial Door Fix](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
@@ -407,7 +416,7 @@ Use the Imperial base if you want, I personally don't
 ## [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
 
 ## [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
-The texture atlas is outdated, a newer is in My Atlas Texture Collection
+The texture atlas is outdated, a new one is in My Atlas Texture Collection
 
 ## [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
 
@@ -447,8 +456,8 @@ Atlas provided in My Atlas Texture Collection
 
 ## [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 Install:
-Core
-Tamriel Rebuilt Water
+- Core
+- Tamriel Rebuilt Water
 
 ## [Crystal Soul Gems](https://www.nexusmods.com/morrowind/mods/48300)
 
@@ -457,7 +466,8 @@ Tamriel Rebuilt Water
 ## [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
 
 ## [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
-Install the ABCD patch.
+Install the ABCD patch
+
 ## [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339)
 
 ## [Dwemer Plans and Schematics]()
@@ -507,9 +517,11 @@ Tamriel_Data - Yes
 ## [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 
 ## [Color Tweaked Westly's BB Textures]()
-Full credit goes to Westly for creating these textures, I simply tweaked the color of a few of them to match WFR.
+Full credit goes to Westly for creating these textures, I simply tweaked the color of a few of them to match WFR
+
 ## [New Beast Bodies by Liztail](https://www.nexusmods.com/morrowind/mods/47678)
-Use only the Khajiit plugin because the next mod will cover the Argonians.
+Use only the Khajiit plugin because the next mod will cover the Argonians
+
 ## [Improved Argonians](https://www.nexusmods.com/morrowind/mods/45918)
 
 ## [Pluginless Khajiit Head Pack](https://www.nexusmods.com/morrowind/mods/43110)
@@ -519,35 +531,41 @@ Use only the Khajiit plugin because the next mod will cover the Argonians.
 # Creatures
 
 ## [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
-Don't use any of the plugins.
+Used only as a pluginless replacer, don't use any of the plugins
+
 ## [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
+Also download the Floating Vivec optional file
 
 ## [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+Delete or hide the splash folder
 
 ## [By Azura](https://www.nexusmods.com/morrowind/mods/50567)
 
 ## [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
 Install:
-Core
-Glowing Netch and Netch Betty
-Daedric creatures use bound weapons
+- Core
+- Glowing Netch and Netch Betty
+- Daedric creatures use bound weapons
 
 ## [Daedric Intervention - Creatures](https://www.nexusmods.com/morrowind/mods/46044?tab=files)
-This mod is poorly packaged so you will have to take the meshes and textures files from each subfolder and combine them.
+This mod is poorly packaged so you will have to take the meshes and textures files from each subfolder and combine them
 
 ## [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137)
-Download the CreaturesMeshes and CreaturesTextures files.
+Download:
+- CreaturesMeshes
+- CreaturesTextures
 
 ## [Qwerty's Various Graphics - Atronachs Textures](https://www.nexusmods.com/morrowind/mods/46026)
 
 ## [Clannfear Replacer](https://www.nexusmods.com/morrowind/mods/45173)
-Download the OpenMW main file and the glowing eyes optional file.
+Download the OpenMW main file and the glowing eyes optional file
 
 ## [Scamp Replacer - Glowing Eyes](https://www.nexusmods.com/morrowind/mods/44314)
-Only the Glowing Eyes file is needed as it includes everything in the main file.
+Only the Glowing Eyes file is needed as it includes everything in the main file
 
 ## [Spriggans Glow](https://www.nexusmods.com/morrowind/mods/43350)
-Install the MD replacer and Twiggans if you want them.
+Install the MD replacer and Twiggans, if you want them
+
 ## [Corprus Natives](https://www.nexusmods.com/morrowind/mods/45674)
 
 ## [SM Bonewalker Replacer](https://www.nexusmods.com/morrowind/mods/51030)
@@ -579,7 +597,7 @@ Data Files
 # Apparel & Weapon Replacers
 
 ## [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
-Don't install HD textures, that will be covered in another mod.
+Don't install HD textures, that will be covered in another mod
 
 ## [Articus Mournhold Clothes](https://www.nexusmods.com/morrowind/mods/45773)
 
@@ -590,7 +608,7 @@ Don't install HD textures, that will be covered in another mod.
 ## [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
 
 ## [Unique Finery Replacer UFR - No Robe](https://www.nexusmods.com/morrowind/mods/25725)
-Use only the no robe plugin.
+Use only the no robe plugin
 
 ## [Tweaked and Optimized Jewelry Meshes](https://www.nexusmods.com/morrowind/mods/48861)
 
@@ -607,9 +625,9 @@ Use only the no robe plugin.
 ## [Blank Glow Maps for Robe Overhaul](https://www.nexusmods.com/morrowind/mods/43795)
 
 ## [Better Morrowind Armor](https://www.nexusmods.com/morrowind/mods/42509)
-Download Better Morrowind Armor ENG basic under optional files. 
+Download Better Morrowind Armor ENG basic under optional files.
 
-This mod is packaged incorrectly so click on manual install, right click on the Data Files folder, and pick Set as Data Files directory. After that MO2 should recognize that the folder structure is valid and you can hit ok to install it.
+This mod is packaged incorrectly so click on manual install, right click on the Data Files folder, and pick Set as Data Files directory. After that MO2 should recognize that the folder structure is valid and you can hit ok to install it
 
 ## [Better Morrowind Armor Fixes](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
 Install:
@@ -643,7 +661,6 @@ Don't use the plugin.
 ## [Improved Shield Meshes](https://www.nexusmods.com/morrowind/mods/47931)
 
 ## [Imperial Legion Shields](https://www.nexusmods.com/morrowind/mods/45041)
-I don't use the normal maps from this mod.
 
 ## [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892)
 Install:
@@ -704,14 +721,14 @@ Install:
 ## [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
 
 ## [Animated Staff of Magnus & Iceblade of the Monarch](https://www.nexusmods.com/morrowind/mods/51402)
-Download both files.
+Download both files
 
 ## [The Tools of Kagrenac](https://www.nexusmods.com/morrowind/mods/44500)
 
 ## [Unique Weapon - Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
 # NPCs & Companions
-Feel free to skip the companions if you prefer to travel alone.
+Feel free to skip the companions if you prefer to travel alone
 
 ## [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
 
@@ -780,12 +797,12 @@ From the static addons use only the Scrolls of the Nine Barriers plugin.
 ## [Concept Art Daedric Helmets](https://www.nexusmods.com/morrowind/mods/49534)
 
 ## [Indoril Ronin](https://www.nexusmods.com/morrowind/mods/50689)
-Download only the main file.
+Download only the main file
 
 ## [Walkers of Morrowind](https://www.nexusmods.com/morrowind/mods/49889)
 
 ## [Quick Char (Necro Edit)](https://www.nexusmods.com/morrowind/mods/47706)
-One plugin changes your timescale to 6 and the other leaves it at the default, use only one.
+One plugin changes your timescale to 6 and the other leaves it at the default, use only one
 
 ## [Companion Friendly Lava](https://www.nexusmods.com/morrowind/mods/50890)
 
@@ -795,7 +812,7 @@ Use only the three stronghold plugins as the Ghostfence one conflicts with BCOM
 ## [Lord's Mail and Morningstars](https://www.nexusmods.com/morrowind/mods/49878)
 
 # Rebalance
-These mods rebalance the expansions as if they shipped with the game on release and buffs the Sixth House to make it as hard as it should be, skip this separator if that doesn't sound appealing tp you.
+These mods rebalance the expansions as if they shipped with the game on release and buffs the Sixth House to make it as hard as it should be, skip this separator if that doesn't sound appealing tp you
 
 ## [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)
 
@@ -822,7 +839,7 @@ These mods rebalance the expansions as if they shipped with the game on release 
 ## [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
 
 ## [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
-Replace the icons with the ones in the OpenMW Icons folder.
+Replace the icons with the ones in the OpenMW Icons folder
 
 ## [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
 
@@ -874,7 +891,7 @@ Use only the framerate version
 ## [Scrolls of The Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831)
 
 ## [Silent Island](https://www.nexusmods.com/morrowind/mods/50274)
-Replace the icons with the ones in the OpenMW Icons folder.
+Replace the icons with the ones in the OpenMW Icons folder
 
 ## [Sorcerer of Alteration](https://www.nexusmods.com/morrowind/mods/51224)
 
@@ -901,7 +918,7 @@ Hide or delete:
 
 ## [Beautiful Cities of Morrowind - Grass Patches](https://www.nexusmods.com/morrowind/mods/49231)
 Install:
-Remiros Groundcover
+- Remiros Groundcover
 
 Hide or delete:
 - REM_AC_No_Sheogorad.ESP
