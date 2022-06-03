@@ -1,2 +1,3 @@
 # pharis-mod-list
-My current mod list and load order for anyone that may find it useful as a reference
+My current mod list and load order for anyone that may find it useful as a reference.
+Click [**here**](modlist.md) to get started
