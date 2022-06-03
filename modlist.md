@@ -90,6 +90,11 @@ Install:
 
 # UI
 
+### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
+This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
+
+Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\resources\mygui"```
+
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
 
 ### [Morrowind Enhanced Textures - UI](https://www.nexusmods.com/morrowind/mods/46221)
