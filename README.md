@@ -676,6 +676,6 @@ These are just assets that are used for many other mods such as Tamriel Rebuilt,
 
 # Grass
 
-## [Remiros' Groundcover]()
+## [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
 
-## [Beautiful Cities of Morrowind - Grass Patches]()
+## [Beautiful Cities of Morrowind - Grass Patches](https://www.nexusmods.com/morrowind/mods/49231)
