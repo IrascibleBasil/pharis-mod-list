@@ -1,6 +1,6 @@
 # Before We Start
 
-This list is for OpenMW but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
+This list is for OpenMW but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(**Pharis#2588**) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
 
 ### My System
 For reference this is what I am currently using to play OpenMW: 
@@ -13,14 +13,14 @@ GPU | EVGA 2080 Super Black
 SSD | Crucial P5 Plus NVME SSD 500GB
 Monitor | Dell s2721dgf
 
-With this mod list my FPS is always above 60(even in Old Eboheart) with 25 cell view distance. 
+With this mod list my FPS is always above 60(even in Old Ebonheart) with 25 cell view distance. 
 Click [**here**](config/settings.cfg) for my my full settings.cfg file 
 
 # Utilities
 
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshoooting in general. Personally I have **MO2** in my Modding Folder and the rest in a Modding Tools directory within the same folder.
+These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my **Modding** Folder and the rest in a **Modding Tools** directory within the same folder.
 
-![image](images/Modding Directory.png)
+![image](images/moddingdirectory.png)
 
 ## Necessary
 
@@ -28,7 +28,7 @@ These are programs that are either necessary for this mod list or very helpful i
 
 For modding **OpenMW** I use Mod Organizer 2 with the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin graciously provided by AnyOldName3. This is the method I recommend beecause it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
 
-Do not manually install mods, I will be very disappointed in you.
+*Do not manually install mods, I will be very disappointed in you.*
 
 ### [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
 
@@ -44,7 +44,7 @@ Add to your MO2 executables list.
 
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439)
 
-**Wrye Mash** is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell Wrye Mash where to find your Morrowind installation during the installation process. 
+**Wrye Mash** is a mod manager specifically for Morrowind but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. 
 
 Add to your MO2 executables list.
 
@@ -71,6 +71,11 @@ The mods are in order and organized by separator.
 These are just assets that are used for many other mods such as Tamriel Rebuilt, SHOTN, BCOM, etc.
 
 ### [Tamriel Data HD](https://www.nexusmods.com/morrowind/mods/44537?tab=description)
+Add the following lines to **openmw.cfg**
+```
+fallback-archive=PT_Data.bsa
+fallback-archive=TR_Data.bsa
+```
 
 ### [OAAB Data](https://www.nexusmods.com/morrowind/mods/49042)
 
@@ -85,7 +90,7 @@ Get the HD textures
 Install:
 - adamantium armor compatibility
 
-If you want to use Siege at Firemoth use the one from BCOM - Patches
+If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**.
 
 ### [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
@@ -93,7 +98,7 @@ If you want to use Siege at Firemoth use the one from BCOM - Patches
 
 ### [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155)
 
-### [Adamantium Ore Fix](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
+### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
 
 # UI
 
@@ -115,7 +120,7 @@ If you want to use Siege at Firemoth use the one from BCOM - Patches
 
 # Lua
 
-Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty
+## Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty
 
 ### [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
 
@@ -145,11 +150,8 @@ Replaces all hit voices with silence. Entirely up to personal taste but I person
 
 ### [Less Annoying Shalk Sounds](https://www.nexusmods.com/morrowind/mods/48683)
 
-### [Daggerfall Skeleton Sounds](https://www.nexusmods.com/morrowind/mods/45838)
-Makes skeletons much spookier
-
 ### [REPLACER - Ambient Howl Replacer](https://www.nexusmods.com/morrowind/mods/45988)
-De-sheeps Vvardenfell
+De-sheeps Vvardenfell.
 
 # Landmasses
 
@@ -160,20 +162,20 @@ Install:
 - Preview Content
 - Travel Network for Core, Preview, and Vvardenfell
 
-Download the hotfix and be sure to get both Core and Faction Integration
+Download the hotfix and be sure to get both **Core** and **Faction Integration**.
 
 ### [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
 
 ### [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 Install all modules
 
-Use only one TOTSP TD Content Integration plugin, spiders or no spiders
+Use only one **TOTSP TD Content Integration** plugin, spiders or no spiders.
 
 Hide or delete:
 - TOTSP_abotBoats.esp
-
+- 
 ### [Landscape Overhaul for The White Wolf of Lokken Mountain](https://www.nexusmods.com/morrowind/mods/48862)
-Use only the esm or you will get doubles
+Use only the esm version or you will get doubles.
 
 ### [Legend of Chemua](https://www.nexusmods.com/morrowind/mods/45253) ([Moved](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=93&Itemid=50&-Legend-of-Chemua-Moved))
 Use only the moved plugin or you will get two islands.
@@ -213,10 +215,12 @@ Install:
 - OAAB Pomegranates Patch
 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
-Install the core assets and one of the Glow in the Dahrk patches
+Install:
+- Core
+- 
 
-### [Concept Art Palace(Vivec City](https://www.nexusmods.com/morrowind/mods/48136)
-Install whatever configuration you want just be sure to get the Glow in the Dahrk patch
+### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover)
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 
