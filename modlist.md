@@ -36,13 +36,13 @@ For modding **OpenMW** I use **Mod Organizer 2** with the [**ModOrganizer-to-Ope
 
 This is for analyzing and sorting your load order using a set of ordering rules.
 
-Add to your **MO2** executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the arguments field to stop **mlox** from checking online and opening the GUI. 
+Add to your **MO2** executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the 'Arguments' field to stop **mlox** from checking online and opening the GUI. 
 
 ### [tes3merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
 A tool for automatically patching conflicts between mods by merging changes to objects. For a more detailed description refer to the Nexus page.
 
-Add to your **MO2** executables list.
+Add to your **MO2** executables list and be sure to add the path to your ```Data Files``` in the 'Start in' field otherwise **tes3merge** may not be able to find your plugins.
 
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439)
 
@@ -77,7 +77,9 @@ Add to your **MO2** executables list.
 
 Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass) section. 
 
-The mods are in order and organized by separator.
+The mods are in order and organized by separator. 
+
+To return to the top click the '<sub><sup>^</sup></sub>' next to any separator.
 
 # Assets	[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -400,6 +402,8 @@ Foyada Mamaea Overhaul.esp
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from **OAAB Data**. Use the edited plugin with the original mod's assets.
 
+The original mod was made by **R-Zero**, all credit goes to them, I just rotated some fish.
+
 <details>	<summary>Alternatives</summary>
 
 - []()
@@ -469,7 +473,7 @@ Download:
 	- [x] Weapon Sheathing Patch
 
 ### [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
-Used only as a replacer for the vanilla mist so don't use the plugin.
+Used only as a replacer for the vanilla mist.
 
 Hide or Delete:
 ```
@@ -982,7 +986,7 @@ Don't install HD textures, that will be covered in another mod.
 ### [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
 
 ### [Unique Finery Replacer UFR - No Robe](https://www.nexusmods.com/morrowind/mods/25725)
-Use only the no robe plugin.
+Use only the no robe plugin, robes will be covered by **Better Robes** and **Robe Overhaul**.
 
 Hide or Delete:
 ```
@@ -996,7 +1000,7 @@ UFR_v3dot2.esp
 
 ### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773)
 
-### [Better Robes Tamriel Data Patch]()
+### [Better Robes Tamriel Data Patch](https://www.nexusmods.com/morrowind/mods/44875)
 
 ### [Robe Overhaul](https://www.nexusmods.com/morrowind/mods/43748)
 
@@ -1013,9 +1017,6 @@ Download:
 - **Main File**
 	- [x] Data Files
 	- [x] Complete Armor Joints
-	- [x] HiRez Armors - Native Styles V2
-
-### [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
 
 ### [Improved Pauldron Meshes (Vanilla - Better Morrowind Armor)](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
 
@@ -1046,70 +1047,25 @@ Download:
 
 ### [Imperial Legion Shields](https://www.nexusmods.com/morrowind/mods/45041)
 
-### [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892)
+### [Iron Mesh Improvements - Uniques](https://www.nexusmods.com/morrowind/mods/34863)
+
+### [Improved Weapon Mesh Compilation](https://www.nexusmods.com/morrowind/mods/50886)
+A compilation of many weapon mesh replacers.
+
 Download:
-- **Main File**
-	- [x] Data Files
+- **Improved Weapon Meshes Compilation**
+	- [x] Core
 	- [x] Weapon Sheathing Patch
-	- [x] Improved Thrown Weapons Patch
+	- [x] Correct Iron Warhammer
+	- [x] Patch for Psymon's Iron Mesh Improvements - Uniques
+	- [x] Alternative Longsword and Dagger
+	- [x] Claymore Wooden Sheath
+
+Thank you to **1Mac** both for putting this together and for telling me about it on Discord. All credit for the included assets of course goes to the original authors(links on Nexus page).
 
 ### [Oriental Mesh Improvements](https://www.nexusmods.com/morrowind/mods/29906)
 
-### [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787)
-Download:
-- **Main File**
-	- [x] Core
-	- [x] Weapon Sheathing Patch
-
-### [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792)
-Download:
-- **Main File**
-	- [x] Core
-	- [x] Weapon Sheathing Patch
-
-### [Smooth Glass Weapons](https://www.nexusmods.com/morrowind/mods/46778)
-Download:
-- **SGW Sheathing Patch**
-
-### [Smooth Orcish Weapons](https://www.nexusmods.com/morrowind/mods/46779)
-Delete or Hide:
-```
-a_orcish_cl_pauldron.nif
-```
-
-### [Improved Weapon Meshes - Ebony](https://www.nexusmods.com/morrowind/mods/43484)
-Download:
-- **Main File**
-	- [x] Data Files
-- **Weapon Sheathing patch**
-
-### [Improved Weapon Meshes - Steel](https://www.nexusmods.com/morrowind/mods/43120)
-Download:
-- **Main File**
-	- [x] Data Files
-	- [x] Alternative
-- **Weapon Sheathing Patch**
-	- [x] Data Files
-	- [x] Alternative Longsword & Dagger
-	- [x] Claymore Wooden Sheath
-
-### [Iron Mesh Improvements - Uniques](https://www.nexusmods.com/morrowind/mods/34863)
-
-### [Real Reflective Weapons - Iron](https://www.nexusmods.com/morrowind/mods/43077)
-Download:
-- **Real Reflective Weapons - Iron for OpenMW**
-	- [x] Data Files
-	- [x] Patch for Psymon's Iron Mesh Improvements - [x] Uniques
-	- [x] Weapon Sheathing (OpenMW)
-- **Reizeron's Correct Iron Warhammer**
-
 ### [Chitin Weapons retexture](https://www.nexusmods.com/morrowind/mods/47932)
-
-### [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763)
-Download:
-- **Main File**
-	> Take the meshes from the ```Patches``` folder and put them in the ```Meshes\w``` folder.
-- **Iron Knife patch for Real Reflective Weapons**
 
 ### [Adamantium Axe Replacer](https://www.nexusmods.com/morrowind/mods/46791)
 
@@ -1119,6 +1075,8 @@ Download:
 Download the patch for **Weapon Sheathing**(link above)
 
 ### [Crossbows Enhanced](https://www.nexusmods.com/morrowind/mods/48586)
+Used only as a pluginless replacer.
+
 Download:
 - **Main File**
 	- [x] Core
