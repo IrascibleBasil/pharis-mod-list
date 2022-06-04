@@ -1,22 +1,22 @@
 # Jump to Separator
-- [**Assets**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#assets)
-- [**Fixes**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#fixes)
-- [**UI**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#ui)
-- [**Lua**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#lua)
-- [**Audio**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#audio)
-- [**Landmasses**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#landmasses)
-- [**Cell Edits & Overhauls**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#cell-edits--overhauls)
-- [**Mesh & Texture Replacers**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#mesh--texture-replacers)
-- [**Body & Head Replacers**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#body--head-replacers)
-- [**Creatures**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#creatures)
-- [**Apparel & Weapons**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#apparel--weapons)
-- [**NPCs & Companions**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#npcs--companions)
-- [**Dialogue**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#dialogue)
-- [**Levelled Lists**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#levelled-lists)
-- [**Gameplay**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#gameplay)
-- [**Rebalance**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#rebalance)
-- [**Quests**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#quests)
-- [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#grass)
+- [**Assets**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#assets)
+- [**Fixes**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#fixes)
+- [**UI**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#ui)
+- [**Lua**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#lua)
+- [**Audio**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#audio)
+- [**Landmasses**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#landmasses)
+- [**Cell Edits & Overhauls**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#cell-edits--overhauls)
+- [**Mesh & Texture Replacers**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#mesh--texture-replacers)
+- [**Body & Head Replacers**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#body--head-replacers)
+- [**Creatures**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#creatures)
+- [**Apparel & Weapons**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#apparel--weapons)
+- [**NPCs & Companions**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#npcs--companions)
+- [**Dialogue**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#dialogue)
+- [**Levelled Lists**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#levelled-lists)
+- [**Gameplay**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#gameplay)
+- [**Rebalance**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#rebalance)
+- [**Quests**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#quests)
+- [**Grass**](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#grass)
 
 # Utilities
 
@@ -75,11 +75,11 @@ Add to your **MO2** executables list.
 
 # Before We Start Pt. II
 
-Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/README.md#grass) section. 
+Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list//blob//main/README.md#grass) section. 
 
 The mods are in order and organized by separator.
 
-# Assets		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Assets		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 These are just assets that are used for many other mods such as Tamriel Rebuilt, SHOTN, BCOM, etc.
 
@@ -95,7 +95,7 @@ fallback-archive=TR_Data.bsa
 ### [An Addendum to Tamrielic Lore Data](https://www.nexusmods.com/morrowind/mods/50647)
 Get the HD textures
 
-# Fixes		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Fixes		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
@@ -117,7 +117,7 @@ Download:
 
 ### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
 
-# UI		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# UI		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
 This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
@@ -140,7 +140,7 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 
 ### [Magic Icons(Sigourn Edit)](https://www.nexusmods.com/morrowind/mods/50223)
 
-# Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 **Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty**
 
@@ -150,7 +150,7 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 
 ### [Pursuit(OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
 
-# Audio		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Audio		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255)
 Be sure to only get the replacer file under optional.
@@ -175,7 +175,7 @@ Replaces all hit voices with silence. Entirely up to personal taste but I person
 ### [REPLACER - Ambient Howl Replacer](https://www.nexusmods.com/morrowind/mods/45988)
 De-sheeps Vvardenfell.
 
-# Landmasses		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Landmasses		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
 Download:
@@ -219,7 +219,7 @@ BT_Whitewolf_2_0_HOTV.esp
 ### [Legend of Chemua](https://www.nexusmods.com/morrowind/mods/45253) ([Moved](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=93&Itemid=50&-Legend-of-Chemua-Moved))
 Use only the moved plugin or you will get two islands.
 
-# Cell Edits & Overhauls		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Cell Edits & Overhauls		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
 
@@ -345,7 +345,7 @@ The Cottage.esp
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 
-# Mesh & Texture Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Mesh & Texture Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
 
@@ -637,7 +637,7 @@ Tamriel_Data -  Yes
 
 ### [Pluginless NoGlow Lite](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Body & Head Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Body & Head Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
 
@@ -657,7 +657,7 @@ Use only the Khajiit plugin because the next mod will cover the Argonians.
 
 ### [Pluginless Khajiit Head Pack - Vampires](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Creatures		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Creatures		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
 Used only as a pluginless replacer.
@@ -747,7 +747,7 @@ Download:
 
 ### [Pluginless rat replacer](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Apparel & Weapons		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Apparel & Weapons		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
 Download:
@@ -923,7 +923,7 @@ Download:
 
 ### [Unique Weapon - Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
-# NPCs & Companions		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# NPCs & Companions		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 Feel free to skip the companions if you prefer to travel alone.
 
 ### [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
@@ -938,7 +938,7 @@ Feel free to skip the companions if you prefer to travel alone.
 ### [Services Restored](https://www.nexusmods.com/morrowind/mods/47068)
 This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is added to the game. 2) Hecerinde now sells Secret Master variety of lockpicks and probes (like he did in the unpatched v1.0 of the game).
 
-# Dialogue		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Dialogue		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063)
 
@@ -956,7 +956,7 @@ This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is a
 
 ### [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
 
-# Levelled Lists		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Levelled Lists		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Wares](https://www.nexusmods.com/morrowind/mods/49205)
 Download:
@@ -984,7 +984,7 @@ Tribunal Integrated.esp
 ### [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
 Use only the Area Effect Arrows Integrated plugin.
 
-# Gameplay		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Gameplay		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
 Download:
@@ -1023,7 +1023,7 @@ HM_DDD_Ghostfence_v1.0.esp
 ```
 ### [Lord's Mail and Morningstars](https://www.nexusmods.com/morrowind/mods/49878)
 
-# Rebalance		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Rebalance		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and buffs the Sixth House to make it as hard as it should be, skip this separator if that doesn't sound appealing to you.
 
 Each of these rebalance mods has multiple modular plugins and one full plugin, use only the full version.
@@ -1036,7 +1036,7 @@ Each of these rebalance mods has multiple modular plugins and one full plugin, u
 
 ### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
 
-# Quests		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
+# Quests		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list//blob//main/modlist.md#jump-to-separator)
 
 ### [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692)
 
