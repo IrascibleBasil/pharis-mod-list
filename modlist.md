@@ -1,3 +1,23 @@
+# Jump to Separator
+- [**Assets**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#assets)
+- [**Fixes**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#fixes)
+- [**UI**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#ui)
+- [**Lua**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#lua)
+- [**Audio**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#audio)
+- [**Landmasses**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#landmasses)
+- [**Cell Edits & Overhauls**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#cell-edits--overhauls)
+- [**Mesh & Texture Replacers**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#mesh--texture-replacers)
+- [**Body & Head Replacers**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#body--head-replacers)
+- [**Creatures**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#creatures)
+- [**Apparel & Weapons**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#apparel--weapons)
+- [**NPCs & Companions**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#npcs--companions)
+- [**Dialogue**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#dialogue)
+- [**Levelled Lists**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#levelled-lists)
+- [**Gameplay**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#gameplay)
+- [**Rebalance**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#rebalance)
+- [**Quests**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#quests)
+- [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#grass)
+
 # Utilities
 
 These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my ```Modding``` Folder and the rest in a ```Modding Tools``` directory within the same folder.
@@ -31,6 +51,8 @@ Add to your **MO2** executables list.
 Add to your **MO2** executables list.
 
 ## Not Technically Necessary But Still Get Them
+<details>
+<p>
 
 ### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
 
@@ -46,13 +68,18 @@ Add to your **MO2** executables list.
 
 ### [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.5/)
 
+</p>
+</details>
+
+----
+
 # Before We Start Pt. II
 
 Before moving on to the mod installation be sure to get all of the necessary utilities installed. Multiple mods listed have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/edit/main/README.md#grass) section. 
 
 The mods are in order and organized by separator.
 
-# Assets
+# Assets		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 These are just assets that are used for many other mods such as Tamriel Rebuilt, SHOTN, BCOM, etc.
 
@@ -68,13 +95,14 @@ fallback-archive=TR_Data.bsa
 ### [An Addendum to Tamrielic Lore Data](https://www.nexusmods.com/morrowind/mods/50647)
 Get the HD textures
 
-# Fixes
+# Fixes		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
 ### [Unofficial Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)
-Install:
-- [x] adamantium armor compatibility
+Download:
+- **Main File**
+	- [x] adamantium armor compatibility
 
 If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**.
 
@@ -83,12 +111,13 @@ If you want to use the Siege at Firemoth official plugin use the one from **BCOM
 ### [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)
 
 ### [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155)
-Install:
-- [x] Pfp
+Download:
+- **Main File**
+	- [x] Pfp
 
 ### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
 
-# UI
+# UI		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
 This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
@@ -111,7 +140,7 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 
 ### [Magic Icons(Sigourn Edit)](https://www.nexusmods.com/morrowind/mods/50223)
 
-# Lua
+# Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 **Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty**
 
@@ -121,7 +150,7 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 
 ### [Pursuit(OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
 
-# Audio
+# Audio		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255)
 Be sure to only get the replacer file under optional.
@@ -146,82 +175,101 @@ Replaces all hit voices with silence. Entirely up to personal taste but I person
 ### [REPLACER - Ambient Howl Replacer](https://www.nexusmods.com/morrowind/mods/45988)
 De-sheeps Vvardenfell.
 
-# Landmasses
+# Landmasses		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
-Install:
-- [x] Core
-- [x] Faction Integration
-- [x] Preview Content
-- [x] Travel Network for Core, Preview, and Vvardenfell
-
-Download the **Tamriel Rebuilt 21.01 hotfix 1** and be sure to get both modules.
+Download:
+- **Tamriel Rebuilt**
+	- [x] Core
+	- [x] Faction Integration
+	- [x] Preview Content
+	- [x] Travel Network for Core, Preview, and Vvardenfell
+- **Tamriel Rebuilt 21.01 hotfix 1**
+	- [x] Core
+	- [x] Faction Integration
 
 ### [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
 
 ### [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
-Install:
-- [x] Core
-- [x] Solstheim - Tomb of the Snow Prince
-- [x] TOTSP Patches
-- [x] Missing Snow Armor Pieces
-- [x] Fierce Wolf Helms
-- [x] Hide-Like Animal Pelts
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Solstheim - Tomb of the Snow Prince
+	- [x] TOTSP Patches
+	- [x] Missing Snow Armor Pieces
+	- [x] Fierce Wolf Helms
+	- [x] Hide-Like Animal Pelts
 
 Use only one **TOTSP TD Content Integration** plugin, spiders or no spiders.
 
 Hide or Delete:
-- TOTSP_abotBoats.esp
-
+```
+TOTSP_abotBoats.esp
+```
 ### [Landscape Overhaul for The White Wolf of Lokken Mountain](https://www.nexusmods.com/morrowind/mods/48862)
-Install:
-- [x] Core
-- [x] Remiros Groundcover addon
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Remiros Groundcover addon
 
 Hide or Delete:
-- BT_Whitewolf_2_0_HOTV.esp
-
+```
+BT_Whitewolf_2_0_HOTV.esp
+```
 ### [Legend of Chemua](https://www.nexusmods.com/morrowind/mods/45253) ([Moved](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=93&Itemid=50&-Legend-of-Chemua-Moved))
 Use only the moved plugin or you will get two islands.
 
-# Cell Edits & Overhauls
+# Cell Edits & Overhauls		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
-### [Beautiful Cities of Morrowind - Core](https://www.nexusmods.com/morrowind/mods/49231)
-Install:
-- [x] Core
-- [x] Hlaalu Council Hall Plaza - Izy Style
-- [x] Riverside - Stone Dock
-- [x] Weather Mechanics for (OpenMW) - Required
-- [x] Suran dock expansion & clutter addon
-- [x] White Suran
-- [x] Stav's Mages Guilds
-- [x] Taller Lighthouse
-- [x] Expanded Sadrith Mora Dock
+### [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
 
-### BCOM - Patches
-Install:
-- [x] Patch for Purists Patch
-- [x] Foyada Mamaea Overhaul
-- [x] Improved Inns Expanded
-- [x] Scrolls of the Nine Barriers
-- [x] Concept Art Plantations
-- [x] TR_Travels (Mainland and Preview)
-- [x] Skyrim Home of the Nords Patch
-- [x] Ebonheart Underworks
-- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
-- [x] Bounty Hunter Bundle
-- [x] Ashlander Traders Remastered
-- [x] Ghastly Glowfence Patch
-- [x] Guild of Vampire Hunters
-- [x] Dura_Gra-Bols_House_Reclaimed
-- [x] Glass Domes
-- [x] The Cottage
-- [x] OAAB Pomegranates Patch
+### [Concept Art Plantations](https://www.nexusmods.com/morrowind/mods/50020)
+Only the assets are needed, use the plugin from **BCOM - Patches**.
+
+### [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+Download:
+- **Beautiful Cities of Morrowind - BCOM Core**
+	- [x] Core
+	- [x] Hlaalu Council Hall Plaza - Izy Style
+	- [x] Riverside - Stone Dock
+	- [x] Weather Mechanics for (OpenMW) - Required
+	- [x] Suran dock expansion & clutter addon
+	- [x] White Suran
+	- [x] Stav's Mages Guilds
+	- [x] Taller Lighthouse
+	- [x] Expanded Sadrith Mora Dock
+- **BCOM - Patches**
+	- [x] Patch for Purists Patch
+	- [x] Foyada Mamaea Overhaul
+	- [x] Improved Inns Expanded
+	- [x] Scrolls of the Nine Barriers
+	- [x] Concept Art Plantations
+	- [x] TR_Travels (Mainland and Preview)
+	- [x] Skyrim Home of the Nords Patch
+	- [x] Ebonheart Underworks
+	- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
+	- [x] Bounty Hunter Bundle
+	- [x] Ashlander Traders Remastered
+	- [x] Ghastly Glowfence Patch
+	- [x] Guild of Vampire Hunters
+	- [x] Dura_Gra-Bols_House_Reclaimed
+	- [x] Glass Domes
+	- [x] The Cottage
+	- [x] OAAB Pomegranates Patch
+- **Beautiful Cities of Morrowind - Project Atlas and GITD Patches**
+	- [x] Project Atlas Patch
+	- [x] GITD + Atlas
+	- [x] Balmora Bridges with bigger arch - Atlas
+	- [x] Stav MGO - GITD + Atlas
+	- [x] RR Ghostgate Fortress - GITD
+	- [x] Vanilla Style Ghostfence Pillars
+- **Beautiful Cities of Morrowind - HD Textures**
 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
-Install:
-- [x] Core Visual Assets
-- [x] Glow in the Dahrk Patch - flickering
+Download:
+- **Main File**
+	- [x] Core Visual Assets
+	- [x] Glow in the Dahrk Patch - flickering
 
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
 Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover)
@@ -229,28 +277,16 @@ Install whatever configuration you want just be sure to get the Glow in the Dahr
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 
 ### [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786)
-Install:
-- [x] Core
-- [x] No dialogue and book edits version
-
-### [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
-
-### [Concept Art Plantations](https://www.nexusmods.com/morrowind/mods/50020)
-Only the assets are needed, use the plugin from BCOM - Patches.
-
-### [Beautiful Cities of Morrowind - Project Atlas and GITD Patches](https://www.nexusmods.com/morrowind/mods/49231)
-Install:
-- [x] Project Atlas Patch
-- [x] GITD + Atlas
-- [x] Balmora Bridges with bigger arch - Atlas
-- [x] Stav MGO - GITD + Atlas
-- [x] RR Ghostgate Fortress - GITD
-- [x] Vanilla Style Ghostfence Pillars
+Download:
+- **Main File**
+	- [x] Core
+	- [x] No dialogue and book edits version
 
 ### [Skar Face(Ald-Ruhn)](https://www.nexusmods.com/morrowind/mods/49510)
-Install:
-- [x] Core
-- [x] BCOM Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] BCOM Patch
 
 ### [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
 
@@ -261,16 +297,18 @@ Install:
 ### [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
 
 ### [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
-Install:
-- [x] Core
-- [x] Female Guards
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Female Guards
 
 Get the **Arachnophobia Friendly Patch** if you don't like spiders.
 
 ### [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
-Install:
-- [x] Core
-- [x] Remiros Groundcover GL Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Remiros Groundcover GL Patch
 
 ### [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
 
@@ -279,11 +317,12 @@ Install:
 ### [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
 
 ### [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
-Only the assets are needed, use the plugin from BCOM - Patches
+Only the assets are needed, use the plugin from **BCOM - Patches**
 
 Hide or Delete:
-- Foyada Mamaea Overhaul.esp
-
+```
+Foyada Mamaea Overhaul.esp
+```
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from **OAAB Data**. Use the edited plugin with the original mod's assets.
 
@@ -292,11 +331,12 @@ Since the hanging slaughterfish squirm around in OpenMW I have provided an edite
 ### [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
 This mod adds a cozy little cottage on the outskirts of Gnisis.
 
-Only the assets are needed, use the plugin from BCOM - Patches.
+Only the assets are needed, use the plugin from **BCOM - Patches**.
 
 Hide or Delete:
-- The Cottage.esp
-
+```
+The Cottage.esp
+```
 ### [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
 
 ### [Serandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056)
@@ -305,12 +345,12 @@ Hide or Delete:
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 
-# Mesh & Texture Replacers
+# Mesh & Texture Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
-Download the **OpenMW** version.
 
-Install:
+Download:
+- **WeaponSheathing1.6-OpenMW**
 - [x] Data Files
 
 ### [Weapon Sheathing Additions](https://www.nexusmods.com/morrowind/mods/49616)
@@ -332,9 +372,10 @@ Download:
 ### [Telvanni Door Handle](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
 ### [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
-Install:
-- [x] Core
-- [x] Weapon Sheathing Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Weapon Sheathing Patch
 
 ### [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 Used only as a replacer for the vanilla mist so don't use the plugin.
@@ -348,10 +389,11 @@ Download:
 - **RR - Better Crystals 1.0**
 
 ### [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747) ([flask fix]())
-Install:
-- [x] Core
-- [x] Beaker, Flasks - clear glass
-- [x] Inkwell - cut glass
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Beaker, Flasks - clear glass
+	- [x] Inkwell - cut glass
 
 ### [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
 Install the smoothed meshes and the fix linked above.
@@ -359,28 +401,29 @@ Install the smoothed meshes and the fix linked above.
 ### [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
 
 ### [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
-Install:
-- [x] Nord Glass Windows
-- [x] Raven Rock Windows
+Download:
+- **Main File**
+	- [x] Nord Glass Windows
+	- [x] Raven Rock Windows
 
 ### [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
 
 ### [Solstheim Graphical Replacer](https://www.nexusmods.com/morrowind/mods/46810)
-Install:
-- [x] Solstheim - HD Worldspace Graphical Replacer
-- [x] Skyrim-Like Trees
-- [x] Remiros' Groundcover for TOTSP
+Download:
+- **Solstheim Graphical Replacer**
+	- [x] Solstheim - HD Worldspace Graphical Replacer
+	- [x] Skyrim-Like Trees
+	- [x] Remiros' Groundcover for TOTSP
 
 ### [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
-Install:
-- [x] Core
-- [x] Urns - Smoothed
-- [x] Redware - Smoothed
-- [x] Emperor Parasols - Smoothed
-- [x] Glow in the Dahrk Patch
-- [x] Graphic Herbalism Patch
-
 Download:
+- **Project Atlas**
+	- [x] Core
+	- [x] Urns - Smoothed
+	- [x] Redware - Smoothed
+	- [x] Emperor Parasols - Smoothed
+	- [x] Glow in the Dahrk Patch
+	- [x] Graphic Herbalism Patch
 - **Hotfix 0.7.2**
 - **Textures - MET**
 
@@ -416,41 +459,46 @@ Pick the no billboard leaves option so the leaves don't follow you.
 ### [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 
 ### [Pherim Comberry Bush 2.4](https://www.nexusmods.com/morrowind/mods/42586)
-Install:
-- [x] Data Files
-- [x] Vanilla Style Textures
+Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Vanilla Style Textures
 
 ### [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
-Install:
-- [x] Default Red
+Download:
+- **Main File**
+	- [x] Default Red
 
 ### [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
-Install:
-- [x] Data Files
-- [x] Pulsing Animation
+Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Pulsing Animation
 
 ### [Hackle-lo Fixed](https://www.nexusmods.com/morrowind/mods/42784)
 
 ### [Epic Plants - Modular](https://www.nexusmods.com/morrowind/mods/46180)
-Install:
-- [x] Ascadian Isles - Grass
-- [x] Ashland - Grass
-- [x] Ashland - Scathecraw
-- [x] Ashland - Trama Root
-- [x] Bitter Coast - 2D Moss
-- [x] Bitter Coast - Grass
-- [x] Bitter Coast - Lily Pad
-- [x] Grazelands - Marshmerrow
-- [x] MWSE and OpenMW GH Patch - Marshmerrow
-- [x] MWSE and OpenMW GH Patch - Scathecraw
-- [x] MWSE and OpenMW GH Patch - Trama Root
+Download:
+- **Main File**
+	- [x] Ascadian Isles - Grass
+	- [x] Ashland - Grass
+	- [x] Ashland - Scathecraw
+	- [x] Ashland - Trama Root
+	- [x] Bitter Coast - 2D Moss
+	- [x] Bitter Coast - Grass
+	- [x] Bitter Coast - Lily Pad
+	- [x] Grazelands - Marshmerrow
+	- [x] MWSE and OpenMW GH Patch - Marshmerrow
+	- [x] MWSE and OpenMW GH Patch - Scathecraw
+	- [x] MWSE and OpenMW GH Patch - Trama Root
 
 ### [GH Patches and Replacers](https://www.nexusmods.com/morrowind/mods/46599)
-Install:
-- [x] Correct UV Ore + README
-- [x] Pherim's Replacers
-- [x] Pherim Pulsing Kwama
-- [x] Less Epic Plants
+Download:
+- **Main File**
+	- [x] Correct UV Ore + README
+	- [x] Pherim's Replacers
+	- [x] Pherim Pulsing Kwama
+	- [x] Less Epic Plants
 
 The Project Atlas patch is outdated, skip it.
 
@@ -472,8 +520,9 @@ Atlas provided in **My Atlas Texture Collection**.
 ### [Imperial Door Fixes](https://www.nexusmods.com/morrowind/mods/47266?tab=description)
 
 ### [Dry Stone Walls Revamped](https://www.nexusmods.com/morrowind/mods/49069)
-Install:
-- [x] UV fixes and smoother - rockless walls
+Download:
+- **Main File**
+	- [x] UV fixes and smoother - rockless walls
 
 ### [Dragon Statue Revisited](https://www.nexusmods.com/morrowind/mods/50561)
 Use the Imperial base if you want, I personally don't
@@ -520,16 +569,18 @@ Atlas provided in **My Atlas Texture Collection**.
 ### [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
 
 ### [Swappable Texture Signposts](https://www.nexusmods.com/morrowind/mods/46804)
-Install:
-- [x] 1a Simple Signs
-- [x] Tyddy Style Simple Signs
+Download:
+- **Main File**
+	- [x] 1a Simple Signs
+	- [x] Tyddy Style Simple Signs
 
 ### [Swayland](https://www.nexusmods.com/morrowind/mods/48854)
 
 ### [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
-Install:
-- [x] Core
-- [x] Tamriel Rebuilt Water
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Tamriel Rebuilt Water
 
 ### [Crystal Soul Gems](https://www.nexusmods.com/morrowind/mods/48300)
 
@@ -538,9 +589,10 @@ Install:
 ### [All Books Color-Coded and Designed](https://www.nexusmods.com/morrowind/mods/50536)
 
 ### [Melchior's Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626)
-Install:
-- [x] Core
-- [x] ABCD Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] ABCD Patch
 
 ### [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339)
 Hide or Delete:
@@ -552,12 +604,11 @@ Old_dwemer_books_Better_typography.esp
 ### [Pete's Scroll With Daedric Alphabet](https://www.nexusmods.com/morrowind/mods/47863)
 
 ### [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
-Install:
-- [x] Data Files
-- [x] Optional Animated Bellows
-- [x] Optional Texture for Glowing Ash
-
 Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Optional Animated Bellows
+	- [x] Optional Texture for Glowing Ash
 - **HD Bloodmoon Forge**
 
 ### [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
@@ -586,7 +637,7 @@ Tamriel_Data -  Yes
 
 ### [Pluginless NoGlow Lite](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Body & Head Replacers
+# Body & Head Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
 
@@ -606,7 +657,7 @@ Use only the Khajiit plugin because the next mod will cover the Argonians.
 
 ### [Pluginless Khajiit Head Pack - Vampires](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Creatures
+# Creatures		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
 Used only as a pluginless replacer.
@@ -628,24 +679,26 @@ Download:
 This mod comes with a few splash screens that fit well with vanilla but stand out when used alongside high-quality modded ones like the ones in this list, for that reason I recommend deleting the splash folder.
 
 ### [By Azura](https://www.nexusmods.com/morrowind/mods/50567)
-Install:
-- [x] Core
-- [x] High Res Textures
-- [x] Raw Animation Frames
+Download:
+- **Main File**
+	- [x] Core
+	- [x] High Res Textures
+	- [x] Raw Animation Frames
 
 ### [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
-Install:
-- [x] Core
-- [x] Glowing Netch and Netch Betty
-- [x] Daedric creatures use bound weapons
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Glowing Netch and Netch Betty
+	- [x] Daedric creatures use bound weapons
 
 ### [Daedric Intervention - Creatures](https://www.nexusmods.com/morrowind/mods/46044?tab=files)
 This mod is poorly packaged so you will have to take the meshes and textures files from each subfolder and combine them.
 
 ### [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137)
 Download:
-- CreaturesMeshes
-- CreaturesTextures
+- **CreaturesMeshes**
+- **CreaturesTextures**
 
 ### [Qwerty's Various Graphics - Atronachs Textures](https://www.nexusmods.com/morrowind/mods/46026)
 
@@ -656,13 +709,14 @@ Download:
 
 ### [Scamp Replacer - Glowing Eyes](https://www.nexusmods.com/morrowind/mods/44314)
 Download:
-- Glowing Eyes
+- **Glowing Eyes**
 
 Only the Glowing Eyes file is needed as it includes everything in the main file.
 
 ### [Spriggans Glow](https://www.nexusmods.com/morrowind/mods/43350)
-Install:
-- [x] MD Replacer
+Download:
+- **Main File**
+	- [x] MD Replacer
 
 ### [Corprus Natives](https://www.nexusmods.com/morrowind/mods/45674)
 
@@ -683,8 +737,9 @@ Install:
 ### [PB Cliff Racer Replacer 2.0](https://www.nexusmods.com/morrowind/mods/48978)
 
 ### [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
-Install:
-- [x] Data Files
+Download:
+- **Main File**
+	- [x] Data Files
 
 ### [Nix-Hound Replacer 1.0](https://www.nexusmods.com/morrowind/mods/43620)
 
@@ -692,11 +747,12 @@ Install:
 
 ### [Pluginless rat replacer](https://www.nexusmods.com/morrowind/mods/43795)
 
-# Apparel & Weapons
+# Apparel & Weapons		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
-Install:
-- [x] #Data Files
+Download:
+- **Main File**
+	- [x] #Data Files
 
 Don't install HD textures, that will be covered in another mod.
 
@@ -736,10 +792,11 @@ Download:
 The data files for this mod are one file too deep.
 
 ### [Better Morrowind Armor Fixes](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
-Install:
-- [x] Data Files
-- [x] Complete Armor Joints
-- [x] HiRez Armors - Native Styles V2
+Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Complete Armor Joints
+	- [x] HiRez Armors - Native Styles V2
 
 ### [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
 
@@ -752,8 +809,9 @@ Install:
 ### [RR Mod Series - Better Telvanni Cephalopod Armor](https://www.nexusmods.com/morrowind/mods/44837) ([No Back Shell](https://www.nexusmods.com/morrowind/mods/49334))
 Only the Assets are needed.
 
-Install:
-- [x] Main Files
+Download:
+- **Main File**
+	- [x] Main Files
 
 ### [Orcish retexture](https://www.nexusmods.com/morrowind/mods/43502)
 
@@ -772,25 +830,29 @@ Install:
 ### [Imperial Legion Shields](https://www.nexusmods.com/morrowind/mods/45041)
 
 ### [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892)
-Install:
-- [x] Data Files
-- [x] Weapon Sheathing Patch
-- [x] Improved Thrown Weapons Patch
+Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Weapon Sheathing Patch
+	- [x] Improved Thrown Weapons Patch
 
 ### [Oriental Mesh Improvements](https://www.nexusmods.com/morrowind/mods/29906)
 
 ### [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787)
-Install:
-- [x] Core
-- [x] Weapon Sheathing Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Weapon Sheathing Patch
 
 ### [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792)
-Install:
-- [x] Core
-- [x] Weapon Sheathing Patch
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Weapon Sheathing Patch
 
 ### [Smooth Glass Weapons](https://www.nexusmods.com/morrowind/mods/46778)
-Download the Weapon Sheathing patch.
+Download:
+- **SGW Sheathing Patch**
 
 ### [Smooth Orcish Weapons](https://www.nexusmods.com/morrowind/mods/46779)
 Delete or Hide:
@@ -799,39 +861,38 @@ a_orcish_cl_pauldron.nif
 ```
 
 ### [Improved Weapon Meshes - Ebony](https://www.nexusmods.com/morrowind/mods/43484)
-Install:
-- [x] Data Files
-
-Download the **Weapon Sheathing patch**.
+Download:
+- **Main File**
+	- [x] Data Files
+- **Weapon Sheathing patch**
 
 ### [Improved Weapon Meshes - Steel](https://www.nexusmods.com/morrowind/mods/43120)
-Install:
-- [x] Data Files
-- [x] Alternative
-
-Download the **Weapon Sheathing Patch**
-
-Install:
-- [x] Data Files
-- [x] Alternative Longsword & Dagger
-- [x] Claymore Wooden Sheath
+Download:
+- **Main File**
+	- [x] Data Files
+	- [x] Alternative
+- **Weapon Sheathing Patch**
+	- [x] Data Files
+	- [x] Alternative Longsword & Dagger
+	- [x] Claymore Wooden Sheath
 
 ### [Iron Mesh Improvements - Uniques](https://www.nexusmods.com/morrowind/mods/34863)
 
 ### [Real Reflective Weapons - Iron](https://www.nexusmods.com/morrowind/mods/43077)
-Download the OpenMW version.
-
-Install:
-- [x] Data Files
-- [x] Patch for Psymon's Iron Mesh Improvements - [x] Uniques
-- [x] Weapon Sheathing (OpenMW)
+Download:
+- **Real Reflective Weapons - Iron for OpenMW**
+	- [x] Data Files
+	- [x] Patch for Psymon's Iron Mesh Improvements - [x] Uniques
+	- [x] Weapon Sheathing (OpenMW)
+- **Reizeron's Correct Iron Warhammer**
 
 ### [Chitin Weapons retexture](https://www.nexusmods.com/morrowind/mods/47932)
 
 ### [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763)
-Take the meshes from the ```Patches``` folder and put them in the ```Meshes\w``` folder.
-
-Download **Iron Knife patch for Real Reflective Weapons**
+Download:
+- **Main File**
+	> Take the meshes from the ```Patches``` folder and put them in the ```Meshes\w``` folder.
+- **Iron Knife patch for Real Reflective Weapons**
 
 ### [Adamantium Axe Replacer](https://www.nexusmods.com/morrowind/mods/46791)
 
@@ -841,10 +902,11 @@ Download **Iron Knife patch for Real Reflective Weapons**
 Download the patch for **Weapon Sheathing**(link above)
 
 ### [Crossbows Enhanced](https://www.nexusmods.com/morrowind/mods/48586)
-Install:
-- [x] Core
-- [x] (Optional) Icon Replacer
-- [x] (Patch) Weapon Sheathing
+Download:
+- **Main File**
+	- [x] Core
+	- [x] (Optional) Icon Replacer
+	- [x] (Patch) Weapon Sheathing
 
 ### [PikachunoTMs Mesh Artifact Improvements and Replacers](https://www.nexusmods.com/morrowind/mods/45631)
 
@@ -861,7 +923,7 @@ Download:
 
 ### [Unique Weapon - Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
-# NPCs & Companions
+# NPCs & Companions		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 Feel free to skip the companions if you prefer to travel alone.
 
 ### [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
@@ -871,11 +933,12 @@ Feel free to skip the companions if you prefer to travel alone.
 ### [War Kagouti Companion - Mausi](https://www.nexusmods.com/morrowind/mods/45169)
 
 ### [Stripes the Cat](https://www.nexusmods.com/morrowind/mods/51086) ([Required](https://mw.modhistory.com/download-24-15599))
+***You are legally required to download this mod.***
 
 ### [Services Restored](https://www.nexusmods.com/morrowind/mods/47068)
 This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is added to the game. 2) Hecerinde now sells Secret Master variety of lockpicks and probes (like he did in the unpatched v1.0 of the game).
 
-# Dialogue
+# Dialogue		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063)
 
@@ -893,23 +956,22 @@ This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is a
 
 ### [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
 
-# Levelled Lists
+# Levelled Lists		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Wares](https://www.nexusmods.com/morrowind/mods/49205)
-Install:
-- [x] Master file
-- [x] TR
-
 Download:
-- OAAB Wares
-- BCOM Wares
-- Wares for Lokken
+- **Main File**
+	- [x] Master file
+	- [x] TR
+- **OAAB Wares**
+- **BCOM Wares**
+- **Wares for Lokken**
 
 ### [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
 Download:
-- OAAB Creature Loot
-- OAAB Levelled Creatures
-- OAAB Levelled Lists
+- **OAAB Creature Loot**
+- **OAAB Levelled Creatures**
+- **OAAB Levelled Lists**
 
 ### [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
 Use only the **Expansions Integrated - Fewer BM Creatures** plugin.
@@ -922,12 +984,13 @@ Tribunal Integrated.esp
 ### [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
 Use only the Area Effect Arrows Integrated plugin.
 
-# Gameplay
+# Gameplay		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
-Install:
-- [x] Core
-- [x] Static Add-Ons (OpenMW)
+Download:
+- **Main File**
+	- [x] Core
+	- [x] Static Add-Ons (OpenMW)
 
 Hide or Delete:
 ```
@@ -960,7 +1023,7 @@ HM_DDD_Ghostfence_v1.0.esp
 ```
 ### [Lord's Mail and Morningstars](https://www.nexusmods.com/morrowind/mods/49878)
 
-# Rebalance
+# Rebalance		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and buffs the Sixth House to make it as hard as it should be, skip this separator if that doesn't sound appealing to you.
 
 Each of these rebalance mods has multiple modular plugins and one full plugin, use only the full version.
@@ -973,7 +1036,7 @@ Each of these rebalance mods has multiple modular plugins and one full plugin, u
 
 ### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
 
-# Quests
+# Quests		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/edit/main/modlist.md#jump-to-separator)
 
 ### [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692)
 
@@ -982,8 +1045,9 @@ Each of these rebalance mods has multiple modular plugins and one full plugin, u
 ### [A Hermits Request](https://www.nexusmods.com/morrowind/mods/23714)
 
 ### [A Merchant's Whim](https://www.nexusmods.com/morrowind/mods/51068)
-Install
-- [x] Core
+Download:
+- **Main File**
+	- [x] Core
 
 ### [Ancient Foes](https://www.nexusmods.com/morrowind/mods/44705)
 
@@ -1002,7 +1066,7 @@ Use only the TotSP plugin(link above).
 ### [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 
 ### [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
-Only the assets are needed, use the plugin from BCOM Patches.
+Only the assets are needed, use the plugin from **BCOM Patches**.
 
 Hide or Delete:
 ```
@@ -1038,12 +1102,13 @@ Use only the TR plugin(link above).
 ### [Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul](https://www.nexusmods.com/morrowind/mods/51171)
 
 ### [Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
-Install:
-- [x] Helm of Tohan Naturalized
-- [x] Master Index Naturalized
+Download:
+- **Main File**
+	- [x] Helm of Tohan Naturalized
+	- [x] Master Index Naturalized
 
 ### [Of Justice and Innocence](https://www.nexusmods.com/morrowind/mods/34046)
-Use only the framerate version
+Use only the framerate version.
 
 Hide or Delete:
 ```
@@ -1067,11 +1132,12 @@ Download Stolen Sweetrolls Telvanni Mesh Improvement and Ashen Divide Patch and 
 # Grass
 
 ### [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
-Install:
-- [x] Core OpenMW
-- [x] TR Plugins
-- [x] TR Preview Plugins
-- [x] Legend of Chemua Moved
+Download:
+- **Main File**
+	- [x] Core OpenMW
+	- [x] TR Plugins
+	- [x] TR Preview Plugins
+	- [x] Legend of Chemua Moved
 
 Hide or Delete:
 ```
@@ -1079,8 +1145,9 @@ Rem_GL.esp
 Rem_Solstheim.esp
 ```
 ### [Beautiful Cities of Morrowind - Grass Patches](https://www.nexusmods.com/morrowind/mods/49231)
-Install:
-- [x] Remiros Groundcover
+Download:
+- **BCoM - Grass Patches**
+	- [x] Remiros Groundcover
 
 Hide or Delete:
 ```
