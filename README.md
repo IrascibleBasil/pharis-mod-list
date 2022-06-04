@@ -22,4 +22,8 @@ Click [**here**](config/settings.cfg) for my my full settings.cfg file
 
 Click [**here**](modlist.md) to get started
 
-
+## TODO
+- Populate Alternatives under mods
+- Add descriptions to mods that are currently missing them
+- Adapt list to work with original engine(add MWSE section, compatibilty notes, etc.)
+- Add screenshots
