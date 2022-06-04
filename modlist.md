@@ -1152,6 +1152,8 @@ Feel free to skip the companions if you prefer to travel alone.
 ### [Stripes the Cat](https://www.nexusmods.com/morrowind/mods/51086) ([Required](https://mw.modhistory.com/download-24-15599))
 ***You are legally required to download this mod.***
 
+[**CLick Me**](https://www.youtube.com/watch?v=5jKZ9KGtee0&ab_channel=CavinWeber)
+
 ### [Services Restored](https://www.nexusmods.com/morrowind/mods/47068)
 This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is added to the game. 2) Hecerinde now sells Secret Master variety of lockpicks and probes (like he did in the unpatched v1.0 of the game).
 
