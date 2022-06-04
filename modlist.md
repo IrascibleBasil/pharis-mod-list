@@ -154,7 +154,7 @@ HD UI textures, recommended for high DPI displays.
 
 ### [De-outlandered main menu and Daedric UI textures](https://www.nexusmods.com/morrowind/mods/46805)
 High quality main menu replacer.
-### [RFD's Splash Screens](nexusmods.com/morrowind/mods/47400)
+### [RFD's Splash Screens](https://www.nexusmods.com/morrowind/mods/47400)
 Very well made splash screens. (thanks **RFD**)
 
 <details>	<summary>Alternatives</summary>
