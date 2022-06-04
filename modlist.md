@@ -588,13 +588,13 @@ Tamriel_Data -  Yes
 
 # Body & Head Replacers
 
-### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395) ([Fixed Meshes]())
+### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
 
 ### [Better Bodies - Hand Fixes](https://www.nexusmods.com/morrowind/mods/47521)
 
 ### [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 
-### [Color Tweaked Westly's BB Textures]()
+### [Color Tweaked Westly's BB Textures](mods/Color%20Tweaked%20Westly's%20BB%20Textures.7z)
 Full credit goes to Westly for creating these textures, I simply tweaked the color of a few of them to match WFR.
 
 ### [New Beast Bodies by Liztail](https://www.nexusmods.com/morrowind/mods/47678)
