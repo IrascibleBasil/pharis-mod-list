@@ -98,8 +98,13 @@ Get the HD textures
 # Fixes		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+Unofficial patch mod that takes a conservative approach to what is considered a bug, in contrast with some past(and [current](https://www.nexusmods.com/skyrimspecialedition/mods/266)) community patch projects that introduced unnecessary gameplay alterations. If you use only one mod, pick this one.
+
+**Disclaimer: Do not clean this mod with tes3cmd**
 
 ### [Unofficial Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)
+An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.
+
 Download:
 - **Main File**
 	- [x] adamantium armor compatibility
@@ -107,17 +112,24 @@ Download:
 If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**.
 
 ### [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
+Fixes Bethesda's scuffed expansion integration, that assumed you had already completed the main quest as soon as you took a nap in Seyda Neen, by appropriately delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
 
 ### [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)
+Relocates Dubdilla to where it was most likely originally intended to go and where the voiced dialogue sends you.
 
 ### [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155)
+Fixes multiple issues with the Corprusarium puzzle.
+
 Download:
 - **Main File**
 	- [x] Pfp
 
 ### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
+Fixes the adamantium ore in Tribunal by allowing the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks.
 
-# UI		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
+Mod originally made by [**Half11**](https://www.nexusmods.com/morrowind/mods/47068), **Patch for Purists** changes forwarded by **Sigourn**.
+
+# UI	[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
 This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
@@ -127,18 +139,46 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
 
 ### [Morrowind Enhanced Textures - UI](https://www.nexusmods.com/morrowind/mods/46221)
+HD UI textures, recommended for high DPI displays.
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [De-outlandered main menu and Daedric UI textures](https://www.nexusmods.com/morrowind/mods/46805)
-
+High quality main menu replacer.
 ### [RFD's Splash Screens](nexusmods.com/morrowind/mods/47400)
+Very well made splash screens. (thanks **RFD**)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Faithful HD Cursors](https://www.nexusmods.com/morrowind/mods/50764)
+Vanilla-style HD Cursor, recommended for high DPI displays.
 
 ### [Better Morrowind Crosshair](https://www.nexusmods.com/morrowind/mods/50873)
+What the title says.
 
 ### [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
+High resolution Icon replacer that makes icons look much sharper, recommended for high DPI displays.
 
 ### [Magic Icons(Sigourn Edit)](https://www.nexusmods.com/morrowind/mods/50223)
+Replaces the magic icon used for enchanted items in your inventory.
 
 # Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -153,7 +193,8 @@ Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\r
 # Audio		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255)
-Be sure to only get the replacer file under optional.
+Download:
+- **Aura 3.0 - Replacer**
 
 ### [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826)
 
@@ -222,11 +263,21 @@ Use only the moved plugin or you will get two islands.
 # Cell Edits & Overhauls	[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Guar Stables of Vivec](https://www.nexusmods.com/morrowind/mods/50118)
+Adds a guar stables outside Vivec, near the Foreign Quarter.
 
 ### [Concept Art Plantations](https://www.nexusmods.com/morrowind/mods/50020)
+A concept art-based overhaul of the Arvel and Dren plantations made by the very talented **Duo Dynamico**(**RandomPal** & **Vegetto88**)
+
 Only the assets are needed, use the plugin from **BCOM - Patches**.
 
+Hide or Delete:
+```
+Concept Art Plantations.esp
+```
+
 ### [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+Best city mod there is, I only wish I could endorse it twice. For more information read the Nexus description(challenge: Impossible) and refer to the [linked google doc](https://docs.google.com/document/d/1mO75n7f6X6EH1SmmQ-CmPHvdPbH30Q3OWyn-PDSCnys/edit?usp=sharing) that explains the patches.
+
 Download:
 - **Beautiful Cities of Morrowind - BCOM Core**
 	- [x] Core
@@ -272,9 +323,23 @@ Download:
 	- [x] Glow in the Dahrk Patch - flickering
 
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+Makes the palace of Vivec worthy of a god.
+
 Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover)
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
+Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786)
 Download:
@@ -291,12 +356,16 @@ Download:
 ### [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
 
 ### [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
+Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
 
 ### [Dagon Fel Mill Redux](https://www.nexusmods.com/morrowind/mods/50067)
+Wonderful revival of [an old mod](https://www.nexusmods.com/morrowind/mods/42981) by **RandomPal**.
 
 ### [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
 
 ### [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
+**OAAB** = Good
+
 Download:
 - **Main File**
 	- [x] Core
@@ -305,16 +374,21 @@ Download:
 Get the **Arachnophobia Friendly Patch** if you don't like spiders.
 
 ### [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+**OAAB** = Good
+
 Download:
 - **Main File**
 	- [x] Core
 	- [x] Remiros Groundcover GL Patch
 
 ### [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
+**OAAB** = Good
 
 ### [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
+**OAAB** = Good
 
 ### [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
+**OAAB** = Good
 
 ### [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
 Only the assets are needed, use the plugin from **BCOM - Patches**
@@ -325,6 +399,17 @@ Foyada Mamaea Overhaul.esp
 ```
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from **OAAB Data**. Use the edited plugin with the original mod's assets.
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
 
@@ -340,20 +425,24 @@ The Cottage.esp
 ### [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
 
 ### [Serandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056)
+Overhauls the interior of Ienis Sarandas' house into an estate more befitting a once-wealthy family.
 
 ### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 
 # Mesh & Texture Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+Makes unreadied weapons appear on the character's hip or back.
 
 Download:
 - **WeaponSheathing1.6-OpenMW**
 - [x] Data Files
 
 ### [Weapon Sheathing Additions](https://www.nexusmods.com/morrowind/mods/49616)
+A few unique sheathes for weapons that were lacking them.
 
 ### [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
 
@@ -372,6 +461,8 @@ Download:
 ### [Telvanni Door Handle](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
 ### [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
+Fixes many mesh errors and improves performance, if you don't have this mod you're doing it wrong.
+
 Download:
 - **Main File**
 	- [x] Core
@@ -379,16 +470,21 @@ Download:
 
 ### [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 Used only as a replacer for the vanilla mist so don't use the plugin.
+
 Hide or Delete:
 ```
 Mistify.esp
 ```
 ### [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266) ([fix]())
+Smooth meshes.
+
 Download:
 - **RR - Better Crates and Barrels V1.1**
 - **RR - Better Crystals 1.0**
 
 ### [Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747) ([flask fix]())
+Smooth meshes.
+
 Download:
 - **Main File**
 	- [x] Core
@@ -396,17 +492,23 @@ Download:
 	- [x] Inkwell - cut glass
 
 ### [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) ([Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154))
+Allows harvesting of organic containers without opening the GUI and getting carpal tunnel playing as an alchemist.
+
 Install the smoothed meshes and the fix linked above.
 
 ### [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
+High quality upscaled texture replacer, the base upon which other retextures will build.
 
 ### [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
+Makes windows glow at night and adds interior sunrays.
+
 Download:
 - **Main File**
 	- [x] Nord Glass Windows
 	- [x] Raven Rock Windows
 
 ### [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
+**Glow in the Dahrk** brought to a Dwemer ruin near you! Everyone say "Thanks, Darknut!"
 
 ### [Solstheim Graphical Replacer](https://www.nexusmods.com/morrowind/mods/46810)
 Download:
@@ -416,6 +518,8 @@ Download:
 	- [x] Remiros' Groundcover for TOTSP
 
 ### [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
+Replaces many vanilla meshes with atlased ones to reduce draw calls and increase performance in the hardest hitting areas of the game. This mod does not automatically work with all texture replacers but all atlases needed for this mod list are either in **Textures - MET** or **My Atlas Texture Collection**, both of which are just below.
+
 Download:
 - **Project Atlas**
 	- [x] Core
@@ -428,7 +532,7 @@ Download:
 - **Textures - MET**
 
 ### [My Atlas Texture Collection](mods/My%20Atlas%20Texture%20Collection.7z)
-Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas bat files
+Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas BAT files.
 
 ### [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
 
@@ -446,10 +550,22 @@ Get the 2k version under Old Files.
 ### [HD Cavern of the Incarnate](https://www.nexusmods.com/morrowind/mods/46101)
 
 ### [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+I lava this mod.
 
 ### [Bitter Coast Redux II - Trees and Flora](https://www.nexusmods.com/morrowind/mods/45762)
 
 ### [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Vanilla-friendly West Gash Tree Replacer](nexusmods.com/morrowind/mods/44173)
 Pick the no billboard leaves option so the leaves don't follow you.
@@ -459,6 +575,8 @@ Pick the no billboard leaves option so the leaves don't follow you.
 ### [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 
 ### [Pherim Comberry Bush 2.4](https://www.nexusmods.com/morrowind/mods/42586)
+Kills those ugly vanilla leaf planes.
+
 Download:
 - **Main File**
 	- [x] Data Files
@@ -476,6 +594,17 @@ Download:
 	- [x] Pulsing Animation
 
 ### [Hackle-lo Fixed](https://www.nexusmods.com/morrowind/mods/42784)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Epic Plants - Modular](https://www.nexusmods.com/morrowind/mods/46180)
 Download:
@@ -515,6 +644,17 @@ The Project Atlas patch is outdated, skip it.
 ### [Lysol's Imperial Forts Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/46413)
 Atlas provided in **My Atlas Texture Collection**.
 
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
+
 ### [Hidden Imperial Door Fix](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 
 ### [Imperial Door Fixes](https://www.nexusmods.com/morrowind/mods/47266?tab=description)
@@ -536,6 +676,17 @@ Use the Imperial base if you want, I personally don't
 ### [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
 The texture atlas is outdated, a new one can be found in **My Atlas Texture Collection**.
 
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
+
 ### [One True Faith - Saints and Frescoes Retexture](https://www.nexusmods.com/morrowind/mods/43810)
 
 ### [Ghastly Glowyfence](https://www.nexusmods.com/morrowind/mods/47982)
@@ -549,7 +700,29 @@ One of the atlases is outdated, new ones can be found in **My Atlas Texture Coll
 
 ### [Telvanni Retexture](https://www.nexusmods.com/morrowind/mods/45516)
 
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
+
 ### [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Articus Old Stucco 2K Retexture](https://www.nexusmods.com/morrowind/mods/45880)
 
@@ -583,6 +756,17 @@ Download:
 	- [x] Tamriel Rebuilt Water
 
 ### [Crystal Soul Gems](https://www.nexusmods.com/morrowind/mods/48300)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Ket's Potions and Beverages Retexture](https://www.nexusmods.com/morrowind/mods/44781)
 
@@ -621,13 +805,24 @@ Tamriel_Data -  Yes
 
 ### [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
 
-### [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
+### [Remiros' Minor Retextures - Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
 
 ### [Qwerty's Various Graphics - Blood](https://www.nexusmods.com/morrowind/mods/46026)
 
 ### [Skeleton and Metal Sparks blood retexture](https://www.nexusmods.com/morrowind/mods/43359)
 
 ### [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Bound Spells Reforged](https://www.nexusmods.com/morrowind/mods/48750)
 
@@ -675,6 +870,17 @@ Download:
 - **Divine Vivec - Blank Flame and Spark Textures**
 - **Floating Vivec**
 
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
+
 ### [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
 This mod comes with a few splash screens that fit well with vanilla but stand out when used alongside high-quality modded ones like the ones in this list, for that reason I recommend deleting the splash folder.
 
@@ -684,6 +890,17 @@ Download:
 	- [x] Core
 	- [x] High Res Textures
 	- [x] Raw Animation Frames
+
+<details>	<summary>Alternatives</summary>
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
 
 ### [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
 Download:
