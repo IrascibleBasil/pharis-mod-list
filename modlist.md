@@ -2,7 +2,8 @@
 - [**Assets**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#assets)
 - [**Fixes**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#fixes)
 - [**UI**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#ui)
-- [**Lua**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#lua)
+- [**OpenMW Lua**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#openmw-lua)
+- [**MWSE**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#mwse)
 - [**Audio**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#audio)
 - [**Landmasses**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#landmasses)
 - [**Cell Edits & Overhauls**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#cell-edits--overhauls)
@@ -141,7 +142,7 @@ Fixes multiple issues with the Corprusarium puzzle.
 
 Download:
 - **Main File**
-	- [x] Pfp
+	- [x] PfP
 
 ### [Adamantium Ore Fix(PFP Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)
 Fixes the adamantium ore in Tribunal by allowing the player to find the exact amount of Adamantium Ore needed (45) in the existing twenty Raw Adamantium rocks.
@@ -153,7 +154,7 @@ Mod originally made by [**Half11**](https://www.nexusmods.com/morrowind/mods/470
 ### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)
 This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
 
-Place everything in the ```Fonts``` folder into ```"C:\"your OpenMW directory"\resources\mygui"```
+Place everything from the ```Fonts``` folder into ```"C:\"your OpenMW directory"\resources\mygui"```
 
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
 
@@ -199,30 +200,113 @@ High resolution Icon replacer that makes icons look much sharper, recommended fo
 ### [Magic Icons(Sigourn Edit)](https://www.nexusmods.com/morrowind/mods/50223)
 Replaces the magic icon used for enchanted items in your inventory.
 
-# Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
+# OpenMW Lua		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 **Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty**
 
 ### [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
+Follower HUD and automatic teleportation.
 
 ### [Protective Guards(OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
+Makes guards protect the player from hostile NPCs.
 
 ### [Pursuit(OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
+Allows enemies to follow the player through load doors.
+<!--
+# MWSE	[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
+### [Actually Unlimited Skeleton Key]()
+### [Alchemical Knowledge]()
+### [Assetless No Glow]()
+### [Better Buoyancy]()
+### [Better Questlist]()
+### [Book Pickup]()
+### [Caius Gives You a Cover Story]()
+### [Cheat Menu]()
+### [Class-Conscious Character Progression (CCCP)]()
+### [Companion Stop]()
+### [Controlled Consumption (Greatness7 - Sigourn - Necro Edit) 1.3.2]()
+### [Creeping Blight]()
+### [Doors Anti Stuck]()
+### [Dwemer Lightning Rods]()
+### [Easy Escort]()
+### [Enchant Capacity Rebalance]()
+### [Expeditious Exit]()
+### [Fortify MAX]()
+### [Give or Take]()
+### [GMST Menu]()
+### [Hotkeys Extended]()
+### [Hot Quests]()
+### [Just Drop It]()
+### [Kill Command]()
+### [Less Lame Leveled Spawns]()
+### [Loading Doors Lock Tune]()
+### [Magicka Based Skill Progression -- MWSE-Lua Edition]()
+### [Magicka Expanded]()
+### [Map and Compass]()
+### [Map Replacement Pack BAIN WRYE compliant for Automatic Installations or Uninstalls]()
+### [Marksman Rebalanced]()
+### [Matching Manuscripts]()
+### [Menus Hider on Item Select - MWSE]()
+### [MM - Enhanced Detection]()
+### [MM - Enhanced Invisibility]()
+### [MM - Enhanced Light]()
+### [MM - Enhanced Reflection]()
+### [MultiEnchant]()
+### [MWSE Compare Tooltips]()
+### [MWSE Hide the Skooma]()
+### [No More Friendly Fire]()
+### [No Thank You]()
+### [OAAB Scroll Qualities]()
+### [Peaceful Pets]()
+### [Perfect Placement]()
+### [Pincushion]()
+### [Poison Crafting]()
+### [Putting Power in Willpower (Necro Edit)]()
+### [Quick Equip]()
+### [Rational Names]()
+### [Realistic Movement Speeds]()
+### [Right Click Menu Exit]()
+### [Security Enhanced]()
+### [Selection Details]()
+### [Seph's Guar Petting]()
+### [Seph's Inventory Decorator]()
+### [Seph's NPC Soul Trapping]()
+### [Shrine Tooltips]()
+### [Silver Tongue]()
+### [Skills Module]()
+### [Smart Intervention]()
+### [Smart Journal]()
+### [Smarter Soultrap]()
+### [Smarter Strike Sounds]()
+### [Sophisticated Save System]()
+### [Torch Hotkey]()
+### [Travel Tooltips]()
+### [Useful Bound Armor]()
+### [Wading in Water MW]()
+### [What Are My Attributes (Necro Edit)]()
+### [Wings of Will (Necro Edit)]()
+-->
 # Audio		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255)
 Download:
 - **Aura 3.0 - Replacer**
-
+	- [x] All Modules
 ### [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826)
+Gives Solstheim barrows a unique sound effect to use instead of reusing the "haunted whispers" sound used in vanilla ancestral tombs.
 
 ### [Cave Drip](https://www.nexusmods.com/morrowind/mods/43488)
+Adds a visual effect to all vanilla cave drip sound emitters.
 
 ### [Disable Player Hit Voice](https://www.nexusmods.com/morrowind/mods/46437)
 Replaces all hit voices with silence. Entirely up to personal taste but I personally just find them annoying.
 
 ### [Immersive Combat Sounds](https://www.nexusmods.com/morrowind/mods/50254)
+High quality and realistic sound replacer for weapons and other combat related sounds.
+
+Download:
+- **Immersive Combat Sounds - Vanilla**
 
 ### [Spell Sounds Enhanced](https://www.nexusmods.com/morrowind/mods/46338)
 Vanilla-friendly spell sounds replacer.
@@ -458,6 +542,9 @@ Overhauls all shipwrecks in the base game and moves them to exterior cells so yo
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 Overhauls the vanilla Dwemer tileset and adds new pieces.
 
+### [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
+This mod overhauls and slightly expands Berandas, the old Dunmer fortress near Gnisis.
+
 # Mesh & Texture Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
@@ -574,6 +661,7 @@ Download:
 Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas BAT files.
 
 ### [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
+2k retexture of all regions in the style of the original game.
 
 <details>	<summary>Alternatives</summary>
 
@@ -733,11 +821,15 @@ The texture atlas is outdated, a new one can be found in **My Atlas Texture Coll
 ### [RR Mod Series - Morrowind Statues Replacer](https://www.nexusmods.com/morrowind/mods/43348)
 
 ### [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
+Retextures the Vivec sewers.
 
 ### [Redoran - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46235)
+Retextures Redoran architecture.
+
 One of the atlases is outdated, new ones can be found in **My Atlas Texture Collection**.
 
 ### [Telvanni Retexture](https://www.nexusmods.com/morrowind/mods/45516)
+Retextures Telvanni architecture.
 
 <details>	<summary>Alternatives</summary>
 
@@ -746,6 +838,7 @@ One of the atlases is outdated, new ones can be found in **My Atlas Texture Coll
 </details>
 
 ### [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
+Retextures Dunmer stronghold architecture.
 
 <details>	<summary>Alternatives</summary>
 
@@ -754,14 +847,19 @@ One of the atlases is outdated, new ones can be found in **My Atlas Texture Coll
 </details>
 
 ### [Articus Old Stucco 2K Retexture](https://www.nexusmods.com/morrowind/mods/45880)
+Reterxtures old Dunmer ruins and dwellings.
 
 ### [Articus Mournhold 2K Retexture](https://www.nexusmods.com/morrowind/mods/46011)
+Retextures Mournhold architecture.
 
 ### [Articus Old Mournhold and Sewers Retexture 2K](https://www.nexusmods.com/morrowind/mods/45769)
+Retextures Old Mournhold and the Mournhold sewers.
 
 ### [Articus Clockwork City of Sotha Sil 2K Retexture](https://www.nexusmods.com/morrowind/mods/46149)
+Retextures the Clockwork City.
 
 ### [Ruins - Daedric Intervention](https://www.nexusmods.com/morrowind/mods/46044)
+Retextures Daedric ruins.
 
 ### [Articus 6th House Dagoth - HD Nightmare Retexture 2K](https://www.nexusmods.com/morrowind/mods/48319)
 Atlas provided in **My Atlas Texture Collection**.
@@ -826,6 +924,8 @@ Old_dwemer_books_Better_typography.esp
 -->
 ### [Pete's Scroll With Daedric Alphabet](https://www.nexusmods.com/morrowind/mods/47863)
 
+### [FMI - Caius Big Package](https://www.nexusmods.com/morrowind/mods/47580)
+
 ### [HD Forge](https://www.nexusmods.com/morrowind/mods/46738)
 Download:
 - **Main File**
@@ -874,8 +974,10 @@ Replaces the horrid plastic wrap enchanted glow with a 4x4 transparent texture.
 # Body & Head Replacers		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
+Replaces bodies of non-beast races with seamless versions, updated by **ZWolol**.
 
 ### [Better Bodies - Hand Fixes](https://www.nexusmods.com/morrowind/mods/47521)
+This mod fixes the weird hand hand animations in better bodies.
 
 ### [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 Westly's wonderful head replacer touched up and brought more in line with vanilla. Coverage for **Tamriel Rebuilt** is currently being worked on.
@@ -885,23 +987,31 @@ Download:
 - **Westly's Faces Refurbished - TR_Data**
 
 ### [Color Tweaked Westly's BB Textures](mods/Color%20Tweaked%20Westly's%20BB%20Textures.7z)
-Full credit goes to Westly for creating these textures, I simply tweaked the color of a few of them to match **Westly's Faces Refurbisheda**.
+Full credit goes to Westly for creating these textures, I simply tweaked the color of a few of them to match **Westly's Faces Refurbished**.
 
 ### [New Beast Bodies by Liztail](https://www.nexusmods.com/morrowind/mods/47678)
-Use only the Khajiit plugin because the next mod will cover the Argonians.
+Replaces bodies of beast races with seamless versions. For this list we'll only be using the Khajiits from this mod.
 
+Hide or Delete:
+```
+New Argonian Bodies - Clean.esp
+```
 ### [Improved Argonians](https://www.nexusmods.com/morrowind/mods/45918)
+Mesh and texture replacer for Argonians. Compatible with Tamriel Rebuilt.
 
 ### [Pluginless Khajiit Head Pack](https://www.nexusmods.com/morrowind/mods/43110)
+Pluginless replacer of vanilla Khajiit heads.
+
 Download:
 - **Pluginless Khajiit Head Pack - Whiskers Version**
 
 ### [Pluginless Khajiit Head Pack - Vampires](https://www.nexusmods.com/morrowind/mods/43795)
+Vampire heads from **Ashiraniir**'s full Khajiit Head Pack that were omitted from the pluginless version for some reason.
 
 # Creatures		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)
-Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles and corpse models.
+Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
 
 Download:
 - **Divine Dagoths**
@@ -938,9 +1048,11 @@ Download:
 ### [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
 An improved Almalexia model using Better Bodies.
 
-This mod comes with a few splash screens that fit well with vanilla but stand out when used alongside high-quality modded ones like the ones in this list, for that reason I recommend deleting the splash folder.
+This mod comes with a few splash screens that,while they fit well with vanilla, stand out when used alongside high-resolution modded splashes, for this reason I recommend deleting the ```Splash``` folder.
 
 ### [By Azura](https://www.nexusmods.com/morrowind/mods/50567)
+An overhaul to the appearance and animations of Azura, Prince of Moonshadow.
+
 Download:
 - **Main File**
 	- [x] Core
@@ -1163,32 +1275,44 @@ Feel free to skip the companions if you prefer to travel alone.
 ### [Stripes the Cat](https://www.nexusmods.com/morrowind/mods/51086) ([Required](https://mw.modhistory.com/download-24-15599))
 ***You are legally required to download this mod.***
 
-[**CLick Me**](https://www.youtube.com/watch?v=5jKZ9KGtee0&ab_channel=CavinWeber)
+[**Click Me**](https://www.youtube.com/watch?v=5jKZ9KGtee0&ab_channel=CavinWeber)
 
 ### [Services Restored](https://www.nexusmods.com/morrowind/mods/47068)
-This mod does two things. 1) Cinia Urtius (master trainer for Medium Armor) is added to the game. 2) Hecerinde now sells Secret Master variety of lockpicks and probes (like he did in the unpatched v1.0 of the game).
+Restores Cinia Urtius, cut master trainer for Medium Armor, and allows Hecerinde to sell Secret Master lockpicks and probes just as he did in the unpatched version of the game.
 
 # Dialogue		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063)
+Replaces the three standard No Lore greetings with over sixty new ones.
 
 ### [Djangos Dialogue 1.4](https://www.nexusmods.com/morrowind/mods/47253)
+Hundreds of new lines of text dialogue for all NPCs, which helps to remedy the repetition and dialogue fatigue that came with the original game.
 
 ### [Djangos Dialogue - Patch for Purists](https://www.nexusmods.com/morrowind/mods/48955)
-
+Forwards **Patch for Purists** fixes to **Django's Dialogue**, patch made by **Alvazir**.
 ### [FMI - Sane Ordinators](https://www.nexusmods.com/morrowind/mods/47381)
+Makes it so Ordinators will not kill you for wearing Indoril armor once you have been named Nerevarine by Vivec, or if you are Master or Patriarch of the Temple.
 
 ### [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569)
+Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
+
+### [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107)
+Implements hospitality papers mechanic for Sadrith Mora that is mentioned in dialogue but is not actually present in the vanilla game.
 
 ### [FMBP - Michael Michael Michael](https://www.nexusmods.com/morrowind/mods/48598)
+Fixes Michael Mack's misreadings of the word "Dunmer" as "Dumbner".
 
 ### [FMBP - Greet Service](https://www.nexusmods.com/morrowind/mods/50937)
+Uses unused voice dialogue shipped with the game to make service NPCs greet you as though they are really shop keepers, publicans, etc.
 
 ### [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
 # Levelled Lists		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Wares](https://www.nexusmods.com/morrowind/mods/49205)
+Wares gives traders more Wares (duh). Includes Wares from other mods (such as **Tamriel Rebuilt**)**. Includes traders in the Mainland.
+
 Download:
 - **Main File**
 	- [x] Master file
@@ -1198,12 +1322,16 @@ Download:
 - **Wares for Lokken**
 
 ### [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
+Minor mods that integrate assets from **OAAB_Data** into the game.
+
 Download:
 - **OAAB Creature Loot**
 - **OAAB Levelled Creatures**
 - **OAAB Levelled Lists**
 
-### [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
+### [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)\
+Integrates much of the content of the Tribunal and Bloodmoon expansions within the rest of the game world.
+
 Use only the **Expansions Integrated - Fewer BM Creatures** plugin.
 
 Hide or Delete:
@@ -1231,20 +1359,29 @@ Mage Robes - The Hostiles.ESP
 Mage Robes - Vivec Guild of Mages Expansion.ESP
 ```
 ### [Umbra- Blademaster](https://www.nexusmods.com/morrowind/mods/43275)
+Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
 
 ### [Concept Art Daedric Helmets](https://www.nexusmods.com/morrowind/mods/49534)
+Adds the missing Daedric Faces from M.K.'s concept art to various Daedric ruins around Vvardenfell.
 
 ### [Indoril Ronin](https://www.nexusmods.com/morrowind/mods/50689)
-Download only the main file.
+What would happen if an Ordinator found the messages hidden in The Thirty-Six Lessons of Vivec? Would they reject the Tribunal and venerate Indoril Nerevar? Would they believe themselves to be the Nerevarine? This mod currently adds the equipment of an Ordinator that discovered the Foul Murder of the first Hortator.
+
+Download:
+- **Indoril Ronin Set**
 
 ### [Walkers of Morrowind](https://www.nexusmods.com/morrowind/mods/49889)
+Adds pathgrids to roads throughout Vvardenfell so that NPCs with an AIWander package will wander within their cell.
 
 ### [Quick Char (Necro Edit)](https://www.nexusmods.com/morrowind/mods/47706)
-One plugin changes your timescale to 6 and the other leaves it at the default, use only one.
+Quick start mod. One plugin changes your timescale to 6 and the other leaves it at the default, use only one.
 
 ### [Companion Friendly Lava](https://www.nexusmods.com/morrowind/mods/50890)
+Tweaks vanilla lava script so that lava hurts only the player and not their companions that are not smart enough to avoid it.
 
-### [Dynamic Distant Details](https://www.nexusmods.com/morrowind/mods/51236)
+### [Dynamic Distant Details (OpenMW only)](https://www.nexusmods.com/morrowind/mods/51236)
+Makes distant land more responsive to quest progress. No more lingering Ghostfence segments or vanishing player strongholds.
+
 Use only the three stronghold plugins as the Ghostfence one conflicts with **BCOM**.
 
 Hide or Delete:
@@ -1254,7 +1391,7 @@ HM_DDD_Ghostfence_v1.0.esp
 ### [Lord's Mail and Morningstars](https://www.nexusmods.com/morrowind/mods/49878)
 
 # Rebalance		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
-These mods rebalance the expansions as if they shipped with the game on release and buffs the Sixth House to make it as hard as it should be, skip this separator if that doesn't sound appealing to you.
+These mods rebalance the expansions as if they shipped with the game on release and makes the Sixth House, properly, the most difficult content in the game. If this sounds unappealing to you simply skip this separator.
 
 Each of these rebalance mods has multiple modular plugins and one full plugin, use only the full version.
 
@@ -1265,99 +1402,147 @@ Each of these rebalance mods has multiple modular plugins and one full plugin, u
 ### [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
 
 ### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
+Fixes a number of inconsistencies with creature edits in **Beware the Sixth House**.
 
 # Quests		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692)
+Adds a new book "The Ayembedt for Outlanders" to the game and a quest to acquire a copy.
 
 ### [A Conjurer's Calling](https://www.nexusmods.com/morrowind/mods/51070)
+Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands. 
 
 ### [A Hermits Request](https://www.nexusmods.com/morrowind/mods/23714)
+To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.
 
 ### [A Merchant's Whim](https://www.nexusmods.com/morrowind/mods/51068)
+A merchant has set up shop outside of Vivec. Talk with him, and after some time he will ask you for some help with a personal matter from his past.
+
 Download:
 - **Main File**
 	- [x] Core
 
 ### [Ancient Foes](https://www.nexusmods.com/morrowind/mods/44705)
+To the west and slightly north of Dagon Fel, you'll find a small cottage along the shores of the Sheogorad, where a young Nord spends his days longing for home. Will you help him find what he seeks? Or will you be the instrument of his destruction?
 
 ### [Apothecary's Demise](https://www.nexusmods.com/morrowind/mods/44331)
+Apothecary's Demise is a quest mod (For any level, +11 for dungeon) about choice, that starts in the quaint abode in the Ascadian Isles. Upon entering this nice Apothecary's Abode, you are greeted with a dead apothecary, and a note written in his dying breath. The note reads: "Don't go in the cellar, under any circumstance!"
 
 ### [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
+Adds a Daedric helm bearing the aspect of Azura which you can acquire through a new quest which starts at the Holamayan Monastery near the Shrine of Azura. Explore the hidden depths below the shrine to become the Champion of Azura!
 
 ### [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
+Join a fully playable guild and gain ranks to the top. Included are several dungeons, some new and others extensions of existing ones.
+
 Replace the icons with the ones in the ```OpenMW Icons``` folder
 
-### [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
-
 ### [Blackthorn Barrow](https://www.nexusmods.com/morrowind/mods/45280) ([TotSP ESP Replacer](https://www.nexusmods.com/morrowind/mods/49232))
-Use only the TotSP plugin(link above).
+ollow the clues of a doomed expedition to find the source behind an ancient Nordic relic.
+
+Use only the TOTSP plugin(link above).
 
 ### [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ### [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
-Only the assets are needed, use the plugin from **BCOM Patches**.
+Ebonheart now has its own sewage system. With filth, rats, people and quests.
+
+Only the assets are needed, use the plugin from **BCOM - Patches**.
 
 Hide or Delete:
 ```
 Ebonheart_Underworks.esp
 ```
 ### [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
+The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 
 ### [Fighters Guild Improved](https://www.nexusmods.com/morrowind/mods/51409)
-
-### [FMI - Caius Big Package](https://www.nexusmods.com/morrowind/mods/47580)
-
-### [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107)
+Overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
 ### [Frozen in Time](https://www.nexusmods.com/morrowind/mods/50077)
+This quest will bring you back in time, to solve a mystery untouched for hundreds of years. 
 
 ### [God of Worms](https://www.nexusmods.com/morrowind/mods/48028)
+Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
 
-### [Library of Vivec Overhaul - Full](https://www.nexusmods.com/morrowind/mods/49916)
+### [ReadMe - Library of Vivec Overhaul](https://www.nexusmods.com/morrowind/mods/49916)
+Redesigns the Library of Vivec from scratch. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book.
 
-### [Love in the Time of Daedra](https://www.nexusmods.com/morrowind/mods/43635) ([TR Version](https://www.nexusmods.com/morrowind/mods/48683))
-Use only the TR plugin(link above).
+Download:
+- **Library of Vivec Overhaul - Full**
+
+### [Love in the Time of Daedra](https://www.nexusmods.com/morrowind/mods/43635) ([Moved](https://www.nexusmods.com/morrowind/mods/48683))
+An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
+
+Use the moved version of the plugin linked above for **Tamriel Rebuilt** compatibility.
 
 ### [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773)
+Adds five new duties for members of the Mages Guild to Master Wizard Folms Mirel, in Caldera.
 
 ### [Maren's Misfit Mabrigash](https://www.nexusmods.com/morrowind/mods/48709)
+A dungeon overhaul and quest mod that overhauls and expands the Maren Ancestral Tomb into a hideout befitting of an ashlander, and adds a new quest to complete in the dungeon.
 
 ### [Master of Puppets](https://www.nexusmods.com/morrowind/mods/51393)
+Recover a stolen arcane tome from a renegade wizard and his magically animated puppet servants.
 
 ### [New Ilunibi](https://www.nexusmods.com/morrowind/mods/50393)
+Rebuilds the mainquest dungeon Ilunibi from scratch to make it larger, more imposing and more interesting to explore. It also adds four new quests for you to discover and embark upon.
 
 ### [OAAB Brother Junipers Twin Lamps](https://www.nexusmods.com/morrowind/mods/51424)
+Update of **Brother Juniper**'s classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests.
 
 ### [Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul](https://www.nexusmods.com/morrowind/mods/51171)
+Rebuilds and expands the Gnisis Eggmine complex from scratch.It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine. 
 
-### [Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
+Features actual earth quakes!
+
 Download:
-- **Main File**
+- **Of Eggs and Dwarves_OpenMW**
+	- [x] Core
+	- [x] BCOM Patch
+
+### [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
+Slightly improved implementation of Bethesda's Official Plugins, using **UMOPP** as a base.
+
+Download:
+- **UMOPP Naturalized**
 	- [x] Helm of Tohan Naturalized
 	- [x] Master Index Naturalized
 
 ### [Of Justice and Innocence](https://www.nexusmods.com/morrowind/mods/34046)
-Use only the framerate version.
+In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
 
 Hide or Delete:
 ```
 Of Justice and Innocence.esp
 ```
 ### [Scrolls of The Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831)
+This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the (now rare) 9th barrier scroll, adds new lore surrounding The Nine Barriers, and much more!
 
 ### [Silent Island](https://www.nexusmods.com/morrowind/mods/50274)
+This is a horror themed mod, with pirates, Sixth House, and romance. Though this mod plays fairly different, where many tough enemies can be killed by the environment.
+
 Replace the icons with the ones in the ```OpenMW Icons``` folder.
 
 ### [Sorcerer of Alteration](https://www.nexusmods.com/morrowind/mods/51224)
+Journey through this quest mod to improve your alteration magic.
 
 ### [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
+Adds an imposing landmark, known as "Baan Binif", to the Ashlands, and three new quests designed to flesh out the background of this mysterious structure.
 
 ### [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423)
+To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 
 ### [The Stolen Sweetrolls ( OAAB required )](https://www.nexusmods.com/morrowind/mods/51288)
-Download Stolen Sweetrolls Telvanni Mesh Improvement and Ashen Divide Patch and Stolen Sweetrolls Guard Fix in addition to the main file
+Somebody in Seyda Neen has stolen Pullia's Sweetrolls, can you find out who did it?
+
+Download:
+- **The Stolen Sweetrolls**
+- **Stolen Sweetrolls Telvanni Mesh Improvement and Ashen Divide Patch**
+- **Stolen Sweetrolls Guard Fix**
+
 ### [The Vestige of Bethaleft](https://www.nexusmods.com/morrowind/mods/50663)
+Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
 
 # Grass		[<sub><sup>^</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 

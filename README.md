@@ -3,10 +3,14 @@
 
 # Before We Start
 
-This list is for [**OpenMW**](https://openmw.org/downloads/) but with few exceptions it will work fine on the original engine. I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. Lastly, this is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(**Pharis#2588**) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.
+This mod list was orignally set up for OpenMW primarily but it has since been adapted to work for both engines. Lastly, I am putting this list together to hopefully make the process of modding this wonderful game easier, but please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. 
 
-### My System
-For reference this is what I am currently using to play **OpenMW**: 
+ **Disclaimer: This is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available so it would seem redundant(and tiresome) to repeat here.**
+
+[**OpenMW**](https://openmw.org/downloads/)
+## My Setup
+For reference this is what I am currently using to play Morrowind: 
+
 System | My Specs
 ------------- | -------------
 OS | Windows 11 Pro 64-bit
