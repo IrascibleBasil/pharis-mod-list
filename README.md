@@ -6,7 +6,7 @@ Placeholder image
 <!--
 # About
 
-Inspired by guides such as Morrowind Sharp, An Alternative to Morrowind Rebirth, and Necrolesian's mod list this inteaded to be a comprehensive graphical overhaul of the game while staying true to the source material
+Inspired by guides such as Morrowind Sharp, An Alternative to Morrowind Rebirth, and Necrolesian's mod list this is intended to be a comprehensive graphical overhaul of the game while staying true to the source material. This is not a mod list for modding Morrowind into a different game but instead it is to 
 
 
 
@@ -33,7 +33,9 @@ This mod list was originally set up for OpenMW primarily but it will soon be ada
  ----
 
 Click [**here**](config/settings.cfg) for my my full settings.cfg file
-
+<!--
+Click [**here**](config/) for my MWSE config files.
+-->
 Click [**here**](modlist.md) to get started
 
 ## TODO
