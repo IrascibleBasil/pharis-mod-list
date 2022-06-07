@@ -1,4 +1,4 @@
-# pharis-mod-list
+# pharis-mod-list Now With MWSE!
 Happy to hear suggestions for a name :D
 
 ![This will be replaced](images/placeholder.png)
