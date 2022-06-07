@@ -2,7 +2,7 @@
 Happy to hear suggestions for a name :D
 
 ![This will be replaced](images/placeholder.png)
-Placeholder image
+This image will be replaced when I am no longer lazy.
 <!--
 # About
 
@@ -26,7 +26,7 @@ Monitor | Dell s2721dgf
 
 # Before We Start
 
-This mod list was originally set up for OpenMW primarily but it will soon be adapted to work equally well with both engines. I am putting this list together to hopefully make the process of modding this wonderful game easier, but for my sanity's sake please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. 
+This mod list was originally set up for OpenMW primarily but it has since been adapted to work equally well with both engines. Separators and mods have been marked as exclusive to either OpenMW or the original engine with MWSE where applicable and installation instructions have been separated where necessary. I am putting this list together to hopefully make the process of modding this wonderful game easier, but for my sanity's sake please don't ask questions that are answered in the mod's readme, description, or god forbid even the title. 
 
  **Disclaimer: This is not a tutorial for installing **OpenMW** or for **MO2**; I will gladly help as best I can on Discord(Pharis#2588) but there are great resources with that information readily available(some of which will be linked in a separate document) so it would seem redundant(and tiresome) to repeat here.**
  
@@ -39,7 +39,9 @@ Click [**here**](config/) for my MWSE config files.
 Click [**here**](modlist.md) to get started
 
 ## TODO
-- Populate Alternatives under mods
-- Add descriptions to mods that are currently missing them
-- Adapt list to work with original engine(add MWSE section, compatibilty notes, etc.)
+- Populate more Alternatives under mods
+- Update README and Utilities separator(English is hard :( )
+- Add download for MWSE config
+- Add references
+- Add distant land generation
 - Add screenshots

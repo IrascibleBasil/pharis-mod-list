@@ -15,3 +15,15 @@
 - Removed Articus Mournhold Clothes
 - Removed Hackle-lo Fixed
 - Removed Bitter Coast Redux II - Trees and Flora
+
+## 6/7/22
+- Updated README
+- Added many, many mods to MWSE separator
+- Added separate installation instructions for the two engines where necessary
+- Marked sections as exclusive to one engine where necessary
+- Added link for Properly Smoothed Meshes - Flask Fix
+- Added link for RR Better Meshes Fix
+- Added Better Telvanni Crystal(thanks to MD for bringing this to my attention)
+- Added Improved Better Skulls
+- Updated mods
+- Removed RR - Better Crystals
