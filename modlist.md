@@ -25,7 +25,7 @@ These are programs that are either necessary for this mod list or very helpful i
 
 ![image](images/moddingdirectory.png)
 
-## Necessary
+## Necessary Utilities
 
 ### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
 
@@ -58,16 +58,23 @@ Add to your **MO2** executables list.
 <p>
 
 ### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
+Powerful editor for plugins and saves.
 
 ### [TESPCD](https://mw.modhistory.com/download-95-5283)
-
 **TESPCD** is for detecting conflicts between plugins, such as when two mods edit the same cell.
 
 ### [Nifskope](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z) ([VC++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685))
 
 ### [Ordenator](https://www.nexusmods.com/newvegas/mods/46074?tab=description) ([Required](http://www.microsoft.com/download/en/details.aspx?id=17718))
+Ordenator is for optimizing textures. 
+
+Textures that need optimizing include:
+- Uncompressed textures
+- Textures lacking mipmaps (note that UI textures do not need mipmaps)
+- Textures saved in the wrong compression format (should be DXT1 unless it has transparency, then it should be DXT5, NOT DXT3)
 
 ### [7-Zip](https://www.7-zip.org/)
+For opening archives, or making your own.
 
 ### [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.5/)
 A very handy plain text editor.
@@ -81,7 +88,24 @@ A very handy plain text editor.
 
 Before moving on to the mod installation be sure to get all of the necessary utilities installed and ready. Additionally, multiple mods listed below have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass) section. 
 
-The mods are in order and organized by **MO2** separator. 
+All mods on this list are compatible with eachother but other mods may conflict. If you have a question about what a mod does or any potential incompatabilities with other mods not on this list:
+
+- Read the Nexus description
+- Read the Readme
+- Check in-game on a new save for obvious issues (buildings placed inside of eachother, floating doors, etc)
+
+Only after doing the three steps above should you go around asking others.
+
+If you notice a bug with a mod:
+
+- Disable any potentially conflicting mods, safest choice is to disable all mods that you aren't testing 
+- Start a new character, preferably with a quickstart mod such as the one on this list
+- Reproduce the bug
+- If it's a misplaced object (floaters, z-fighting, etc), use the ```ori``` command on the object and take a screenshot
+
+Only after doing these steps should you report a bug to the mod author (in the **BUGS** section, not **POSTS**). 
+
+The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. 
 
 To return to the top click the '⭡' next to any separator.
 
@@ -98,11 +122,21 @@ Download:
 
 If the devs of these projects got a nickel for every time someone forgot to register their BSAs they would have bought Bethesda and made Elder Scrolls VII by now. 
 
-Add the following lines to **openmw.cfg**
+**[OpenMW]** Add the following lines to your **openmw.cfg**
 ```
 fallback-archive=PT_Data.bsa
 fallback-archive=TR_Data.bsa
 ```
+**[Original Engine]**  Add the following lines to your **MO2** profile's **Morrowind.ini**
+```
+[Archives]
+Archive 3=PT_Data.bsa
+Archive 4=TR_Data.bsa
+```
+The profile-specific **Morrowind.ini** in **MO2** can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**.
+
+![mo2puzzleicon](images\mo2inieditor.png)
+
 ### [OAAB Data](https://www.nexusmods.com/morrowind/mods/49042)
 A free-to-use asset repository for the Morrowind Community that adheres to a charming vanilla+ aesthetic.
 
@@ -619,6 +653,7 @@ Download:
 	- [x] Stav's Mages Guilds
 	- [x] Taller Lighthouse
 	- [x] Expanded Sadrith Mora Dock
+	- [x] Vanilla Style Ghostfence Pillars
 - **BCOM - Patches**
 	- [x] Patch for Purists Patch
 	- [x] Foyada Mamaea Overhaul
@@ -629,7 +664,7 @@ Download:
 	- [x] Skyrim Home of the Nords Patch
 	- [x] Ebonheart Underworks
 	- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
-	- [x] Bounty Hunter Bundle
+	- [x] Bounty Hunter Assignments
 	- [x] Ashlander Traders Remastered
 	- [x] Ghastly Glowfence Patch
 	- [x] Guild of Vampire Hunters
@@ -643,7 +678,8 @@ Download:
 	- [x] Balmora Bridges with bigger arch - Atlas
 	- [x] Stav MGO - GITD + Atlas
 	- [x] RR Ghostgate Fortress - GITD
-	- [x] Vanilla Style Ghostfence Pillars
+	- [x] RR Statue for Shrine of Mount Assarnibibi
+	- [x] RR Statue for Holamayan Monastery
 - **Beautiful Cities of Morrowind - HD Textures**
 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
@@ -685,7 +721,7 @@ Download:
 	- [x] BCOM Patch
 
 ### [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
-Mournhold Overhaul.
+Mournhold Overhaul, includes Distant Mournhold.
 
 ### [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
 Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
@@ -726,6 +762,10 @@ An ancient burial lies in ruins outside of Seyda Neen – the few who know of th
 ### [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
 Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture.
 
+Download:
+- **OAAB Dwemer Pavements**
+	- [x] Core
+
 ### [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
 Completely overhauls Foyada Mamaea.
 
@@ -762,6 +802,10 @@ Overhauls the interior of Ienis Sarandas' house into an estate more befitting a 
 
 ### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
 Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.
+
+Download:
+- **OAAB Shipwrecks**
+	- [x] Core
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 Overhauls the vanilla Dwemer tileset and adds new pieces.
@@ -958,19 +1002,25 @@ Download:
 	- [x] Vanilla Style Textures
 
 ### [Pherim's Fire Fern - Plant and Ingredient](https://www.nexusmods.com/morrowind/mods/43568)
+A mesh and textures replacer for the Fire Fern plant and the Fire Petal ingredient.
+
 Download:
 - **Main File**
 	- [x] Default Red
 
 ### [Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
+A mesh and texture replacer for the kwama eggs and egg sacs.
+
 Download:
 - **Main File**
 	- [x] Data Files
 	- [x] Pulsing Animation
 
 ### [Epic Plants - Modular](https://www.nexusmods.com/morrowind/mods/46180)
+Replaces textures and models of various flora with HQ quality.
+
 Download:
-- **Main File**
+- **Epic Plants - Modular**
 	- [x] Ascadian Isles - Grass
 	- [x] Ashland - Grass
 	- [x] Ashland - Scathecraw
@@ -984,9 +1034,10 @@ Download:
 	- [x] MWSE and OpenMW GH Patch - Trama Root
 
 ### [GH Patches and Replacers](https://www.nexusmods.com/morrowind/mods/46599)
+Graphic Herbalism patches.
 
 Download:
-- **Main File**
+- **GH Patches and Replacers**
 	- [x] Correct UV Ore + README
 	- [x] Pherim's Replacers
 	- [x] Pherim Pulsing Kwama
@@ -994,14 +1045,30 @@ Download:
 
 The **Project Atlas** patch is outdated, skip it.
 
+Hide or Delete:
+```
+correctUV Ore Replacer_respawning.esp
+```
+
 ### [Thickle-Lo - The Succulent Hackle-Lo Mod](https://www.nexusmods.com/morrowind/mods/47502?tab=description)
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker.
 
 ### [Ingredients Mesh Replacer](https://www.nexusmods.com/morrowind/mods/44067)
+Replaces the meshes of some ingredients in the game.
 
 ### [Anumaril's Bowled Ingredients](https://www.nexusmods.com/morrowind/mods/48291)
+Replaces powder, liquid, and other forms of ingredients that might be difficult to manage with meshes that have them placed in simple wooden bowls.
+
+Download:
+- **Bowled Ingredients**
+	- [x] Core
+	- [x] Optional Ingredients
 
 ### [Daedric Intervention - Ingredients](https://www.nexusmods.com/morrowind/mods/46044)
+Mesh and texture replacer for Daedric ingredients.
+
+Download:
+- **Daedric Intervention - Ingredients**
 
 ### [R-Zero's Throbbing Meat - a Corprus Meat Replacer](https://www.nexusmods.com/morrowind/mods/45339)
 Replaces corprus meat models with animated, twitching ones ones.
@@ -1030,7 +1097,7 @@ Download:
 	- [x] Arkitektora Fix
 
 ### [Dry Stone Walls Revamped](https://www.nexusmods.com/morrowind/mods/49069)
-Improves dry stone walls by fixing th UVs and getting rid of the ugly rocks.
+Improves dry stone walls by fixing the UVs and getting rid of the ugly rocks.
 
 Download:
 - **Main File**
@@ -1675,6 +1742,8 @@ Download:
 	- [x] Tyddy's Kagouti Replacer Aendemika of Vvardenfell
 
 ### [Stripes the Cat](https://www.nexusmods.com/morrowind/mods/51086) ([Required](https://mw.modhistory.com/download-24-15599))
+An adorable little companion in Caldera that makes cute noises and casts spells.
+
 ***You are legally required to download this mod.***
 
 [**Click Me**](https://www.youtube.com/watch?v=5jKZ9KGtee0&ab_channel=CavinWeber)
@@ -1822,10 +1891,13 @@ These mods rebalance the expansions as if they shipped with the game on release 
 **Important Note: Each of these rebalance mods has multiple modular plugins and one full plugin, use only the full version.**
 
 ### [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)
+This makes Dagoth Ur, the Ash Vampires, all Dagoths, all ash slaves, corprus beasts, ascended sleepers and every other corprus beast to be incredibly difficult. They have lots of health. They do lots of damage. Their spells hurt, and some even regenerate health.
 
 ### [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
+This mod rebalances Tribunal as if it shipped with Morrowind.
 
 ### [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
+This mod rebalances Bloodmoon as if it shipped with Morrowind.
 
 ### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
 Fixes a number of inconsistencies with creature edits in **Beware the Sixth House**.
@@ -1874,6 +1946,11 @@ Download:
 Follow the clues of a doomed expedition to find the source behind an ancient Nordic relic.
 
 Use only the TOTSP plugin(link above).
+
+Hide or Delete:
+```
+Clean__Blackthorn Barrow.ESP
+```
 
 ### [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.

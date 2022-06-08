@@ -27,3 +27,7 @@
 - Added Improved Better Skulls
 - Updated mods
 - Removed RR - Better Crystals
+
+## 6/8/22
+- Small touchups 
+- Updated BCOM installation instructions
