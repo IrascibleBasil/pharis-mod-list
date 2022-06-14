@@ -14,7 +14,7 @@
 - [**Creatures**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#creatures)
 - [**Apparel & Weapons**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#apparel--weapons)
 - [**NPCs & Companions**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#npcs--companions)
-- [**Dialogue**](modlist.md#dialogue)
+- [**Dialogue**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#dialogue)
 - [**Levelled Lists**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#levelled-lists)
 - [**Gameplay**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#gameplay)
 - [**Rebalance**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#rebalance)
@@ -22,7 +22,6 @@
 - [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass)
 
 ----
-
 
 The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. 
 To return to the top click the '**⭡**' next to any separator.
@@ -2030,6 +2029,3 @@ Rem_WG - StoneWood Pass.esp
 # Finishing Up
 
 Click [**here**](finishingup.md) to put the final touches on your mod setup.
-
-up.md) to put the final touches on your mod setup.
-
