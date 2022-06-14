@@ -1,9 +1,11 @@
+[<<	Back to Preamble](preamble.md)
+
 # Jump to Separator
 - [**Assets**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#assets)
 - [**Fixes**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#fixes)
 - [**UI**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#ui)
 - [**OpenMW Lua**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#openmw-lua) 
-- [**MWSE** Soon](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#mwse) 
+- [**MWSE**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#mwse) 
 - [**Audio**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#audio)
 - [**Landmasses**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#landmasses)
 - [**Cell Edits & Overhauls**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#cell-edits--overhauls)
@@ -12,102 +14,18 @@
 - [**Creatures**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#creatures)
 - [**Apparel & Weapons**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#apparel--weapons)
 - [**NPCs & Companions**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#npcs--companions)
-- [**Dialogue**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#dialogue)
+- [**Dialogue**](modlist.md#dialogue)
 - [**Levelled Lists**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#levelled-lists)
 - [**Gameplay**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#gameplay)
 - [**Rebalance**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#rebalance)
 - [**Quests**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#quests)
 - [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass)
 
-# Utilities
-
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my ```Modding``` Folder and the rest in a ```Modding Tools``` directory within the same folder.
-
-![image](images/moddingdirectory.png)
-
-## Necessary Utilities
-
-### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
-
-For modding I use **Mod Organizer 2**, this is the method I recommend because it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
-
-For OpenMW I use the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by **AnyOldName3** to export my mod list and load order to ```openmw.cfg```. 
-
-*Do not manually install mods, I will be very disappointed in you.*
-
-### [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
-
-This is for analyzing and sorting your load order using a set of ordering rules.
-
-Add to your **MO2** executables list. When you run **mlox** for the first time it will create an ```mlox_base.txt``` file in ```C:\Users\<your user name>\AppData\Local\mlox\mlox```, this directory is where the latest ```mlox_user.txt```(link above) will go. Optionally also add ```-n -u``` to the 'Arguments' field to stop **mlox** from checking online and opening the GUI. 
-
-### [tes3merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
-
-A tool for automatically patching conflicts between mods by merging changes to objects. For a more detailed description refer to the Nexus page.
-
-Add to your **MO2** executables list and be sure to add the path to your ```Data Files``` in the 'Start in' field otherwise **tes3merge** may not be able to find your plugins.
-
-### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439)
-
-**Wrye Mash** is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. 
-
-Add to your **MO2** executables list.
-
-## Not Technically Necessary But Still Recommended
-<details>
-<p>
-
-### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
-Powerful editor for plugins and saves.
-
-### [TESPCD](https://mw.modhistory.com/download-95-5283)
-**TESPCD** is for detecting conflicts between plugins, such as when two mods edit the same cell.
-
-### [Nifskope](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z) ([VC++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685))
-
-### [Ordenator](https://www.nexusmods.com/newvegas/mods/46074?tab=description) ([Required](http://www.microsoft.com/download/en/details.aspx?id=17718))
-Ordenator is for optimizing textures. 
-
-Textures that need optimizing include:
-- Uncompressed textures
-- Textures lacking mipmaps (note that UI textures do not need mipmaps)
-- Textures saved in the wrong compression format (should be DXT1 unless it has transparency, then it should be DXT5, NOT DXT3)
-
-### [7-Zip](https://www.7-zip.org/)
-For opening archives, or making your own.
-
-### [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.5/)
-A very handy plain text editor.
-
-</p>
-</details>
-
 ----
 
-# Before We Start Pt. II
-
-Before moving on to the mod installation be sure to get all of the necessary utilities installed and ready. Additionally, multiple mods listed below have groundcover plugins, if you don't plan on using groundcover simply skip these and everything under the [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass) section. 
-
-All mods on this list are compatible with eachother but other mods may conflict. If you have a question about what a mod does or any potential incompatabilities with other mods not on this list:
-
-- Read the Nexus description
-- Read the Readme
-- Check in-game on a new save for obvious issues (buildings placed inside of eachother, floating doors, etc)
-
-Only after doing the three steps above should you go around asking others.
-
-If you notice a bug with a mod:
-
-- Disable any potentially conflicting mods, safest choice is to disable all mods that you aren't testing 
-- Start a new character, preferably with a quickstart mod such as the one on this list
-- Reproduce the bug
-- If it's a misplaced object (floaters, z-fighting, etc), use the ```ori``` command on the object and take a screenshot
-
-Only after doing these steps should you report a bug to the mod author (in the **BUGS** section, not **POSTS**). 
 
 The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. 
-
-To return to the top click the '⭡' next to any separator.
+To return to the top click the '**⭡**' next to any separator.
 
 # Assets	[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -122,20 +40,17 @@ Download:
 
 If the devs of these projects got a nickel for every time someone forgot to register their BSAs they would have bought Bethesda and made Elder Scrolls VII by now. 
 
-**[OpenMW]** Add the following lines to your **openmw.cfg**
+**[OpenMW]** Add the following lines to your `openmw.cfg`
 ```
 fallback-archive=PT_Data.bsa
 fallback-archive=TR_Data.bsa
 ```
-**[Original Engine]**  Add the following lines to your **MO2** profile's **Morrowind.ini**
+**[Original Engine]**  Add the following lines to your **MO2** profile's `Morrowind.ini`
 ```
 [Archives]
 Archive 3=PT_Data.bsa
 Archive 4=TR_Data.bsa
 ```
-The profile-specific **Morrowind.ini** in **MO2** can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**.
-
-![mo2puzzleicon](images\mo2inieditor.png)
 
 ### [OAAB Data](https://www.nexusmods.com/morrowind/mods/49042)
 A free-to-use asset repository for the Morrowind Community that adheres to a charming vanilla+ aesthetic.
@@ -375,9 +290,6 @@ Download:
 	- [x] Rescource Pack
 	- [x] Lore Friendly Pack
 
-### [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715)
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-
 ### [Matching Manuscripts](https://www.nexusmods.com/morrowind/mods/51132)
 Dynamically changes the book menu to make the book cover match the actual book being read.
 
@@ -452,6 +364,9 @@ Holding down a hotkey (default left shift) while clicking an item in your invent
 
 ### [Rational Names](https://www.nexusmods.com/morrowind/mods/50000)
 Makes various changes to item names for more convenient inventory sorting, and enables names to exceed Morrowind's limit of 31 characters.
+
+### [Realistic Archery](https://www.nexusmods.com/morrowind/mods/51473?tab=description)
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range.
 
 ### [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248)
 Using MWSE Lua, modifies movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -530,6 +445,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 Download:
 - **Aura 3.0 - Replacer**
 	- [x] All Modules
+
 ### [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826)
 Gives Solstheim barrows a unique sound effect to use instead of reusing the "haunted whispers" sound used in vanilla ancestral tombs.
 
@@ -611,6 +527,7 @@ Download:
 - **Main File**
 	- [x] Core
 	- [x] Remiros Groundcover addon
+	- [x] Bloodmoon Rebalance patch
 
 Hide or Delete:
 ```
@@ -691,7 +608,7 @@ Download:
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
 Makes the palace of Vivec worthy of a god.
 
-Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover)
+Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover).
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
@@ -858,6 +775,14 @@ Corrects the UV mapping on Telvanni exterior models.
 ### [Telvanni Door Handle](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 Replaces a certain pesky door handle.
 
+### [Imperial Door Fixes](https://www.nexusmods.com/morrowind/mods/47266?tab=description)
+UV, vertex color, and texture fixes for several Imperial door meshes. Also includes two optional fixes for modded textures.
+
+Download:
+- **Imperial Door Fixes**
+	- [x] Core
+	- [x] Arkitektora Fix
+
 ### [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 Fixes tons of mesh errors and improves performance, if you don't have this mod you're doing it wrong.
 
@@ -869,10 +794,10 @@ Download:
 ### [Mistify](https://www.nexusmods.com/morrowind/mods/48112)
 Used only as a replacer for the vanilla mist.
 
-Hide or Delete:
-```
-Mistify.esp
-```
+Download:
+- **Mistify**
+	- [x] Vanilla Mist Replacer
+
 ### [RR Mod Series - Better Meshes](https://www.nexusmods.com/morrowind/mods/43266) ([fix](https://www.nexusmods.com/morrowind/mods/46026?tab=description))
 Smooth meshes.
 
@@ -881,7 +806,6 @@ Download:
 	- [x] Main Files
 	- [x] Optional - Smaller 0.5 Potions
 - **RR - Better Crates and Barrels V1.1**
-- **RR - Better Crystals 1.0**
 
 Install fix linked above.
 
@@ -907,7 +831,7 @@ Download:
 Install fix linked above.
 
 ### [Morrowind Enhanced Textures](https://www.nexusmods.com/morrowind/mods/46221)
-High quality upscaled texture replacer, the base upon which other retextures will build.
+High quality upscaled texture replacer, a solid base to add other retextures on top of.
 
 <details> <summary>Alternatives</summary>
 
@@ -1084,17 +1008,6 @@ Atlas provided in **My Atlas Texture Collection**.
 High resolution (2K) retexture of the Imperial forts that stays true to the original color palette.
 
 Atlas provided in **My Atlas Texture Collection**.
-
-### [Hidden Imperial Door Fix](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
-Gives the hidden imperial door the same shading as the walls it is next to so that it doesn't stick out like a sore thumb.
-
-### [Imperial Door Fixes](https://www.nexusmods.com/morrowind/mods/47266?tab=description)
-UV, vertex color, and texture fixes for several Imperial door meshes. Also includes two optional fixes for modded textures.
-
-Download:
-- **Imperial Door Fixes**
-	- [x] Core
-	- [x] Arkitektora Fix
 
 ### [Dry Stone Walls Revamped](https://www.nexusmods.com/morrowind/mods/49069)
 Improves dry stone walls by fixing the UVs and getting rid of the ugly rocks.
@@ -1285,17 +1198,16 @@ Download:
 	- [x] Optional Texture for Glowing Ash
 - **HD Bloodmoon Forge**
 
+### [Improved Lights for All Shaders](https://www.nexusmods.com/morrowind/mods/51463)
+Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods.
+
+What would we do without **Hemaris**?
+
 ### [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
 - Glow Effect ->  No
 - Ashlander Lantern Style ->  More Detailed
 - Ashlander Lantern Textures ->  Use my own
 - Tamriel_Data ->  Yes
-
-### [Apel's Fire Retexture Patched](https://www.nexusmods.com/morrowind/mods/50092)	**[*OpenMW Only*]**
-Retextures fire, [original mod](https://www.nexusmods.com/morrowind/mods/42554) by **Apel**, patched for OpenMW.
-
-### [Apel's Fire Retexture](https://www.nexusmods.com/morrowind/mods/42554)	**[*Original Engine Only*]**
-Retextures fire.
 
 ### [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
 Makes it so many smoke effects are much more laid back and easier on the eyes.
@@ -1591,9 +1503,6 @@ Improved and streamlined meshes for vanilla pauldrons.
 
 ### [N'wah's Work Pauldrons](https://www.nexusmods.com/morrowind/mods/49103)
 Improved and streamlined meshes for vanilla pauldrons.
-
-### [Armors Retexture - Outlander Styles](https://www.nexusmods.com/morrowind/mods/44210)
-High quality and detailed retexture for armors used by n'wah.
 
 ### [RR Mod Series - Better Telvanni Cephalopod Armor](https://www.nexusmods.com/morrowind/mods/44837) ([No Back Shell](https://www.nexusmods.com/morrowind/mods/49334))
 Only the Assets are needed.
@@ -1968,11 +1877,23 @@ Ebonheart_Underworks.esp
 ### [Even More Mysterious Killings in Vivec](https://www.nexusmods.com/morrowind/mods/49661)
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 
+### [Expedition to Mzelthuand](https://www.nexusmods.com/morrowind/mods/45229) **[*Original Engine Only*]**
+Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study facility that holds far more than it lets on.
+
+Download:
+- **Expedition to Mzelthuand**
+- **Expedition to Mzelthuand - Cleaned Melchior Dahrk**
+
+The main file is packaged incorrectly, right click on the **Expedition to Mzelthuand** folder and select **Set as \<data files> directory**
+
 ### [Fighters Guild Improved](https://www.nexusmods.com/morrowind/mods/51409)
 Overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
 ### [Frozen in Time](https://www.nexusmods.com/morrowind/mods/50077)
 This quest will bring you back in time, to solve a mystery untouched for hundreds of years. 
+
+### [Galerion's Tools](https://www.nexusmods.com/morrowind/mods/47901) **[*Original Engine Only*]**
+Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.
 
 ### [God of Worms](https://www.nexusmods.com/morrowind/mods/48028)
 Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
@@ -2022,6 +1943,9 @@ Hide or Delete:
 Of Justice and Innocence.esp
 ```
 
+### [Pimp My Shrine - The Daedric Legend of Vernaccus](https://www.nexusmods.com/morrowind/mods/49173) **[*Original Engine Only*]**
+A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.
+
 ### [ReadMe - Library of Vivec Overhaul](https://www.nexusmods.com/morrowind/mods/49916)
 Redesigns the Library of Vivec from scratch. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book.
 
@@ -2045,6 +1969,14 @@ Adds an imposing landmark, known as "Baan Binif", to the Ashlands, and three new
 ### [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423)
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
 
+### [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214) **[*Original Engine Only*]**
+The Sanguine Rose adds a fully featured Daedric Quest for Sanguine, the prince of hedonistic revelry, debauchery, and passionate indulgences of darker natures. An Ordinator has been sniffing out Sanguine's shrine and he wants you to take care of the nosy do-gooder in an unconventional way.
+
+Download:
+- **The Sanguine Rose**
+	- [x] Core
+	- [x] MWSE ME Patch 
+
 ### [The Stolen Sweetrolls ( OAAB required )](https://www.nexusmods.com/morrowind/mods/51288)
 Somebody in Seyda Neen has stolen Pullia's Sweetrolls, can you find out who did it?
 
@@ -2055,6 +1987,9 @@ Download:
 
 ### [The Vestige of Bethaleft](https://www.nexusmods.com/morrowind/mods/50663)
 Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
+
+### [The Wabbajack](https://www.nexusmods.com/morrowind/mods/44653) **[*Original Engine Only*]**
+Adds the legendary Wabbajack artifact!
 
 # Grass		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -2092,63 +2027,9 @@ Rem_GL_Trackless_GL.esp
 Rem_WG - StoneWood Pass.esp
 ```
 
-### Activating Groundcover **[*OpenMW Only*]**
+# Finishing Up
 
-**Important Note: Do not activate grass plugins in the right pane of MO2 or in the OpenMW launcher, do not add content lines for groundcover plugins in openmw.cfg**
+Click [**here**](finishingup.md) to put the final touches on your mod setup.
 
-Add the following lines to **settings.cfg**
-```
-[Grouncover]
-enabled = true
-density = 1.0
-min chunk size = 0.5
-stomp mode = 2
-stomp intensity = 1
-rendering distance = 12288
-```
-Stomp intensity can be lowered to zero to disable stomping entirely and density can be lowered if desired.
+up.md) to put the final touches on your mod setup.
 
-Add the following lines to **openmw.cfg**
-```
-#Vanilla
-groundcover=Rem_BC.esp
-groundcover=Rem_AC.esp
-groundcover=Rem_AL.esp
-groundcover=Rem_AI.esp
-groundcover=Rem_WG.esp
-groundcover=Rem_GL.esp
-groundcover=Rem_GL - OAAB Landscape.esp
-
-#Tamriel Rebuilt
-groundcover=Rem_TR_AC.esp
-groundcover=Rem_TR_AI.esp
-groundcover=Rem_TR_AT.esp
-groundcover=Rem_TR_BC.esp
-groundcover=Rem_TR_GL.esp
-groundcover=Rem_TR_RR.esp
-groundcover=Rem_TR_WG.esp
-
-#TR Preview
-groundcover=Rem_TRp_AI.esp
-groundcover=Rem_TRp_AL.esp
-groundcover=Rem_TRp_AT.esp
-groundcover=Rem_TRp_BC.esp
-groundcover=Rem_TRp_GL.esp
-groundcover=Rem_TRp_GM.esp
-groundcover=Rem_TRp_RR.esp
-groundcover=Rem_TRp_Sol.esp
-groundcover=Rem_TRp_TV.esp
-groundcover=Rem_TRp_WG.esp
-
-#Skyrim Home of the Nords
-groundcover=Sky_Main_Grass.esp
-
-#Solstheim - Tomb of the Snow Prince
-groundcover=VSW-Rem-Anthology Solstheim.esp
-
-#Landscape Overhaul for Lokken Mountain
-groundcover=Rem_Lokken_RP_Grass.esp
-
-#Legend of Chemua Moved
-groundcover=Rem_LoCM.esp
-```

@@ -31,3 +31,22 @@
 ## 6/8/22
 - Small touchups 
 - Updated BCOM installation instructions
+
+## 6/14/22
+- Removed Hidden Imperial Door Fix
+- Removed Armors Retexture - Outlander Styles
+- Removed Apel's Fire Retexture
+- Removed Marksman Rebalanced
+- Added Realistic Archery
+- Added Improved Lights for All Shaders
+- Added Expedition to Mzelthuand
+- Added Pimp My Shrine - The Daedric Legend of Vernaccus
+- Added The Sanguine Rose
+- Added The Wabbajack
+- Added Galerion's Tools
+- Fixed Mistify installation instructions
+- Fixed Landscape Overhaul for The White Wolf of Lokken Mountain installation instructions
+- Added Useful Links doc
+- Added Preamble
+- Updated README
+- Added MO2 Basics doc
