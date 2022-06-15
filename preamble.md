@@ -54,7 +54,7 @@ Textures that need optimizing include:
 
 <details> <summary>Ordenador Settings</summary>
 
-> ![ordenadorsettings](images\ordenadorsettings.png)
+> ![ordenadorsettings](images/ordenadorsettings.png)
 
 </details>
 
