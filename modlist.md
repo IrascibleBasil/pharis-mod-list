@@ -889,6 +889,17 @@ Download:
 ### [My Atlas Texture Collection](mods/My%20Atlas%20Texture%20Collection.7z)
 Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas BAT files.
 
+Download:
+- **My Atlas Texture Collection**
+	- [x] Hlaalu Arkitektora
+	- [x] Redoran Arkitektora
+	- [x] Shacks Arkitektora
+	- [x] Ordo Arkitektora
+	- [x] Vivec Arkitektora
+	- [x] Arkitektora Doors
+	- [x] Articus 6th House
+	- [x] Lysol Imperial Forts
+
 ### [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
 2k retexture of all regions in the style of the original game.
 
