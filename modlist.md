@@ -923,7 +923,7 @@ I lava this mod.
 ### [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 Pluginless replacer for the eight main trees on the Bitter Coast.
 
-### [Vanilla-friendly West Gash Tree Replacer](nexusmods.com/morrowind/mods/44173)
+### [Vanilla-friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
 Pick the no billboard leaves option so the leaves don't follow you.
 
 ### [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
