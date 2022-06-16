@@ -57,3 +57,4 @@
 - Fixed Darknut's Lighted Dwemer Towers installation instructions
 - Added more details to Unofficial Morrowind Plugins Patched
 - Fixed Tamriel Data HD installation instructions
+- Fixed Nifty Elemental Magic Sounds installation instructions

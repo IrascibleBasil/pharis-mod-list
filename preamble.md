@@ -4,7 +4,7 @@
 
 These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my `Modding` Folder and the rest in a `Modding Tools` directory within the same folder.
 
-> ![image](images/moddingdirectory.png)
+> ![image](images/moddingDirectory.png)
 
 ## Necessary
 
@@ -28,7 +28,11 @@ Add to your **MO2** executables list. When you run **mlox** for the first time i
 
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
-Add to your **MO2** executables list and be sure to add the path to your `Data Files` in the 'Start in' field otherwise **TES3Merge** may not be able to find your plugins.
+Add to your **MO2** executables list and be sure to add the path to your Morrowind directory (the folder that contains Morrowind.exe) in the 'Start in' field otherwise **TES3Merge** may not be able to find your plugins.
+
+### [Morrowind Code Patch]() **[*Original Engine Only*]**
+
+### [MGE XE]() **[*Original Engine Only*]**
 <!--
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
 
@@ -54,7 +58,7 @@ Textures that need optimizing include:
 
 <details> <summary>Ordenador Settings</summary>
 
-> ![ordenadorsettings](images/ordenadorsettings.png)
+> ![ordenadorsettings](images/ordenadorSettings.png)
 
 </details>
 

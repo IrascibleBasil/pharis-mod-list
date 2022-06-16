@@ -37,7 +37,10 @@ Download:
 - **Tamriel Data (HD)**
 	- [x] Core
 
-Not recognized as a bain by MO2 because of the file patcher; Right click on **Core** and select **Set as <data files directory\>**.
+Incorrectly packaged:
+- Right click on **Core**
+- Select **Set as <data files\> directory**
+- Install
 
 If the devs of these projects got a nickel for every time someone forgot to register their BSAs they would have bought Bethesda and made Elder Scrolls VII by now.
 
@@ -115,7 +118,7 @@ This mod makes the game treat skill increases from quests as if there were raise
 ### [TrueType Fonts for OpenMW](https://www.nexusmods.com/morrowind/mods/46854)	**[*OpenMW Only*]**
 This will make the text in-game much sharper and easier on the eyes, installed outside of **MO2**.
 
-Place everything from the ```Fonts``` folder into ```"C:\"your OpenMW directory"\resources\mygui"```
+Place everything from the `Fonts` folder into `"C:\"your OpenMW directory"\resources\mygui"`
 
 ### [Better Readable Beauty Font](https://www.nexusmods.com/morrowind/mods/49201?tab=description) **[*Original Engine Only*]**
 Texture edit of Hrnchamd's Better Dialogue Font, completely reworking the Morrowind vanilla letters.
@@ -123,7 +126,9 @@ Texture edit of Hrnchamd's Better Dialogue Font, completely reworking the Morrow
 ### [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540)	**[*Original Engine Only*]**
 A high resolution replacement for the Daedric font used in scrolls.
 
-Incorrectly packaged, take ```daedric_font.fnt``` and ```daedric_font_obw.tex```, put them in a folder named ```Fonts```, and install.
+Incorrectly packaged:
+- Put `daedric_font.fnt` and `daedric_font_obw.tex` into a folder named **Fonts**
+- Install
 
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
 A high quality, modular UI mod.
@@ -185,7 +190,7 @@ Allows enemies to follow the player through load doors.
 
 # MWSE	[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)	**[*Original Engine Only*]**
 
-### [Actually Unlimited Skeleton Key]()
+### [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972)
 Makes the Skeleton Key actually have unlimited uses.
 
 ### [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
@@ -451,6 +456,8 @@ Download:
 - **Aura 3.0 - Replacer**
 	- [x] All Modules
 
+For OpenMW be sure top only get the replacer file as the main file uses MWSE.
+
 ### [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826)
 Gives Solstheim barrows a unique sound effect to use instead of reusing the "haunted whispers" sound used in vanilla ancestral tombs.
 
@@ -471,6 +478,11 @@ Vanilla-friendly spell sounds replacer.
 
 ### [Nifty Elemental Magic Sounds](https://www.nexusmods.com/morrowind/mods/50240)
 Replaces sounds for elemental magic with more distinct, nifty sounds.
+
+Incorrectly packaged:
+- Right click on **Nifty Elemental Magic Sounds**
+- Select **Set as <data files\> directory**
+- Install
 
 ### [Shut the Fuck up Cliff Racers](https://www.nexusmods.com/morrowind/mods/46588)
 Drastically reduces the frequency of idle Cliff Racer screeches, by editing the kf file of the cliff racer mesh.
@@ -551,7 +563,7 @@ Use the moved version of the plugin linked above for **Tamriel Rebuilt** compati
 Adds a guar stables outside Vivec, near the Foreign Quarter.
 
 ### [Concept Art Plantations](https://www.nexusmods.com/morrowind/mods/50020)
-A concept art-based overhaul of the Arvel and Dren plantations made by the very talented **Duo Dynamico**(**RandomPal** & **Vegetto88**)
+A concept art-based overhaul of the Arvel and Dren plantations made by the very talented **Duo Dynamico** (**RandomPal** & **Vegetto88**)
 
 Only the assets are needed, use the plugin from **BCOM - Patches**.
 
@@ -616,7 +628,7 @@ Makes the palace of Vivec worthy of a god.
 Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover).
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
-Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
+Replaces the prison moon with a model made by **qwertyasdfgh** for Morroblivion, also moves it to a higher position.
 
 <details>	<summary>Alternatives</summary>
 
@@ -922,6 +934,12 @@ I lava this mod.
 
 ### [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 Pluginless replacer for the eight main trees on the Bitter Coast.
+
+Incorrectly packaged:
+- Select Manual in the install window
+- Right click on **Data Files**
+- Select **Set as <data files\> directory**
+- Install
 
 ### [Vanilla-friendly West Gash Tree Replacer](nexusmods.com/morrowind/mods/44173)
 Pick the no billboard leaves option so the leaves don't follow you.
@@ -1898,8 +1916,6 @@ Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take u
 Download:
 - **Expedition to Mzelthuand**
 - **Expedition to Mzelthuand - Cleaned Melchior Dahrk**
-
-The main file is packaged incorrectly, right click on the **Expedition to Mzelthuand** folder and select **Set as \<data files> directory**
 
 ### [Fighters Guild Improved](https://www.nexusmods.com/morrowind/mods/51409)
 Overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
