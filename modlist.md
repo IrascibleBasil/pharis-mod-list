@@ -37,7 +37,9 @@ Download:
 - **Tamriel Data (HD)**
 	- [x] Core
 
-If the devs of these projects got a nickel for every time someone forgot to register their BSAs they would have bought Bethesda and made Elder Scrolls VII by now. 
+Not recognized as a bain by MO2 because of the file patcher; Right click on **Core** and select **Set as <data files directory\>**.
+
+If the devs of these projects got a nickel for every time someone forgot to register their BSAs they would have bought Bethesda and made Elder Scrolls VII by now.
 
 **[OpenMW]** Add the following lines to your `openmw.cfg`
 ```
@@ -73,7 +75,7 @@ Download:
 ### [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 Unofficial patch mod that takes a conservative approach to what is considered a bug, in contrast with some past(and [current](https://www.nexusmods.com/skyrimspecialedition/mods/266)) community patch projects that introduced unnecessary gameplay alterations. If you use only one mod, pick this one.
 
-**Disclaimer: Do not clean this mod with tes3cmd.**
+**Important Note: Do not clean this mod with tes3cmd.**
 
 ### [Unofficial Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)
 An attempt to fix the many issues present in Bethesda's original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.
@@ -82,7 +84,10 @@ Download:
 - **Main File**
 	- [x] adamantium armor compatibility
 
-If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**.
+If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**. 
+
+I wouldn't recommend Lefemm or Entertainers. 
+Area Effect Arrows is replaced by **Area Effect Arrows Integrated**; Helm of Tohan and Master Index are replaced by **Bethesda Official Plugins Naturalized**.
 
 ### [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 Fixes Bethesda's scuffed expansion integration, that assumed you had already completed the main quest as soon as you took a nap in Seyda Neen, by appropriately delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).
@@ -121,6 +126,7 @@ A high resolution replacement for the Daedric font used in scrolls.
 Incorrectly packaged, take ```daedric_font.fnt``` and ```daedric_font_obw.tex```, put them in a folder named ```Fonts```, and install.
 
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
+A high quality, modular UI mod.
 
 <details>	<summary>Alternatives</summary>
 
@@ -166,7 +172,7 @@ Replaces the magic icon used for enchanted items in your inventory.
 
 # OpenMW Lua		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)	**[*OpenMW Only*]**
 
-**Disclaimer: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty**
+**Important Note: Lua is currently only available on 0.48 Dev builds and breaking changes are a possibilty**
 
 ### [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
 Follower HUD and automatic teleportation.
@@ -537,7 +543,7 @@ Long ago, there existed a Nord named CHEMUA, who belched blight and made Velothi
 
 Use the moved version of the plugin linked above for **Tamriel Rebuilt** compatibility.
 
-**Important: Use only the moved plugin or you will get two islands.**
+**Important Note: Use only the moved plugin or you will get two islands.**
 
 # Cell Edits & Overhauls	[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -562,8 +568,8 @@ Download:
 	- [x] Core
 	- [x] Hlaalu Council Hall Plaza - Izy Style
 	- [x] Riverside - Stone Dock
-	- [x] **[OpenMW]** Plaza Weather Mechanics (MWSE) - Required 
-	- [x] **[Original Engine]** Weather Mechanics for (OpenMW) - Required
+	- [x] **[Original Engine]** Plaza Weather Mechanics (MWSE) - Required 
+	- [x] **[OpenMW]** Weather Mechanics for (OpenMW) - Required
 	- [x] Suran dock expansion & clutter addon
 	- [x] White Suran
 	- [x] Stav's Mages Guilds
@@ -841,13 +847,23 @@ High quality upscaled texture replacer, a solid base to add other retextures on 
 ### [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 Makes windows glow at night and adds interior sunrays.
 
-Download:
+**[OpenMW]** Download:
 - **Main File**
 	- [x] Nord Glass Windows
 	- [x] Raven Rock Windows
+	- [x]  Telvanni Tower Interior Glow > OpenMW
+
+**[Original Engine]** Download:
+- **Main File**
+	- [x] Nord Glass Windows
+	- [x] Raven Rock Windows
+	- [x]  Telvanni Tower Interior Glow > MGE XE
+
 
 ### [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
 **Glow in the Dahrk** brought to a Dwemer ruin near you! Everyone say "Thanks, Darknut!"
+
+The data files for this mod are one file too deep.
 
 ### [Solstheim Graphical Replacer](https://www.nexusmods.com/morrowind/mods/46810)
 Download:

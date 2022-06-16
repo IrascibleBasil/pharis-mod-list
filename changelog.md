@@ -50,3 +50,10 @@
 - Added Preamble
 - Updated README
 - Added MO2 Basics doc
+
+## 6/16/22
+- Updated Glow in the Dahrk installation instructions
+- Fixed Beautiful Cities of Morrowind installation instructions
+- Fixed Darknut's Lighted Dwemer Towers installation instructions
+- Added more details to Unofficial Morrowind Plugins Patched
+- Fixed Tamriel Data HD installation instructions
