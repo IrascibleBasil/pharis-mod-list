@@ -613,7 +613,7 @@ Download:
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
 Makes the palace of Vivec worthy of a god.
 
-Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover).
+Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover.7z).
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
@@ -1488,7 +1488,7 @@ Replacer for the Necromancer's Amulet modelled after its appearance in the later
 Download:
 - **NecromancersAmulet**
 
-### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773) ([Updated Updated Tamriel Data Patch](mods\Better%20Robes%20-%20Updated%20Updated%20Tamriel%20Rebult%20Patch.7z))
+### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773) ([Updated Updated Tamriel Data Patch](mods/Better%20Robes%20-%20Updated%20Updated%20Tamriel%20Rebuilt%20Patch.zip))
 This plugin replaces male robe meshes with smoothed versions (based on NioLiv\'s meshes) and adds female variants.
 
 Download the updated patch for **Tamriel Data** compatibility.
