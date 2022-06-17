@@ -4,7 +4,7 @@
 
 These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my `Modding` Folder and the rest in a `Modding Tools` directory within the same folder.
 
-> ![image](images/moddingDirectory.png)
+> ![image](images/moddingdirectory.png)
 
 ## Necessary
 
@@ -58,7 +58,7 @@ Textures that need optimizing include:
 
 <details> <summary>Ordenador Settings</summary>
 
-> ![ordenadorsettings](images/ordenadorSettings.png)
+> ![ordenadorsettings](images/ordenadorsettings.png)
 
 </details>
 
