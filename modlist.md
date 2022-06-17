@@ -625,7 +625,7 @@ Download:
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
 Makes the palace of Vivec worthy of a god.
 
-Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover).
+Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover.7z).
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 Replaces the prison moon with a model made by **qwertyasdfgh** for Morroblivion, also moves it to a higher position.
@@ -901,6 +901,17 @@ Download:
 ### [My Atlas Texture Collection](mods/My%20Atlas%20Texture%20Collection.7z)
 Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas BAT files.
 
+Download:
+- **My Atlas Texture Collection**
+	- [x] Hlaalu Arkitektora
+	- [x] Redoran Arkitektora
+	- [x] Shacks Arkitektora
+	- [x] Ordo Arkitektora
+	- [x] Vivec Arkitektora
+	- [x] Arkitektora Doors
+	- [x] Articus 6th House
+	- [x] Lysol Imperial Forts
+
 ### [Vanilla Land](https://www.nexusmods.com/morrowind/mods/45953) ([tx_ma_crackedearth fix](https://www.nexusmods.com/morrowind/mods/47266?tab=description))
 2k retexture of all regions in the style of the original game.
 
@@ -941,7 +952,7 @@ Incorrectly packaged:
 - Select **Set as <data files\> directory**
 - Install
 
-### [Vanilla-friendly West Gash Tree Replacer](nexusmods.com/morrowind/mods/44173)
+### [Vanilla-friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
 Pick the no billboard leaves option so the leaves don't follow you.
 
 ### [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
@@ -1506,7 +1517,7 @@ Replacer for the Necromancer's Amulet modelled after its appearance in the later
 Download:
 - **NecromancersAmulet**
 
-### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773) ([Updated Updated Tamriel Data Patch](mods\Better%20Robes%20-%20Updated%20Updated%20Tamriel%20Rebult%20Patch.7z))
+### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773) ([Updated Updated Tamriel Data Patch](mods/Better%20Robes%20-%20Updated%20Updated%20Tamriel%20Rebuilt%20Patch.zip))
 This plugin replaces male robe meshes with smoothed versions (based on NioLiv\'s meshes) and adds female variants.
 
 Download the updated patch for **Tamriel Data** compatibility.
