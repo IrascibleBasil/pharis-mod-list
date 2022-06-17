@@ -1286,6 +1286,14 @@ Visual overhaul of Bound Spells, aiming at a dark daedric look.
 
 ### [Spells Reforged - Elemental Shields](https://www.nexusmods.com/morrowind/mods/50073)
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
+**[OpenMW]** Download:
+- **Spells Reforged - Elemental Shields**
+- **Temporary fix for OpenMW 0.47 use**
+
+Put the `objects_fragment.glsl` file from **Temporary fix for OpenMW 0.47 use** in your `OpenMW 0.47.0\resources\shaders` folder.
+
+**[Original Engine]** Download:
+- **Spells Reforged - Elemental Shields**
 
 ### [Spells Reforged - Shield](https://www.nexusmods.com/morrowind/mods/50905)
 Replaces Shield spell visual effect.

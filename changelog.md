@@ -58,3 +58,4 @@
 - Added more details to Unofficial Morrowind Plugins Patched
 - Fixed Tamriel Data HD installation instructions
 - Fixed Nifty Elemental Magic Sounds installation instructions
+- Updated Spells Reforged - Elemental Shields installation instructions
