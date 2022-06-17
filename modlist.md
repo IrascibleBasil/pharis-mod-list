@@ -1247,6 +1247,11 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 
 What would we do without **Hemaris**?
 
+Download:
+- **ILFAS**
+  - [x] Core
+  - [x] Smoke and Steam Emitters
+
 ### [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
 - Glow Effect ->  No
 - Ashlander Lantern Style ->  More Detailed
@@ -1259,14 +1264,28 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 ### [Remiros' Minor Retextures - Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
 Improves the texture for the mist used in Ancestral Tombs. The mist is now much smoother and more detailed, as well as less opaque and flat. 
 
+Download:
+- **Mist Retexture**
+
 ### [Qwerty's Various Graphics - Blood](https://www.nexusmods.com/morrowind/mods/46026)
 Realistic blood splatter in high resolution.
+
+Download:
+- **Blood**
 
 ### [Skeleton and Metal Sparks blood retexture](https://www.nexusmods.com/morrowind/mods/43359)
 Retexture for the two other blood types - Skeleton (white) and Metal Sparks (gold).
 
 ### [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
 This mod adds High Quality (512) animated textures for magic effects.
+
+Incorrectly packaged:
+- Select Manual in the install window
+- Right click on **Data Files**
+- Select **Set as <data files\> directory**
+- Install
+
+Plugin under Optional Files is not needed
 
 <details>	<summary>Alternatives</summary>
 
@@ -1308,13 +1327,24 @@ Replaces Shield spell visual effect.
 ### [Pluginless NoGlow Lite](https://www.nexusmods.com/morrowind/mods/43795)
 Replaces the horrid plastic wrap enchanted glow with a 4x4 transparent texture.
 
+Download:
+- **Pluginless NoGlow Lite**
+
 # Body & Head Replacers		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
 Replaces bodies of non-beast races with seamless versions, updated by **ZWolol**.
 
+Incorrectly packaged:
+- Right click on **Data Files**
+- Select **Set as <data files\> directory**
+- Install
+
 ### [Better Bodies - Hand Fixes](https://www.nexusmods.com/morrowind/mods/47521)
 This mod fixes the weird hand hand animations in better bodies.
+
+Download:
+- **BB Hand Fixes - Underwear**
 
 ### [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 Westly's wonderful head replacer touched up and brought more in line with vanilla. Coverage for **Tamriel Rebuilt** is currently being worked on.
