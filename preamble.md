@@ -29,11 +29,11 @@ Add to your **MO2** executables list. When you run **mlox** for the first time i
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
 Add to your **MO2** executables list and be sure to add the path to your Morrowind directory (the folder that contains Morrowind.exe) in the 'Start in' field otherwise **TES3Merge** may not be able to find your plugins.
-
+<!--
 ### [Morrowind Code Patch]() **[*Original Engine Only*]**
 
 ### [MGE XE]() **[*Original Engine Only*]**
-<!--
+
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
 
 **Wrye Mash** is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and, if you're on the original engine, enable the 1024 max plugin limit in the advanced settings.
