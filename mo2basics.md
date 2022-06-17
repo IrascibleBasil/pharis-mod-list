@@ -24,12 +24,12 @@ I would also recommend right clicking on the separator and choosing **Select Col
 ## Adding an Executable
 To add an executable to MO2 click on the dropdown in the top right that displays your currently selected exe and select **Edit**. In the **Modify Executables** window click on the plus icon at the top and select **Add from file**, lastly navigate to the exe that you want to add and double click it. Be sure to hit apply after changing anything in the **Modify Executables** window so that your changes are saved. 
 
-> ![exe](images/addExe.png)
+> ![exe](images/addexe.png)
 
 ## Profile Specific INI
 **MO2** uses it's own ini for Morrowind instead of the one in the game directory. The profile-specific **Morrowind.ini** in **MO2** can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**.
 
- > ![mo2puzzleicon](images/mo2IniEditor.png)
+ > ![mo2puzzleicon](images/mo2inieditor.png)
 <!--
 ## Incorrectly Packaged Mods
 
