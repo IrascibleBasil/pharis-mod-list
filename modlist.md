@@ -62,8 +62,8 @@ A free-to-use asset repository for the Morrowind Community that adheres to a cha
 Download:
 - **OAAB_Data**
 	- [x] Core
-	- [x] Epic Plants Patch
 	- [x] SM_Bitter Coast Trees Patch
+	- [x] Better Telvanni Crystal Patch
 
 ### [An Addendum to Tamrielic Lore Data](https://www.nexusmods.com/morrowind/mods/50647)
 Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project. 
@@ -546,6 +546,8 @@ Download:
 	- [x] Remiros Groundcover addon
 	- [x] Bloodmoon Rebalance patch
 
+If you are using OpenMW 0.47 you will need to remove **VSW_Tomb_of_the_Snow_Prince.esm** from the list of masters for **Rem_Lokken_RP_Grass.esp** using Wrye Mash.
+
 Hide or Delete:
 ```
 BT_Whitewolf_2_0_HOTV.esp
@@ -730,9 +732,6 @@ The Cottage.esp
 ```
 ### [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
 This mod redecorates Dark Brotherhoods lair in Old Mournhold.
-
-### [Serandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056)
-Overhauls the interior of Ienis Sarandas' house into an estate more befitting a once-wealthy family.
 
 ### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
 Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.

@@ -60,3 +60,7 @@
 - Fixed Nifty Elemental Magic Sounds installation instructions
 - Updated Spells Reforged - Elemental Shields installation instructions
 - Updated Improved Lights for All Shaders installation instructions
+
+## 6/18/22
+- Updated OAAB Data installation instructions
+- Removed Serandas Family Hearth

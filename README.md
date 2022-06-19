@@ -2,7 +2,7 @@
 Now With MWSE!
 
 
-![Baar Dau from the Stonewood Pass](images/baarDau.png)
+![Baar Dau from the Stonewood Pass](images/baardau.png)
 
 
 # About
