@@ -67,3 +67,4 @@
 
 ## 6/19/22
 - Removed Epic Plants - Modular
+- Updated settings.cfg
