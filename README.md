@@ -15,13 +15,12 @@ The primary goals of this modlist are:
 
 ## Table of Contents
 
-- [**Preamble**]() <br>
-- [**Modding Basics**]() <br>
-- [**Main Modlist**]() <br>
-- [**Purist Modlist**]() <br>
-- [**Finishing Up**]() <br>
-- [**Changelog**]() <br>
-- [**Useful Links**]() <br>
+- [**Preamble**](preamble.md) <br>
+- [**Modding Basics**](moddingBasics.md) <br>
+- [**Main Modlist**](modlist.md) <br>
+- [**Finishing Up**](finishingUp.md) <br>
+- [**Changelog**](changelog.md) <br>
+- [**Useful Links**](usefulLinks.md) <br>
 
 ---
 
