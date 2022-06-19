@@ -437,9 +437,17 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 
 # Audio		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
-<!--
-### [Aura]()
 
+### [Aura](https://www.nexusmods.com/morrowind/mods/48255) **[*Original Engine Only*]**
+Lua-based sound overhaul. Ambient sounds, interior weather, extended voices, and more. Compatible with TR/PT/SHotN. Easily customisable.
+
+Download:
+- **Main File**
+  - [x] Core
+  - [x] Replacer
+  - [x] Prayer wheel sound replacer
+
+<!--
 ### [MUSE]()
 
 ### [MUSE Music Expansion - Tomb]()
@@ -450,12 +458,24 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 
 ### [MUSE Music Expansion - Sixth House]()
 -->
-### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255)
+### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255) **[*OpenMW Only*]**
 Download:
 - **Aura 3.0 - Replacer**
 	- [x] All Modules
 
 For OpenMW be sure top only get the replacer file as the main file uses MWSE.
+
+### [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654) **[*Original Engine Only*]**
+CSO is a dynamic, customizable sound overhaul of the movement, combat, and item sounds of Morrowind.
+
+There is a leftover debug line in the `main.lua` file that will spam your log. 
+
+To fix this:
+- Open the `main.lua` file in a text editor
+- Hit ctrl + f
+- Search for "HEALTH DAMAGE"
+- Delete the line
+- Save
 
 ### [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826)
 Gives Solstheim barrows a unique sound effect to use instead of reusing the "haunted whispers" sound used in vanilla ancestral tombs.

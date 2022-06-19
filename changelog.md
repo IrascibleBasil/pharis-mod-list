@@ -71,3 +71,5 @@
 - Updated Modding Basics doc
 - Added dxvk-async to Preamble
 - Updated Finishing Up doc
+- Added Aura
+- Added Character Sound Overhaul
