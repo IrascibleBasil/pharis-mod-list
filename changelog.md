@@ -68,3 +68,6 @@
 ## 6/19/22
 - Removed Epic Plants - Modular
 - Updated settings.cfg
+- Updated Modding Basics doc
+- Added dxvk-async to Preamble
+- Updated Finishing Up doc

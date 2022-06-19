@@ -4,12 +4,9 @@
 
 These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my `Modding` Folder and the rest in a `Modding Tools` directory within the same folder.
 
-> ![image](images/moddingDirectory.png)
-
 ## Necessary
 
 ### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
-
 For modding I use **Mod Organizer 2**, this is the method I recommend because it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
 
 For OpenMW I use the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by **AnyOldName3** to export my mod list and load order to `openmw.cfg`. 
@@ -19,7 +16,6 @@ For those that are new to Mod Organizer 2 I recommend reading [**this**](modding
 *Do not manually install mods, I will be very disappointed in you.*
 
 ### [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
-
 This is for analyzing and sorting your load order using a set of ordering rules.
 
 Add to your **MO2** executables list and be sure to add the path to your `Data Files` folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
@@ -27,7 +23,6 @@ Add to your **MO2** executables list and be sure to add the path to your `Data F
 When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-u` to the **Arguments** field to stop mlox from opening the GUI.
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
-
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
 Add to your **MO2** executables list.
@@ -35,16 +30,28 @@ Add to your **MO2** executables list.
 ### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) **[*Original Engine Only*]**
 Patches bugs in the Morrowind program, which cannot otherwise be fixed by editing scripts or data files. Cures many crash and save corruption problems.
 
+Download manually and run the installer; Direct the installer to your Morrowind installation.
+
 Add to your **MO2** executables list.
 
 ### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102) **[*Original Engine Only*]**
 A graphics improvement add-on to the Morrowind engine, for longer viewing distances, great sunsets, fine shaders and better lighting. Supports MWSE 2.1, included as part of the installer, so that the newest Lua gameplay mods work straight away.
 
+Download manually and run the installer; Direct the installer to your Morrowind installation.
+
 Add to your **MO2** executables list.
 
-### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
+### [dxvk-async](https://github.com/Sporif/dxvk-async/releases/download/1.10.1/dxvk-async-1.10.1.tar.gz) **[*Original Engine Only*]**
+A Vulkan-based translation layer for Direct3D 9/10/11
 
-**Wrye Mash** is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and enable the 1024 max plugin limit in the advanced settings.
+- Open the archive with 7zip
+- Open the archive within the archive
+- Open the x32 folder
+- Put the d3d9.dll in that folder into your Morrowind directory
+- Profit
+
+### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
+Wrye Mash is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list. Install location is irrelevant, as you will tell Wrye Mash where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and enable the 1024 max plugin limit in the advanced settings.
 
 Add to your **MO2** executables list.
 

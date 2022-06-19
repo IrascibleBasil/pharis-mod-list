@@ -22,7 +22,7 @@
 - [**Quests**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#quests)
 - [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass)
 
-The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. <br>
+The mods below are in order and organized by MO2 separator. Unless stated otherwise the installation process is the same regardless of engine. <br>
 To return to the top click the '**⭡**' next to any separator.
 
 # Assets	[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
@@ -503,6 +503,8 @@ Download:
 ### [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
 **Tamriel Rebuilt** is a large fan project that aims to complete the developers' original goal of including the full province of Morrowind. 
 
+I have TR Preview installed to see the landscape in the distance; If you play on a low view distance or don't want it for some other reason, skip anything TR Preview related.
+
 Download:
 - **Tamriel Rebuilt**
 	- [x] Core
@@ -515,6 +517,8 @@ Download:
 
 ### [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
 A project that is working on bringing Skyrim to Morrowind as it was depicted in pre-TES:V sources.
+
+I wouldn't recommend this on the original engine but it is playable.
 
 ### [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 A comprehensive overhaul of Solstheim that aims to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC to a level that is consistent with modern TES:3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
@@ -533,7 +537,9 @@ Use only one **TOTSP TD Content Integration** plugin, spiders or no spiders.
 Hide or Delete:
 ```
 TOTSP_abotBoats.esp
+TOTSP_TR_Preview.esp (If not using TR Preview)
 ```
+
 ### [Landscape Overhaul for The White Wolf of Lokken Mountain](https://www.nexusmods.com/morrowind/mods/48862)
 Landscape facelift for an old classic mod, [The White Wolf of Lokken Mountain](https://lovkullen.net/Emma/lokken.htm), that also adds compatibility for **Solstheim - Tomb of the Snow Prince**.
 
@@ -595,7 +601,8 @@ Download:
 	- [x] Improved Inns Expanded
 	- [x] Scrolls of the Nine Barriers
 	- [x] Concept Art Plantations
-	- [x] TR_Travels (Mainland and Preview)
+	- [x] **[Only if *not* using TR Preview]** TR_Travels
+	- [x] **[Only if using TR Preview]** TR_Travels (Mainland and Preview)
 	- [x] Skyrim Home of the Nords Patch
 	- [x] Ebonheart Underworks
 	- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
@@ -1468,10 +1475,10 @@ Guar color replacer for Aendemika of Vvardenfell.
 Replacer and retexture of alit, using **Hedgehog-12** mesh and **Tyddy's** texture.
 
 ### [Kagouti replacer - Aendemika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/42523)
-Replacer and retexture of alit, using **Hedgehog-12** mesh and **Tyddy's** texture.
+Replacer and retexture of kagouti, using **Hedgehog-12** mesh and **Tyddy's** texture.
 
 ### [PB Cliff Racer Replacer 2.0](https://www.nexusmods.com/morrowind/mods/48978)
-This is a mesh and texture replacer for the Cliff Racer.
+Mesh and texture replacer for cliff racers.
 
 ### [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
 Download:
@@ -1479,7 +1486,7 @@ Download:
 	- [x] Data Files
 
 ### [Nix-Hound Replacer 1.0](https://www.nexusmods.com/morrowind/mods/43620)
-This is a mesh and texture replacer for the Nix-Hound creature.
+Mesh and texture replacer for the Nix-Hound creature.
 
 ### [REPLACER - Scrib Mesh Tweak](https://www.nexusmods.com/morrowind/mods/45988)
 Removes the black spots on scrib heads.
@@ -1490,7 +1497,7 @@ Pluginless replacer of rat model from **HedgeHog12**'s Symphony, with reflect, n
 # Apparel & Weapons		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Better Clothes Complete](https://www.nexusmods.com/morrowind/mods/47549)
-A collection of Better Clothes and it's fixes (Tribunal and Bloodmoon included.
+A collection of Better Clothes and it's fixes, Tribunal and Bloodmoon included.
 
 Download:
 - **Main File**
@@ -1586,8 +1593,7 @@ High quality mesh and texture replacer for the Ebony Mail.
 Replaces several vanilla helmet meshes with restyled alternatives.
 
 Download:
-- **Restyled Helmets Pick and choose**
-	- [x] 
+- **Restyled Helmets All in one**
 
 ### [Improved Templar Helmet](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
 Improved mesh and texture for the templar helmet.
@@ -1631,7 +1637,7 @@ Download:
 	- [x] Alternative Longsword and Dagger
 	- [x] Claymore Wooden Sheath
 
-Thank you to **1Mac** both for putting this together and for telling me about it on Discord. All credit for the included assets of course goes to the original authors(links on Nexus page).
+Thank you to **1Mac** both for putting this together and for telling me about it on Discord. All credit for the included assets of course goes to the original authors (links on Nexus page).
 
 ### [Oriental Mesh Improvements](https://www.nexusmods.com/morrowind/mods/29906)
 Improved meshes for katanas, tantos, etc.
@@ -1646,7 +1652,9 @@ Mesh replacer for the adamantium axe.
 Mesh replacer for the adamantium claymore.
 
 ### [Bonemold Bow Replacer](https://www.nexusmods.com/morrowind/mods/45156) ([Weapon Sheating Patch](https://www.nexusmods.com/morrowind/mods/48891))
-Download the patch for **Weapon Sheathing**(link above).
+Replaces the Bonemold Bow.
+
+Download the patch for **Weapon Sheathing** (link above).
 
 ### [Crossbows Enhanced](https://www.nexusmods.com/morrowind/mods/48586)
 Used only as a pluginless replacer.
@@ -1684,7 +1692,11 @@ Download:
 ### [The Tools of Kagrenac](https://www.nexusmods.com/morrowind/mods/44500)
 High quality mesh and texture replacer for Sunder, Keening, and Wraithguard.
 
-### [Unique Weapon - Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
+### [Unique Weapon - Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=description)
+A unique model for the Daedric Club, Mephala's Teacher.
+
+Download:
+- **Unique Weapon - Mephala's Teacher**
 
 # NPCs & Companions		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 Feel free to skip the companions if you prefer to travel alone.
@@ -2064,14 +2076,14 @@ Adds the legendary Wabbajack artifact!
 - **Main File**
 	- [x] Core OpenMW
 	- [x] TR Plugins
-	- [x] TR Preview Plugins
+	- [x] **[Only if using TR Preview]** TR Preview Plugins
 	- [x] Legend of Chemua Moved
 
 **[Original Engine]** Download:
 - **Main File**
 	- [x] Core MGE XE
 	- [x] TR Plugins
-	- [x] TR Preview Plugins
+	- [x] **[Only if using TR Preview]** TR Preview Plugins
 	- [x] Legend of Chemua Moved
 
 Hide or Delete:

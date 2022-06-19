@@ -1,21 +1,29 @@
 # Finishing Up
 
+Before running mlox or TES3Merge make sure no grass plugins are active in your load order. They should be visible in the right pane but deactivated, as shown below.
+
+![grassPlugins](images/grassPlugins.png)
+
 ## Sorting Load Order
 While it is entirely possible to sort your load order manually, and some stubborn few still do, it's a lot of trial and error with large modlists that just isn't worth the time. 
 
-As explained in the Preamble, **mlox** should be in your **MO2** executables list. Run mlox through **MO2**.
+As explained in the Preamble, **mlox** should be in your MO2 executables list. Run **mlox** through MO2.
 
 ## Merged Patches
-Merging objects and levelled lists automatically solves many incompatibilities between mods and it is an essential step to maintain a functioning load order. Both of these patches will be handled by **TES3Merge**, as since its latest update it supercedes the tes3cmd multipatch. 
+Merging objects and levelled lists automatically solves many incompatibilities between mods and it is an essential part of maintaining a functioning load order. Both of these patches will be handled by **TES3Merge**, as since its latest update it supercedes the tes3cmd multipatch. 
 
-As explained in the Preamble, you should have **TES3Merge** installed and added to your **MO2** executables. Simply run **TES3Merge** through **MO2** and rerun **mlox** to put the patches in their appropriate places.
+As explained in the Preamble, you should have **TES3Merge** installed and added to your MO2 executables. Simply run **TES3Merge** through MO2 and rerun **mlox** to put the patches in their appropriate places. If using OpenMW, now is the time to use the export plugin.
+
+## Addendum
+
+Now that you've merged levelled lists and objects, sorted your load order, and (if on OpenMW) exported your mods create a test character and run around looking for any potential issues before starting a playthrough.
 
 ## Troubleshooting Mods
 
 All mods on this list are compatible with eachother but other mods may conflict. If you have a question about what a mod does or any potential incompatabilities with other mods not on this list:
 
 - Read the Nexus description
-- Read the Readme
+- Read the mod's Readme
 - Check in-game on a new save for obvious issues (buildings placed inside of eachother, floating doors, etc)
 
 Only after doing the three steps above should you go around asking others.
@@ -27,7 +35,7 @@ If you notice a bug with a mod:
 - Reproduce the bug
 - If it's a misplaced object (floaters, z-fighting, etc), use the `ori` command on the object and take a screenshot
 
-Only after doing these steps should you report a bug to the mod author (in the *BUGS* section, not *POSTS*).
+Only after doing these steps should you report a bug to the mod author (in the *BUGS* section, not *POSTS*) with any screenshots included and a detailed explanation of what the issue is, remember the mod author has to be able to reproduce it or find the issue in-game or they can't fix it.
 
 ----
 
@@ -37,7 +45,7 @@ Only after doing these steps should you report a bug to the mod author (in the *
 
 Add the following lines to your **settings.cfg**:
 ```
-[Grouncover]
+[Groundcover]
 enabled = true
 density = 1.0
 min chunk size = 0.5
