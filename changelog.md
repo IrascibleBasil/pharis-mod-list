@@ -73,3 +73,4 @@
 - Updated Finishing Up doc
 - Added Aura
 - Added Character Sound Overhaul
+- Added OAAB Pomegranates

@@ -721,6 +721,13 @@ A remake of tombs and velothi towers.
 ### [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612)
 An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.
 
+### [OAAB Pomegranates](https://www.nexusmods.com/morrowind/mods/50726?tab=description)
+Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
+
+Download:
+- **OAAB Pomegranates**
+  - [x] Core
+
 ### [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
 Replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture.
 
@@ -1433,6 +1440,9 @@ Download:
 </details>
 
 ### [Vanilla friendly creatures and undeads expansion](https://www.nexusmods.com/morrowind/mods/48818)
+This mod takes inspiration from many other creature mods: Triangletooth Ecology Mod, Creatures XI, The Undead, Antares's arise from death to add some new creatures and make AI tweaked meant to improve gameplay and immersion. 
+It also works as a TR_data and OAAB_data creatures integration mod.
+
 Download:
 - **Main File**
 	- [x] Core
@@ -1440,9 +1450,16 @@ Download:
 	- [x] Daedric creatures use bound weapons
 
 ### [Daedric Intervention - Creatures](https://www.nexusmods.com/morrowind/mods/46044?tab=files)
+Pluginless mesh and texture replacer for Daedric creatures.
+
+Download:
+- **Daedric Intervention - Creatures**
+
 This mod is poorly packaged so you will have to take the meshes and textures files from each subfolder and combine them.
 
 ### [4thUnknowns Creatures Morrowind Edition](https://www.nexusmods.com/morrowind/mods/50137)
+Conversion of creatures originally made for Skyrim by 4thUnknown.
+
 Download:
 - **CreaturesMeshes**
 - **CreaturesTextures**
@@ -1454,15 +1471,21 @@ Download:
 - **Atronachs Textures**
 
 ### [Clannfear Replacer](https://www.nexusmods.com/morrowind/mods/45173)
+Replaces the Clannfear.
+
 Download:
 - Clannfear Replacer - OpenMW
 - Glowing Eyes
 
 ### [Scamp Replacer - Glowing Eyes](https://www.nexusmods.com/morrowind/mods/44314)
+This is a mesh and texture replacer for scamps.
+
 Download:
 - **Glowing Eyes**
 
 ### [Spriggans Glow](https://www.nexusmods.com/morrowind/mods/43350)
+This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical.
+
 Download:
 - **Main File**
 	- [x] MD Replacer
@@ -1501,8 +1524,10 @@ Replacer and retexture of kagouti, using **Hedgehog-12** mesh and **Tyddy's** te
 Mesh and texture replacer for cliff racers.
 
 ### [Improved Better Skulls](https://www.nexusmods.com/morrowind/mods/46012)
+Greatly improves the look of the various skulls found in the game, and increases visual consistency by using the skull from the skeleton instead of the crude vanilla skulls.
+
 Download:
-- **Main File**
+- **Improved Better Skulls**
 	- [x] Data Files
 
 ### [Nix-Hound Replacer 1.0](https://www.nexusmods.com/morrowind/mods/43620)
@@ -1511,8 +1536,14 @@ Mesh and texture replacer for the Nix-Hound creature.
 ### [REPLACER - Scrib Mesh Tweak](https://www.nexusmods.com/morrowind/mods/45988)
 Removes the black spots on scrib heads.
 
+Download:
+- **REPLACER - Scrib Mesh Tweak**
+
 ### [Pluginless rat replacer](https://www.nexusmods.com/morrowind/mods/43795)
 Pluginless replacer of rat model from **HedgeHog12**'s Symphony, with reflect, normals, and detail maps removed.
+
+Download:
+- **Pluginless rat replacer**
 
 # Apparel & Weapons		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
