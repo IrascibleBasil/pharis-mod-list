@@ -546,6 +546,8 @@ Download:
 	- [x] Remiros Groundcover addon
 	- [x] Bloodmoon Rebalance patch
 
+If you are using OpenMW 0.47 you will need to remove **VSW_Tomb_of_the_Snow_Prince.esm** from the list of masters for **Rem_Lokken_RP_Grass.esp** using Wrye Mash.
+
 Hide or Delete:
 ```
 BT_Whitewolf_2_0_HOTV.esp
