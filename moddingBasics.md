@@ -77,12 +77,12 @@ To add an executable to MO2:
 - In the **Modify Executables** window click on the plus icon at the top
 - Select **Add from file**
 - Navigate to the exe that you want to add and double click it
-> ![exe](images/addexe.png)
+> ![exe](images/addExe.png)
 
 ## Profile Specific INI
 **MO2** uses it's own ini for Morrowind instead of the one in the game directory. The profile-specific **Morrowind.ini** in **MO2** can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**.
 
- > ![mo2puzzleicon](images/mo2inieditor.png)
+ > ![mo2puzzleicon](images/mo2IniEditor.png)
 <!--
 > ![configureExe](images/configureExe.png)
 

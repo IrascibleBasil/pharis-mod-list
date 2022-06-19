@@ -1,3 +1,4 @@
+[<<	Back to README](README.md) <br>
 [<<	Back to Preamble](preamble.md)
 
 # Jump to Separator
@@ -21,9 +22,7 @@
 - [**Quests**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#quests)
 - [**Grass**](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#grass)
 
-----
-
-The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. 
+The mods below are in order and organized by **MO2** separator. Unless stated otherwise the installation process is the same regardless of engine. <br>
 To return to the top click the '**⭡**' next to any separator.
 
 # Assets	[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
@@ -169,7 +168,7 @@ Vanilla-style HD Cursor, recommended for high DPI displays.
 ### [Better Morrowind Crosshair](https://www.nexusmods.com/morrowind/mods/50873)
 What the title says.
 
-### [Big Icons](https://www.nexusmods.com/morrowind/mods/49662)
+### [Big Icons](https://www.nexusmods.com/morrowind/mods/49662) **[*OpenMW Only*]**
 High resolution Icon replacer that makes icons look much sharper, recommended for high DPI displays.
 
 ### [Magic Icons(Sigourn Edit)](https://www.nexusmods.com/morrowind/mods/50223)
@@ -311,7 +310,7 @@ This MWSE mod allows that functionality to be used with the Vanilla exe.
 ### [MM - Enhanced Detection](https://www.nexusmods.com/morrowind/mods/47480)
 The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects.
 
-### [MM - Enhanced Invisibility]()
+### [MM - Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565)
 The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the effect of invisibility, Daedra and undead creatures will seem... different.
 
 ### [MM - Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672)
@@ -977,23 +976,6 @@ Download:
 	- [x] Data Files
 	- [x] Pulsing Animation
 
-### [Epic Plants - Modular](https://www.nexusmods.com/morrowind/mods/46180)
-Replaces textures and models of various flora with HQ quality.
-
-Download:
-- **Epic Plants - Modular**
-	- [x] Ascadian Isles - Grass
-	- [x] Ashland - Grass
-	- [x] Ashland - Scathecraw
-	- [x] Ashland - Trama Root
-	- [x] Bitter Coast - 2D Moss
-	- [x] Bitter Coast - Grass
-	- [x] Bitter Coast - Lily Pad
-	- [x] Grazelands - Marshmerrow
-	- [x] MWSE and OpenMW GH Patch - Marshmerrow
-	- [x] MWSE and OpenMW GH Patch - Scathecraw
-	- [x] MWSE and OpenMW GH Patch - Trama Root
-
 ### [GH Patches and Replacers](https://www.nexusmods.com/morrowind/mods/46599)
 Graphic Herbalism patches.
 
@@ -1095,8 +1077,9 @@ Parallax mapped and animated ghost fence.
 Pluginless replacer for Azura and Vivec statues.
 
 Download:
-- **Azura Marble**
-- **Vivec Statues**
+- **RR - Morrowind Statues Replacer**
+  - [x] Azura Marble
+  - [x] Vivec Statues
 
 ### [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
 Retexture of the Vivec sewers.
@@ -2112,4 +2095,4 @@ Rem_WG - StoneWood Pass.esp
 
 # Finishing Up
 
-Click [**here**](finishingup.md) to put the final touches on your mod setup.
+Click [**here**](finishingUp.md) to put the final touches on your mod setup.

@@ -64,3 +64,6 @@
 ## 6/18/22
 - Updated OAAB Data installation instructions
 - Removed Serandas Family Hearth
+
+## 6/19/22
+- Removed Epic Plants - Modular

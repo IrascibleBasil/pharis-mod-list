@@ -4,7 +4,7 @@
 
 These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my `Modding` Folder and the rest in a `Modding Tools` directory within the same folder.
 
-> ![image](images/moddingdirectory.png)
+> ![image](images/moddingDirectory.png)
 
 ## Necessary
 
@@ -14,7 +14,7 @@ For modding I use **Mod Organizer 2**, this is the method I recommend because it
 
 For OpenMW I use the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by **AnyOldName3** to export my mod list and load order to `openmw.cfg`. 
 
-For those that are new to Mod Organizer 2 I recommend reading [**this**](mo2basics.md) document before continuing.
+For those that are new to Mod Organizer 2 I recommend reading [**this**](moddingBasics.md) document before continuing.
 
 *Do not manually install mods, I will be very disappointed in you.*
 
@@ -24,7 +24,7 @@ This is for analyzing and sorting your load order using a set of ordering rules.
 
 Add to your **MO2** executables list and be sure to add the path to your `Data Files` folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
 
-When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-n -u` to the **Arguments** field to stop mlox from checking online and opening the GUI.
+When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-u` to the **Arguments** field to stop mlox from opening the GUI.
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
@@ -42,13 +42,12 @@ A graphics improvement add-on to the Morrowind engine, for longer viewing distan
 
 Add to your **MO2** executables list.
 
-<!--
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
 
-**Wrye Mash** is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list, instead it will be used to merge levelled lists. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and, if you're on the original engine, enable the 1024 max plugin limit in the advanced settings.
+**Wrye Mash** is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list. Install location is irrelevant, as you will tell **Wrye Mash** where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and enable the 1024 max plugin limit in the advanced settings.
 
 Add to your **MO2** executables list.
--->
+
 ## Not Technically Necessary But Still Recommended
 
 ### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
@@ -67,7 +66,7 @@ Textures that need optimizing include:
 
 <details> <summary>Ordenador Settings</summary>
 
-> ![ordenadorsettings](images/ordenadorsettings.png)
+> ![ordenadorsettings](images/ordenadorSettings.png)
 
 </details>
 
