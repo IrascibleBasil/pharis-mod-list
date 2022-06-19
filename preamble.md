@@ -22,17 +22,26 @@ For those that are new to Mod Organizer 2 I recommend reading [**this**](mo2basi
 
 This is for analyzing and sorting your load order using a set of ordering rules.
 
-Add to your **MO2** executables list. When you run **mlox** for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-n -u` to the 'Arguments' field to stop **mlox** from checking online and opening the GUI. 
+Add to your **MO2** executables list and be sure to add the path to your `Data Files` folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
+
+When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-n -u` to the **Arguments** field to stop mlox from checking online and opening the GUI.
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
-Add to your **MO2** executables list and be sure to add the path to your Morrowind directory (the folder that contains Morrowind.exe) in the 'Start in' field otherwise **TES3Merge** may not be able to find your plugins.
+Add to your **MO2** executables list.
 
-### [Morrowind Code Patch]() **[*Original Engine Only*]**
+### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) **[*Original Engine Only*]**
+Patches bugs in the Morrowind program, which cannot otherwise be fixed by editing scripts or data files. Cures many crash and save corruption problems.
 
-### [MGE XE]() **[*Original Engine Only*]**
+Add to your **MO2** executables list.
+
+### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102) **[*Original Engine Only*]**
+A graphics improvement add-on to the Morrowind engine, for longer viewing distances, great sunsets, fine shaders and better lighting. Supports MWSE 2.1, included as part of the installer, so that the newest Lua gameplay mods work straight away.
+
+Add to your **MO2** executables list.
+
 <!--
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
 

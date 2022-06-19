@@ -946,12 +946,6 @@ I lava this mod.
 ### [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 Pluginless replacer for the eight main trees on the Bitter Coast.
 
-Incorrectly packaged:
-- Select Manual in the install window
-- Right click on **Data Files**
-- Select **Set as <data files\> directory**
-- Install
-
 ### [Vanilla-friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
 Pick the no billboard leaves option so the leaves don't follow you.
 
@@ -2036,16 +2030,25 @@ Download:
 ### [Scrolls of The Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831)
 This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the (now rare) 9th barrier scroll, adds new lore surrounding The Nine Barriers, and much more!
 
+**[OpenMW]** Download:
+- **Scrolls of the Nine Barriers**
+  - [x] Core
+
+**[Original Engine]** Download:
+- **Scrolls of the Nine Barriers**
+  - [x] Core
+  - [x] MWSE Flavor Text
+
 ### [Silent Island](https://www.nexusmods.com/morrowind/mods/50274)
 This is a horror themed mod, with pirates, Sixth House, and romance. Though this mod plays fairly different than most, as many tough enemies can be killed by the environment.
 
-Replace the icons with the ones in the ```OpenMW Icons``` folder.
+Replace the icons with the ones in the `OpenMW Icons` folder.
 
 ### [Sorcerer of Alteration](https://www.nexusmods.com/morrowind/mods/51224)
 Journey through this quest mod to improve your alteration magic.
 
 ### [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
-Adds an imposing landmark, known as "Baan Binif", to the Ashlands, and three new quests designed to flesh out the background of this mysterious structure.
+Adds an imposing landmark, known as Baan Binif, to the Ashlands, and three new quests designed to flesh out the background of this mysterious structure.
 
 ### [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423)
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
