@@ -59,3 +59,4 @@
 - Fixed Tamriel Data HD installation instructions
 - Fixed Nifty Elemental Magic Sounds installation instructions
 - Updated Spells Reforged - Elemental Shields installation instructions
+- Updated Improved Lights for All Shaders installation instructions
