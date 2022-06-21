@@ -7,9 +7,9 @@ These are programs that are either necessary for this mod list or very helpful i
 ## Necessary
 
 ### Mod Organizer 2([MO2](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), [OpenMW Plugin](https://www.nexusmods.com/morrowind/mods/45642?tab=files))
-For modding I use **Mod Organizer 2**, this is the method I recommend because it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
+For modding I use Mod Organizer 2, this is the method I recommend because it is the neatest and allows the user to more easily tweak their mod list as well as run third party programs crucial to a functioning load order. 
 
-For OpenMW I use the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by **AnyOldName3** to export my mod list and load order to `openmw.cfg`. 
+For OpenMW I use the [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642*) plugin made by AnyOldName3 to export my mod list and load order to `openmw.cfg`. 
 
 For those that are new to Mod Organizer 2 I recommend reading [**this**](moddingBasics.md) document before continuing.
 
@@ -32,7 +32,10 @@ Patches bugs in the Morrowind program, which cannot otherwise be fixed by editin
 
 Download manually and run the installer; Direct the installer to your Morrowind installation.
 
-Add to your **MO2** executables list.
+Run `Morrowind Code Patch.exe` in your Morrowind directory.
+
+### [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348)
+Beta version of MCP. Download manually and extract the contents of the archive into your Morrowind directory, overwriting when prompted.
 
 ### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102) **[*Original Engine Only*]**
 A graphics improvement add-on to the Morrowind engine, for longer viewing distances, great sunsets, fine shaders and better lighting. Supports MWSE 2.1, included as part of the installer, so that the newest Lua gameplay mods work straight away.
@@ -45,9 +48,9 @@ Add to your **MO2** executables list.
 A Vulkan-based translation layer for Direct3D 9/10/11
 
 - Open the archive with 7zip
-- Open the archive within the archive
-- Open the x32 folder
-- Put the d3d9.dll in that folder into your Morrowind directory
+- Open the archive within the archive (hehe)
+- Open the `x32` folder
+- Put the `d3d9.dll` in that folder into your Morrowind directory
 - Profit
 
 ### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
@@ -83,10 +86,14 @@ For opening archives, or making your own.
 ### [Notepad++](https://notepad-plus-plus.org/downloads/v7.9.5/)
 A very handy plain text editor.
 
-----
+<br>
+
+# Finally Some Mods
+
 Before moving on to the mod installation be sure to get all of the necessary utilities installed and ready.
 
 Click [**here**](modlist.md) to move on to the modlist.
+
 <!--
 for the full 300+ mod modlist.
 

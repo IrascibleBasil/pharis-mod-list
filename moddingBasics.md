@@ -13,9 +13,9 @@ Directory - The folder something is located in
 
 # MO2 Basics
 
-Mod Organizer 2 is a wonderdul mod manager (not sponsored trust me) that makes adding, removing, and reordering mods very easy while maintaining a pristine vanilla install (except for MGE XE and a few other things of course).
+Mod Organizer 2 is a wonderful mod manager (not sponsored trust me) that makes adding, removing, and reordering mods very easy while maintaining a pristine vanilla install (except for MGE XE and a few other things of course).
 
-**Sigourn**, the author of Morrowind Sharp, also put together a general modding tips document [**here**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md), I recommend you give it a read.
+Sigourn, the author of Morrowind Sharp, also put together a general modding tips document [**here**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md), I recommend you give it a read.
 <!--
 I will gladly help as best I can on Discord (**Pharis#2588**) if you have any other issues that aren't clearly explained here.
 -->
@@ -35,7 +35,7 @@ When you launch MO2 for the first time you will be prompted to create an instanc
 - Select `Morrowind.exe` when prompted to choose a managed game
 
 ## Profile Specific INI
-**MO2** uses it's own ini for Morrowind instead of the one in the game directory. The profile-specific **Morrowind.ini** in **MO2** can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**. This profile-specific ini is the one you should edit.
+MO2 uses it's own ini for Morrowind instead of the one in the game directory. The profile-specific `Morrowind.ini` in MO2 can be accessed by clicking on the puzzle icon in the top left of the screen and selecting **INI Editor**. This profile-specific ini is the one you should edit.
 
  > ![mo2IniEditor](images/mo2IniEditor.png)
 
@@ -99,7 +99,7 @@ Be sure to hit **apply** after changing anything so that your changes are saved.
 
 ## Installing Mods From Archives
 
-![installArchive](images/installArchive.png)
+> ![installArchive](images/installArchive.png)
 
 ## Incorrectly Packaged Mods
 Some mods are improperly packaged and therefore cannot simply be installed in a click of a button. The most common type of incorrectly packaged mods is the Data Files being one folder too deep as shown below.

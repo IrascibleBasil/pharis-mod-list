@@ -74,3 +74,14 @@
 - Added Aura
 - Added Character Sound Overhaul
 - Added OAAB Pomegranates
+
+## 6/20/22
+- Updated TrueType Fonts for OpenMW installation instructions
+- Temporarily removed Fighters Guild Improved due to incompatibility with Dura Gra-Bol's House Reclaimed
+- Updated Concept Art Plantations installation instructions
+- Updated Beautiful Cities of Morrowind - Grass Patches installation instructions
+- Updated Dragon Statue Revisited installation instructions
+- Added some things to README
+- Minor fixes (words are hard)
+- Added MCP Skunk Works (duh
+- Updated Dunmer Lanterns Replacer installation instructions
