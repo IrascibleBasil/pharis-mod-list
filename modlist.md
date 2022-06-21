@@ -1291,11 +1291,11 @@ High quality replacer for Dunmer lanterns.
 
 Download:
 - **Dunmer Lanterns Replacer**
-  - [x] Glow Effect>No
-  - [x] Tamriel_Data>Yes
-  - [x] OAAB_Data>Yes
-  - [x] Ashlander Lantern Style>More Detailed
-  - [x] Ashlander Lantern Textures>Use my own
+  - [x] Glow Effect > No
+  - [x] Tamriel_Data > Yes
+  - [x] OAAB_Data > Yes
+  - [x] Ashlander Lantern Style > More Detailed
+  - [x] Ashlander Lantern Textures > Use my own
 
 ### [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341)
 Makes it so many smoke effects are much more laid back and easier on the eyes.
