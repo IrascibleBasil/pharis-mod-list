@@ -702,10 +702,7 @@ Mournhold Overhaul, includes Distant Mournhold.
 Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
 
 ### [Dagon Fel Mill Redux](https://www.nexusmods.com/morrowind/mods/50067)
-Wonderful revival of [an old mod](https://www.nexusmods.com/morrowind/mods/42981) by **RandomPal**.
-
-### [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
-Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
+Wonderful revival of [an old mod](https://www.nexusmods.com/morrowind/mods/42981) by RandomPal.
 
 ### [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
 OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big.
@@ -1372,7 +1369,7 @@ Download:
 # Body & Head Replacers		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Better Bodies ZW](https://www.nexusmods.com/morrowind/mods/42395)
-Replaces bodies of non-beast races with seamless versions, updated by **ZWolol**.
+Replaces bodies of non-beast races with seamless versions, updated by ZWolol.
 
 Incorrectly packaged:
 - Right click on **Data Files**

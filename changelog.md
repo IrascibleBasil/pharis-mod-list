@@ -85,3 +85,6 @@
 - Minor fixes (words are hard)
 - Added MCP Skunk Works (duh
 - Updated Dunmer Lanterns Replacer installation instructions
+
+## 6/21/22
+- Removed Telvanni Council House Lounge Room
