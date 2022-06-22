@@ -37,7 +37,7 @@ Download:
 	- [x] Core
 
 Incorrectly packaged:
-- Right click on **Core**
+- Right click on `Core`
 - Select **Set as <data files\> directory**
 - Install
 
@@ -70,7 +70,7 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 Download:
 - **AATL_Data**
 	- [x] Core
-	- [x] High Res Textures
+	- [x] High Res Textures > Yes
 
 # Fixes		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -128,7 +128,10 @@ Texture edit of Hrnchamd's Better Dialogue Font, completely reworking the Morrow
 A high resolution replacement for the Daedric font used in scrolls.
 
 Incorrectly packaged:
-- Put `daedric_font.fnt` and `daedric_font_obw.tex` into a folder named `Fonts`
+- Right click on **<data files\>**
+- Select **Create directory** and name the directory `Fonts`
+- Move `daedric_font.fnt` and `daedric_font_obw.tex` into `Fonts`
+- Uncheck everything except for the `Fonts` folder
 - Install
 
 ### [Kezyma's UI Remastered](https://www.nexusmods.com/morrowind/mods/48987)
@@ -228,8 +231,12 @@ An MWSE leveling mod that implements most features of Galsiah's Character Develo
 
 </details>
 
-### [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/46136)
-Adds health bars for your companions and summoned creatures to the HUD.
+### [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)
+Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.
+Also, added compatibility with Seph's HUD customizer.
+
+Download:
+- **Compact Version**
 
 ### [Companion Stop](https://www.nexusmods.com/morrowind/mods/50061)
 Stops all player followers with a single keypress.
@@ -251,6 +258,10 @@ Avoid actors getting stuck while opening doors.
 
 ### [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
 With this mod, if you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game. But be careful not to get too close lest you be shocked!
+
+Download:
+- **Dwemer Lightning Rods**
+  - [x] MWSE
 
 ### [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC. Absolutely essential mod.
@@ -313,6 +324,10 @@ This MWSE mod allows that functionality to be used with the Vanilla exe.
 
 ### [MM - Enhanced Detection](https://www.nexusmods.com/morrowind/mods/47480)
 The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects.
+
+Download:
+- **Enhanced Detection**
+  - [x] Core
 
 ### [MM - Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565)
 The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the effect of invisibility, Daedra and undead creatures will seem... different.
@@ -504,7 +519,7 @@ Vanilla-friendly spell sounds replacer.
 Replaces sounds for elemental magic with more distinct, nifty sounds.
 
 Incorrectly packaged:
-- Right click on **Nifty Elemental Magic Sounds**
+- Right click on `Nifty Elemental Magic Sounds`
 - Select **Set as <data files\> directory**
 - Install
 
@@ -588,7 +603,7 @@ BT_Whitewolf_2_0_HOTV.esp
 ### [Legend of Chemua](https://www.nexusmods.com/morrowind/mods/45253) ([Moved](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=93&Itemid=50&-Legend-of-Chemua-Moved))
 Long ago, there existed a Nord named CHEMUA, who belched blight and made Velothi's glorious clouds excrete bile. His helmet still remains, and Dagoth Ur's minions have found it.
 
-Use the moved version of the plugin linked above for **Tamriel Rebuilt** compatibility.
+Use the moved version of the plugin linked above for Tamriel Rebuilt compatibility.
 
 > **Warning**
 > 
@@ -666,10 +681,23 @@ Download:
 ### [Concept Art Palace(Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
 Makes the palace of Vivec worthy of a god.
 
-Install whatever configuration you want just be sure to get the Glow in the Dahrk patch. I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover.7z).
+**[OpenMW]** Download:
+- **Concept Art Palace**
+  - [x] Core Files
+  - [x] Dome - Small Fires
+  - [x] Doorstep - ESO
+  - [x] GitD - patch
+
+**[Original Engine]** Download:
+- **Concept Art Palace**
+  - [x] Core Files
+  - [x] Doorstep - ESO
+  - [x] GitD - patch
+
+I personally dislike the planets floating above the palace so I replaced the mesh with an empty nif, which can be downloaded [**here**](mods/CAP%20-%20Planets%20remover.7z). I also edited the palace exterior mesh to remove the Tribunal hand on the floor as I felt it looked out of place, download [**here**](mods/).
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
-Replaces the prison moon with a model made by **qwertyasdfgh** for Morroblivion, also moves it to a higher position.
+Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
 
 <details>	<summary>Alternatives</summary>
 
@@ -918,9 +946,7 @@ Makes windows glow at night and adds interior sunrays.
 
 
 ### [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
-**Glow in the Dahrk** brought to a Dwemer ruin near you! Everyone say "Thanks, Darknut!"
-
-The data files for this mod are one file too deep.
+Glow in the Dahrk brought to a Dwemer ruin near you! Yay Darknut!
 
 ### [Solstheim Graphical Replacer](https://www.nexusmods.com/morrowind/mods/46810)
 Download:
@@ -970,6 +996,9 @@ Download:
 ### [Lore-Friendly Balmora Suran and Caldera Ground Textures 2k](https://www.nexusmods.com/morrowind/mods/43680)
 I prefer these over the versions in Vanilla Land.
 
+Download:
+- **2048x2048 version**
+
 ### [No Scum](mods/No%20Scum.7z)
 I don't like the scum so I replaced them with empty nifs.
 
@@ -977,7 +1006,7 @@ I don't like the scum so I replaced them with empty nifs.
 A highly-detailed rock replacement texture for the one rock used over 3000 times in the Bitter Coast region.
 
 Download:
-- Swamp Rocks - Default
+- **Swamp Rocks - Default**
 
 ### [SM Re-textures Rock and Cave](https://www.nexusmods.com/morrowind/mods/48856)
 Retexture the four main types of caves in the game.
@@ -988,17 +1017,34 @@ Cavern of the Incarnate retexture.
 ### [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 I lava this mod.
 
+Download:
+- **I Lava Good Mesh Replacer**
+  - [x] Core
+  - [x] Tamriel_Data Patch
+
 ### [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 Pluginless replacer for the eight main trees on the Bitter Coast.
 
 ### [Vanilla-friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
-Pick the no billboard leaves option so the leaves don't follow you.
+A West Gash tree replacer for players who desire a look closer to the vanilla game for the region.
+
+Download:
+- **Vanilla-friendly West Gash Tree Replacer**
+  - [x] Tree Types > Pine
+  - [x] Leaf Billboards > No Billboard Leaves
 
 ### [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
 
+Download:
+- **Melchior's Excellent Grazelands Acacia**
+  - [x] Core
+
 ### [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 Replaces all of the trees in the Ascadian Isles region.
+
+Download:
+- **Remiros' Ascadian Isles Trees - Vanilla**
 
 ### [Pherim Comberry Bush 2.4](https://www.nexusmods.com/morrowind/mods/42586)
 Kills those ugly leaf planes the vanilla comberry plants have.
@@ -1068,6 +1114,9 @@ Disgusting, I love it.
 ### [Imperial Houses and Forts Retexture - Ordo Arkitektora](https://www.nexusmods.com/morrowind/mods/43940)
 Retexture for Imperial architecture.
 
+Download:
+- **Ordo Arkitektora HQ**
+
 Atlas provided in **My Atlas Texture Collection**.
 
 ### [Lysol's Imperial Forts Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/46413)
@@ -1093,6 +1142,9 @@ Download:
 ### [Shacks Docks and Ships - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43520)
 New textures for wooden shacks, docks and ships (including rowboats and gondolas).
 
+Download:
+- **HQ Textures**
+
 Atlas provided in **My Atlas Texture Collection**.
 
 ### [HD Flags and Banners](https://www.nexusmods.com/morrowind/mods/48853)
@@ -1101,10 +1153,16 @@ HD textures for banners and flags.
 ### [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
 Retexture of Hlaalu architecture.
 
+Download:
+- **Hlaalu Arkitektora - HQ**
+
 Atlas provided in **My Atlas Texture Collection**.
 
 ### [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
 Retexture of Vivec and Velothi architecture.
+
+Download:
+- **Vivec and Velothi Arkitektora - HQ**
 
 The texture atlas is outdated, a new one can be found in **My Atlas Texture Collection**.
 
@@ -1136,13 +1194,24 @@ Download:
 ### [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
 Retexture of the Vivec sewers.
 
+Download:
+- **Sewer vanilla HQ**
+
 ### [Redoran - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46235)
 Retexture of Redoran architecture.
+
+Download:
+- **Redoran Arkitektora - Buildings HQ**
 
 One of the atlases is outdated, new ones can be found in **My Atlas Texture Collection**.
 
 ### [Telvanni Retexture](https://www.nexusmods.com/morrowind/mods/45516)
 Retexture of Telvanni architecture.
+
+Download:
+- **Telvanni Retexture 2K**
+
+Delete the `Meshes` folder.
 
 <details>	<summary>Alternatives</summary>
 
@@ -1153,8 +1222,14 @@ Retexture of Telvanni architecture.
 ### [Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818)
 This is a replacer for crystals you can find in Telvanni buildings and some caves.
 
+Download:
+- **Better Telvanni Cristals 4K**
+
 ### [Aesthesia - Stronghold textures](https://www.nexusmods.com/morrowind/mods/46445)
 Retexture of Dunmer stronghold architecture.
+
+Download:
+- **Aesthesia Strongholds 2k**
 
 <details>	<summary>Alternatives</summary>
 
@@ -1177,6 +1252,9 @@ Retexture of the Clockwork City.
 ### [Ruins - Daedric Intervention](https://www.nexusmods.com/morrowind/mods/46044)
 Retexture of Daedric ruins.
 
+Download:
+- **Ruins - Daedric Intervention**
+
 ### [Articus 6th House Dagoth - HD Nightmare Retexture 2K](https://www.nexusmods.com/morrowind/mods/48319)
 Sixth House has never been so scary and realistic! This mod adds high quality (2048) textures for House Dagoth. All textures are fully reworked and lore friendly.
 
@@ -1187,6 +1265,9 @@ Adds a glow effect to various Sixth House objects.
 
 ### [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
 Full retexture of Dwemeri set - architecture, armor and weapon, robots, including content from Tribunal Expansion, in lore-friendly vanilla-like style.
+
+Download:
+- **FULL DWM RTX HQ**
 
 ### [Swappable Texture Signposts](https://www.nexusmods.com/morrowind/mods/46804)
 Designed to be the most moddable signpost replacer, these meshes utilize detail and decal textures so different wood, details, and text can be applied with a simple texture swap.
@@ -1316,12 +1397,6 @@ Retexture for the two other blood types - Skeleton (white) and Metal Sparks (gol
 ### [Magic VFX Retexture by Articus](https://www.nexusmods.com/morrowind/mods/47702)
 This mod adds High Quality (512) animated textures for magic effects.
 
-Incorrectly packaged:
-- Select Manual in the install window
-- Right click on **Data Files**
-- Select **Set as <data files\> directory**
-- Install
-
 Plugin under Optional Files is not needed
 
 <details>	<summary>Alternatives</summary>
@@ -1449,7 +1524,7 @@ Download:
 ### [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
 An improved Almalexia model using Better Bodies.
 
-This mod comes with a few splash screens that,while they fit well with vanilla, stand out when used alongside high-resolution modded splashes, for this reason I recommend deleting the ```Splash``` folder.
+This mod comes with a few splash screens that, while they fit well with vanilla, stand out when used alongside high-resolution modded splashes, for this reason I recommend deleting the ```Splash``` folder.
 
 ### [By Azura](https://www.nexusmods.com/morrowind/mods/50567)
 An overhaul to the appearance and animations of Azura, Prince of Moonshadow.
@@ -1520,6 +1595,16 @@ Download:
 ### [Corprus Natives](https://www.nexusmods.com/morrowind/mods/45674)
 Replaces Corprus creatures with native versions so they no longer look like outlanders.
 
+Download:
+- **Corprus Natives**
+
+Incorrectly Packaged:
+- Right click on `512px`
+- Select **Set as <data files\> directory**
+- Right click on `Data Files`
+- Select **Set as <data files\> directory**
+- Install
+
 ### [SM Bonewalker Replacer](https://www.nexusmods.com/morrowind/mods/51030)
 Lore\Vanilla-friendly replacer for bonewalkers.
 
@@ -1588,8 +1673,6 @@ Replacer for 5 of the most commonly used shoes in the game with new models.
 
 ### [Better Clothes Retextured](https://www.nexusmods.com/morrowind/mods/47851)
 A set of high-res retextures for better clothes. Currently covers all shirts, skirts and pants from the base game - except for the ashlander shirts and pants.
-
-The data files for this mod are one file too deep.
 
 ### [Unique Finery Replacer UFR](https://www.nexusmods.com/morrowind/mods/25725)
 Gives most special and unique amulets, belts, rings, robes, shoes, and amulets new, unique models.
@@ -1903,8 +1986,6 @@ Mage Robes - Vivec Guild of Mages Expansion.ESP
 - **Main File**
 	- [x] Core
 	- [x] Automatic Add-Ons (MWSE)
-
-
 
 ### [Umbra- Blademaster](https://www.nexusmods.com/morrowind/mods/43275)
 Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.

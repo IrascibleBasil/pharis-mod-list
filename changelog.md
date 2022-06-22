@@ -89,3 +89,8 @@
 ## 6/21/22
 - Removed Telvanni Council House Lounge Room
 - Updated OAAB Shipwrecks installation instructions
+
+## 6/22/22
+- Removed Companion Health Bars MWSE Lua Script
+- Added More Detailed Companion HealthBars MWSE Lua Script
+- Fixes and more fixes
