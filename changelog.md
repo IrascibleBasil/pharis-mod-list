@@ -88,3 +88,4 @@
 
 ## 6/21/22
 - Removed Telvanni Council House Lounge Room
+- Updated OAAB Shipwrecks installation instructions

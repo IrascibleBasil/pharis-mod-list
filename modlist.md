@@ -784,6 +784,7 @@ Overhauls all shipwrecks in the base game and moves them to exterior cells so yo
 Download:
 - **OAAB Shipwrecks**
 	- [x] Core
+	- [x] Patch - TR Patch
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 Overhauls the vanilla Dwemer tileset and adds new pieces.
