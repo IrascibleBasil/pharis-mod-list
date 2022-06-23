@@ -37,7 +37,7 @@ Download:
 	- [x] Core
 
 Incorrectly packaged:
-- Right click on `Core`
+- Right click on **Core**
 - Select **Set as <data files\> directory**
 - Install
 
@@ -521,7 +521,7 @@ Vanilla-friendly spell sounds replacer.
 Replaces sounds for elemental magic with more distinct, nifty sounds.
 
 Incorrectly packaged:
-- Right click on `Nifty Elemental Magic Sounds`
+- Right click on **Nifty Elemental Magic Sounds**
 - Select **Set as <data files\> directory**
 - Install
 
