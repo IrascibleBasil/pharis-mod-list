@@ -2,7 +2,7 @@
 
 # Utilities
 
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my `Modding` Folder and the rest in a `Modding Tools` directory within the same folder.
+These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my **Modding** Folder and the rest in a **Modding Tools** directory within the same folder.
 
 ## Necessary
 
@@ -18,7 +18,7 @@ For those that are new to Mod Organizer 2 I recommend reading [**this**](modding
 ### [Mlox](https://github.com/rfuzzo/mlox) ([Latest Rules](https://github.com/DanaePlays/mlox-rules/tree/main))
 This is for analyzing and sorting your load order using a set of ordering rules.
 
-Add to your **MO2** executables list and be sure to add the path to your `Data Files` folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
+Add to your **MO2** executables list and be sure to add the path to your **Data Files** folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
 
 When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-n -u` to the **Arguments** field to quickly sort plugins without the GUI.
 
@@ -64,7 +64,7 @@ A Vulkan-based translation layer for Direct3D 9/10/11
 
 - Open the archive with 7zip
 - Open the archive within the archive (hehe)
-- Open the `x32` folder
+- Open the **x32** folder
 - Put the `d3d9.dll` in that folder into your Morrowind directory
 - Profit
 
