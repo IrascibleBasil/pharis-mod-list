@@ -25,7 +25,21 @@ When you run mlox for the first time it will create an `mlox_base.txt` file in `
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
-Add to your **MO2** executables list.
+Add to your **MO2** executables list. To avoid needing to either run mlox a second time or manually move your merged plugin, there are some exclusions you can add to your `TES3Merge.ini`; 
+
+Navigate to your TES3Merge directory and open `TES3Merge.ini` in a text editor.
+
+Add the following to your `TES3Merge.ini`:
+```
+[FileFilters]
+BOM_pathgrid_reset.esp=false
+Interior exterior flag reset.esp=false
+BOM_OpenMW_plazas.esp=false
+POST_merge_VFWE_patch.esp=false
+VFWE_merged_objects_fix.esp=false
+```
+
+Thank rfuzzo for these exclusion rules I shamelessly copied from him.
 
 ### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) **[*Original Engine Only*]**
 Patches bugs in the Morrowind program, which cannot otherwise be fixed by editing scripts or data files. Cures many crash and save corruption problems.

@@ -658,18 +658,17 @@ Download:
 	- [x] Ashlander Traders Remastered
 	- [x] Ghastly Glowfence Patch
 	- [x] Guild of Vampire Hunters
+	- [x] Traveling Merchants
 	- [x] Dura_Gra-Bols_House_Reclaimed
 	- [x] Glass Domes
 	- [x] The Cottage
 	- [x] OAAB Pomegranates Patch
-- **Beautiful Cities of Morrowind - Project Atlas and GITD Patches**
+- **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
 	- [x] Project Atlas Patch
 	- [x] GITD + Atlas
 	- [x] Balmora Bridges with bigger arch - Atlas
 	- [x] Stav MGO - GITD + Atlas
-	- [x] RR Ghostgate Fortress - GITD
-	- [x] RR Statue for Shrine of Mount Assarnibibi
-	- [x] RR Statue for Holamayan Monastery
+	- [x] RR Statues patches
 - **Beautiful Cities of Morrowind - HD Textures**
 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
@@ -732,6 +731,9 @@ Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
 ### [Dagon Fel Mill Redux](https://www.nexusmods.com/morrowind/mods/50067)
 Wonderful revival of [an old mod](https://www.nexusmods.com/morrowind/mods/42981) by RandomPal.
 
+### [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+Changes Khartag Point making it the high peak described in the in-game dialogue.
+
 ### [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
 OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big.
 
@@ -776,12 +778,20 @@ Download:
 ### [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
 Completely overhauls Foyada Mamaea.
 
-Only the assets are needed, use the plugin from **BCOM - Patches**
+Only the assets are needed, use the plugin from **BCOM - Patches**.
 
 Hide or Delete:
 ```
 Foyada Mamaea Overhaul.esp
 ```
+
+### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.
+
+Download:
+- **OAAB Shipwrecks**
+	- [x] Core
+	- [x] Patch - TR Patch
 
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Restores the missing village at Ald Redaynia that is mentioned in dialogue.
@@ -789,9 +799,6 @@ Restores the missing village at Ald Redaynia that is mentioned in dialogue.
 Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from OAAB_Data. Use the edited plugin with the original mod's assets.
 
 The original mod was made by R-Zero, all credit goes to them, I just rotated some fish.
-
-### [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
-Changes Khartag Point making it the high peak described in the in-game dialogue.
 
 ### [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
 This mod adds a cozy little cottage on the outskirts of Gnisis.
@@ -803,16 +810,17 @@ Hide or Delete:
 The Cottage.esp
 ```
 
+### [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=description)
+This mod populates the Shrine of Azura on the Azura's Coast with some pilgrims and a priestess along with some other edits.
+
+### [Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841)
+Minor cosmetic changes to the Sanctus Shrine.
+
+### [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137)
+Small expansion to the mushroom grove near Dagon Fel.
+
 ### [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
 This mod redecorates Dark Brotherhoods lair in Old Mournhold.
-
-### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
-Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.
-
-Download:
-- **OAAB Shipwrecks**
-	- [x] Core
-	- [x] Patch - TR Patch
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 Overhauls the vanilla Dwemer tileset and adds new pieces.
@@ -1549,7 +1557,6 @@ Download:
 - **Main File**
 	- [x] Core
 	- [x] Glowing Netch and Netch Betty
-	- [x] Daedric creatures use bound weapons
 
 ### [Daedric Intervention - Creatures](https://www.nexusmods.com/morrowind/mods/46044?tab=files)
 Pluginless mesh and texture replacer for Daedric creatures.
@@ -2024,6 +2031,16 @@ Fixes two inconsistencies in the game: one concerning the enchantment of Lord's 
 ### [Fireflies](https://www.nexusmods.com/morrowind/mods/51443?tab=description)
 Adds fireflies around the Bitter Coast and the Ascadian Isles.
 
+### [Traveling Merchants](https://mw.modhistory.com/download-90-15577)
+Adds merchants that travel along scripted routes between towns.
+
+Only the assets are needed, use the plugin from **BCOM - Patches**.
+
+Hide or Delete:
+```
+TravelingMerchants_v2_3.esp
+```
+
 # Rebalance		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and makes the Sixth House, properly, the most difficult content in the game. If this sounds unappealing to you simply skip this separator.
 
@@ -2039,6 +2056,9 @@ This mod rebalances Tribunal as if it shipped with Morrowind.
 
 ### [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
 This mod rebalances Bloodmoon as if it shipped with Morrowind.
+
+Download:
+- **Bloodmoon Rebalance - Patch for Purists version**
 
 ### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
 Fixes a number of inconsistencies with creature edits in Beware the Sixth House.
@@ -2139,6 +2159,13 @@ Use the moved version of the plugin linked above for Tamriel Rebuilt compatibili
 
 ### [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773)
 Adds five new duties for members of the Mages Guild to Master Wizard Folms Mirel, in Caldera.
+
+### [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?tab=description) ([BCOM Fixed](mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z))
+In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
+
+There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.
+
+All credit goes to the original authors, I just moved some activators.
 
 ### [Maren's Misfit Mabrigash](https://www.nexusmods.com/morrowind/mods/48709)
 A dungeon overhaul and quest mod that overhauls and expands the Maren Ancestral Tomb into a hideout befitting of an ashlander, and adds a new quest to complete in the dungeon.
@@ -2251,6 +2278,7 @@ Adds the legendary Wabbajack artifact!
 
 Hide or Delete:
 ```
+Rem_AI.esp
 Rem_GL.esp
 Rem_Solstheim.esp
 ```

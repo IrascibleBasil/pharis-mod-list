@@ -63,7 +63,7 @@
 
 ## 6/18/22
 - Updated OAAB Data installation instructions
-- Removed Serandas Family Hearth
+- Removed Serandas Family Hearth (No longer compatible with BCOM)
 
 ## 6/19/22
 - Removed Epic Plants - Modular
@@ -78,19 +78,27 @@
 ## 6/20/22
 - Updated TrueType Fonts for OpenMW installation instructions
 - Temporarily removed Fighters Guild Improved due to incompatibility with Dura Gra-Bol's House Reclaimed
-- Updated Concept Art Plantations installation instructions
+- Updated Concept Art Plantations installation instructions (Added grass patch)
 - Updated Beautiful Cities of Morrowind - Grass Patches installation instructions
 - Updated Dragon Statue Revisited installation instructions
 - Added some things to README
 - Minor fixes (words are hard)
-- Added MCP Skunk Works (duh
-- Updated Dunmer Lanterns Replacer installation instructions
+- Added MCP Skunk Works (duh)
+- Updated Dunmer Lanterns Replacer installation instructions (Added OAAB Patch)
 
 ## 6/21/22
-- Removed Telvanni Council House Lounge Room
-- Updated OAAB Shipwrecks installation instructions
+- Removed Telvanni Council House Lounge Room (Merged in BCOM)
+- Updated OAAB Shipwrecks installation instructions (Added TR Patch)
 
 ## 6/22/22
-- Removed Companion Health Bars MWSE Lua Script
+- Removed Companion Health Bars MWSE Lua Script (Replaced with more detailed version)
 - Added More Detailed Companion HealthBars MWSE Lua Script
 - Fixes and more fixes
+- Added The Grove of Ben'Abi
+- Added Sanctus Shrine
+- Added Mamaea Awakened
+- Added Traveling Merchants (BCOM)
+- Updated Remiros' Groundcover installation instructions (Hide or Delete Rem_AI.esp)
+- Updated Beautiful Cities of Morrowind installation instructions (BAIN change)
+- Added TES3Merge exclusions
+- Added Shrine of Azura

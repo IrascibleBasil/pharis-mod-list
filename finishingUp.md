@@ -12,7 +12,7 @@ As explained in the Preamble, **mlox** should be in your MO2 executables list. R
 ## Merged Patches
 Merging objects and levelled lists automatically solves many incompatibilities between mods and it is an essential part of maintaining a functioning load order. Both of these patches will be handled by **TES3Merge**, as since its latest update it supercedes the tes3cmd multipatch. 
 
-As explained in the Preamble, you should have **TES3Merge** installed and added to your MO2 executables. Simply run **TES3Merge** through MO2 and rerun **mlox** to put the patches in their appropriate places. If using OpenMW, now is the time to use the export plugin.
+As explained in the Preamble, you should have **TES3Merge** installed and added to your MO2 executables. Simply run **TES3Merge** through MO2. If using OpenMW, now is the time to use the export plugin.
 
 ## Addendum
 
