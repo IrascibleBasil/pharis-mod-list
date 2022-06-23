@@ -34,7 +34,6 @@ Add the following to your `TES3Merge.ini`:
 [FileFilters]
 BCOM_pathgrid_reset.esp=false
 BCOM_Izi_Hlaalu_plaza.ESP=false
-
 Interior exterior flag reset.esp=false
 BCOM_OpenMW_plazas.esp=false
 POST_merge_VFWE_patch.esp=false
