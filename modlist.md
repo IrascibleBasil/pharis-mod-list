@@ -65,7 +65,7 @@ Download:
 	- [x] Better Telvanni Crystal Patch
 
 ### [An Addendum to Tamrielic Lore Data](https://www.nexusmods.com/morrowind/mods/50647)
-Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project. 
+Asset repository for PikacunoTM's An Addendum to Tamrielic Lore mod project. 
 
 Download:
 - **AATL_Data**
@@ -75,7 +75,7 @@ Download:
 # Fixes		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
-Unofficial patch mod that takes a conservative approach to what is considered a bug, in contrast with some past(and [current](https://www.nexusmods.com/skyrimspecialedition/mods/266)) community patch projects that introduced unnecessary gameplay alterations. If you use only one mod, pick this one.
+Unofficial patch mod that takes a conservative approach to what is considered a bug, in contrast with some past (and [current](https://www.nexusmods.com/skyrimspecialedition/mods/266)) community patch projects that introduced unnecessary gameplay alterations. If you use only one mod, pick this one.
 
 > **Warning**
 > 
