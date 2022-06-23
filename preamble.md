@@ -32,9 +32,11 @@ Navigate to your TES3Merge directory and open `TES3Merge.ini` in a text editor.
 Add the following to your `TES3Merge.ini`:
 ```
 [FileFilters]
-BOM_pathgrid_reset.esp=false
+BCOM_pathgrid_reset.esp=false
+BCOM_Izi_Hlaalu_plaza.ESP=false
+
 Interior exterior flag reset.esp=false
-BOM_OpenMW_plazas.esp=false
+BCOM_OpenMW_plazas.esp=false
 POST_merge_VFWE_patch.esp=false
 VFWE_merged_objects_fix.esp=false
 ```
