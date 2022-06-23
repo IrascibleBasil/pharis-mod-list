@@ -102,3 +102,4 @@
 - Updated Beautiful Cities of Morrowind installation instructions (BAIN change)
 - Added TES3Merge exclusions
 - Added Shrine of Azura
+- Added Telvanni Council House Lounge Room back (I'm dumb)

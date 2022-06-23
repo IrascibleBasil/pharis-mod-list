@@ -153,6 +153,8 @@ High quality main menu replacer.
 ### [RFD's Splash Screens](https://www.nexusmods.com/morrowind/mods/47400)
 Well made, minimalist splash screens. (thanks RFD)
 
+Delete your vanilla splashes to only see the modded ones.
+
 <details>	<summary>Alternatives</summary>
 
 - [Lovely Loading Screens](https://www.nexusmods.com/morrowind/mods/42313)
@@ -724,6 +726,9 @@ Download:
 
 ### [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
 Mournhold Overhaul, includes Distant Mournhold.
+
+### [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
+Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
 
 ### [Nordic Dagon Fel](https://www.nexusmods.com/morrowind/mods/49603)
 Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
