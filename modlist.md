@@ -802,7 +802,7 @@ Download:
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Restores the missing village at Ald Redaynia that is mentioned in dialogue.
 
-Since the hanging slaughterfish squirm around in OpenMW I have provided an edited version that replaces them with the slaughterfish from OAAB_Data. Use the edited plugin with the original mod's assets.
+Since the hanging slaughterfish squirm around in OpenMW 0.47 I have provided an edited version that replaces them with the slaughterfish from OAAB_Data. Use the edited plugin with the original mod's assets.
 
 The original mod was made by R-Zero, all credit goes to them, I just rotated some fish.
 
