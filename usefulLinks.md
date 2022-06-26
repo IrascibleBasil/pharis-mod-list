@@ -13,6 +13,7 @@
 - [Danae's Blog](https://danaeplays.thenet.sk/)
 - [TR Modder's Guide](https://www.tamriel-rebuilt.org/content/tr-modders-guide)
 - [Morrowind Scripting For Dummies](https://www.tamriel-rebuilt.org/content/tutorial-morrowind-scripting-dummies)
+- [TES3View](https://github.com/Sigourn/morrowindsharp/blob/master/mods/TES3View%204.1.4.7z)
 
 ## OpenMW
 - [Advanced Settings Configuration](https://openmw.readthedocs.io/en/latest/reference/modding/settings/index.html)

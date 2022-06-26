@@ -635,8 +635,8 @@ Best city mod there is, I only wish I could endorse it twice. For more informati
 Download:
 - **Beautiful Cities of Morrowind - BCOM Core**
 	- [x] Core
-	- [x] Hlaalu Council Hall Plaza - Izy Style
-	- [x] Riverside - Stone Dock
+	- [x] Hlaalu Council Hall Plaza - Pick *one*
+	- [x] Riverside - Pick *one*
 	- [x] **[Original Engine]** Plaza Weather Mechanics (MWSE) - Required 
 	- [x] **[OpenMW]** Weather Mechanics for (OpenMW) - Required
 	- [x] Suran dock expansion & clutter addon
@@ -647,13 +647,13 @@ Download:
 	- [x] Vanilla Style Ghostfence Pillars
 - **BCOM - Patches**
 	- [x] Patch for Purists Patch
-	- [x] Foyada Mamaea Overhaul
+	- [x] OAAB Foyada Mamaea
 	- [x] Improved Inns Expanded
 	- [x] Scrolls of the Nine Barriers
 	- [x] Concept Art Plantations
 	- [x] **[Only if *not* using TR Preview]** TR_Travels
 	- [x] **[Only if using TR Preview]** TR_Travels (Mainland and Preview)
-	- [x] Skyrim Home of the Nords Patch
+	- [x] **[Only if using SHOTN]** Skyrim Home of the Nords Patch
 	- [x] Ebonheart Underworks
 	- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
 	- [x] Bounty Hunter Assignments
@@ -665,12 +665,13 @@ Download:
 	- [x] Glass Domes
 	- [x] The Cottage
 	- [x] OAAB Pomegranates Patch
+	- [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
 - **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
 	- [x] Project Atlas Patch
 	- [x] GITD + Atlas
 	- [x] Balmora Bridges with bigger arch - Atlas
 	- [x] Stav MGO - GITD + Atlas
-	- [x] RR Statues patches
+	- [x] RR Statues patch
 - **Beautiful Cities of Morrowind - HD Textures**
 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
@@ -780,14 +781,14 @@ Download:
 - **OAAB Dwemer Pavements**
 	- [x] Core
 
-### [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424)
+### [OAAB - Foyada Mamaea](https://www.nexusmods.com/morrowind/mods/46424)
 Completely overhauls Foyada Mamaea.
 
 Only the assets are needed, use the plugin from **BCOM - Patches**.
 
 Hide or Delete:
 ```
-Foyada Mamaea Overhaul.esp
+OAAB - Foyada Mamaea.ESP
 ```
 
 ### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)

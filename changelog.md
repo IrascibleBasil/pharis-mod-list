@@ -103,3 +103,7 @@
 - Added TES3Merge exclusions
 - Added Shrine of Azura
 - Added Telvanni Council House Lounge Room back (I'm dumb)
+
+## 6/26/22
+- Changed Foyada Mamaea Overhaul to OAAB - Foyada Mamaea
+- Added Tel Aruhn Chronicles quest and Yansirramus Overhaul addon (BCOM)
