@@ -59,6 +59,13 @@ Download manually and run the installer; Direct the installer to your Morrowind 
 
 Add to your **MO2** executables list.
 
+### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
+Wrye Mash is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list. Install location is irrelevant, as you will tell Wrye Mash where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and enable the 1024 max plugin limit in the advanced settings.
+
+Add to your **MO2** executables list.
+
+## Not Technically Necessary But Still Recommended
+
 ### [dxvk-async](https://github.com/Sporif/dxvk-async/releases/download/1.10.1/dxvk-async-1.10.1.tar.gz) **[*Original Engine Only*]**
 A Vulkan-based translation layer for Direct3D 9/10/11
 
@@ -67,13 +74,6 @@ A Vulkan-based translation layer for Direct3D 9/10/11
 - Open the **x32** folder
 - Put the `d3d9.dll` in that folder into your Morrowind directory
 - Profit
-
-### [Wrye Mash Polemos Fork](https://www.nexusmods.com/morrowind/mods/45439) 
-Wrye Mash is another mod manager, made specifically for Morrowind, but we won't be using it to manage mods with this list. Install location is irrelevant, as you will tell Wrye Mash where to find your Morrowind directory during the installation process. Make sure you download the beta 6 version and enable the 1024 max plugin limit in the advanced settings.
-
-Add to your **MO2** executables list.
-
-## Not Technically Necessary But Still Recommended
 
 ### [Enchanted Editor](https://mw.modhistory.com/download-95-1662)
 Powerful editor for plugins and saves.
