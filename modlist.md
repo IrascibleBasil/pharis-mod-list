@@ -826,7 +826,7 @@ Minor cosmetic changes to the Sanctus Shrine.
 Small expansion to the mushroom grove near Dagon Fel.
 
 ### [Dark Brotherhood Headquarters](https://www.nexusmods.com/morrowind/mods/43022)
-This mod redecorates Dark Brotherhoods lair in Old Mournhold.
+This mod redecorates the Dark Brotherhood's lair in Old Mournhold.
 
 ### [Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors](https://www.nexusmods.com/morrowind/mods/45331)
 Overhauls the vanilla Dwemer tileset and adds new pieces.
