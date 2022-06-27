@@ -6,7 +6,7 @@
 - [Lucas' Modding Tips](https://github.com/Sigourn/moddingtips.md/blob/main/README.md)
 - [An Alternative to Morrowind Rebirth](https://www.nexusmods.com/morrowind/mods/48812)
 - [Necrolesian's morrowind-mod-list](https://github.com/Necrolesian/morrowind-mod-list)
-- [Catologue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
+- [Catalogue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
 - [Lucevar Themed Mod Lists](https://github.com/Lucevar/mw-immersion-mods)
 
 ## Modding
