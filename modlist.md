@@ -386,9 +386,11 @@ The life of a marksman is one of advantage. Distance, time, initiative. But, whe
 ### [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729)
 Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 
-<!--
-### [Putting Power in Willpower (Necro Edit)]()
--->
+
+### [Putting Power in Willpower (Necro Edit)](https://github.com/Sigourn/morrowindsharp/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)
+This mod rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will.
+
+[Original mod](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero, edits by Necrolesian.
 
 ### [Quick Equip](https://www.nexusmods.com/morrowind/mods/48341)
 Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up.
@@ -457,7 +459,6 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 ### [Useful Bound Armor](https://www.nexusmods.com/morrowind/mods/49829)
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-
 # Audio		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Aura](https://www.nexusmods.com/morrowind/mods/48255) **[*Original Engine Only*]**
@@ -468,17 +469,27 @@ Download:
   - [x] Core
   - [x] Replacer
   - [x] Prayer wheel sound replacer
-
 <!--
-### [MUSE]()
+### [MUSE](https://www.nexusmods.com/morrowind/mods/46200) ([Necro Edit](https://www.dropbox.com/s/0z4lcgpq9moopyo/MUSE%202.02%20Necro%20Edit.7z?dl=1)) **[*Original Engine Only*]**
+Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods. 
 
-### [MUSE Music Expansion - Tomb]()
+Original mod by Rytelier, edits by Necrolesian.
 
-### [MUSE Music Expansion - Dwemer]()
+> **Note**
+> 
+> The Necro Edit download above contains multiple fixes and tweaks but it needs to be installed over the original mod.
 
-### [MUSE Music Expansion - Ashlander]()
+### [MUSE Music Expansion - Tomb](https://www.nexusmods.com/morrowind/mods/51407) **[*Original Engine Only*]**
+An undead themed music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
 
-### [MUSE Music Expansion - Sixth House]()
+### [MUSE Music Expansion - Dwemer](https://www.nexusmods.com/morrowind/mods/51169) **[*Original Engine Only*]**
+A Dwemer music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
+
+### [MUSE Music Expansion - Ashlander](https://www.nexusmods.com/morrowind/mods/51255) **[*Original Engine Only*]**
+An Ashlander music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 4 new exploration tracks, 3 new combat tracks, and a special location track that plays in the Cavern of the Incarnate.
+
+### [MUSE Music Expansion - Sixth House](https://www.nexusmods.com/morrowind/mods/51082) **[*Original Engine Only*]**
+A 6th House music expansion of original tracks for the Morrowind MUSE mod, created using modern production techniques. Featuring 5 new exploration tracks, 4 new combat tracks, and 1 boss fight track.
 -->
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255) **[*OpenMW Only*]**
 Download:
@@ -1980,6 +1991,8 @@ Adds some shiny new helmets to add visual variation to armour.
 # Gameplay		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+The concept behind the mod is to provide both an immersive experience by adding a uniform to mages guild members as well as to improve gameplay by providing a useful alternative to armor for mages; such as is offered in Skyrim.
+
 **[OpenMW]** Download:
 - **Main File**
 	- [x] Core
@@ -2098,7 +2111,7 @@ Adds a Daedric helm bearing the aspect of Azura which you can acquire through a 
 ### [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
 Join a fully playable guild and gain ranks to the top. Included are several dungeons, some new and others extensions of existing ones.
 
-Replace the icons with the ones in the `OpenMW Icons` folder
+Replace the icons with the ones in the **OpenMW Icons** folder
 
 ### [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
 Slightly improved implementation of Bethesda's Official Plugins, using UMOPP as a base.

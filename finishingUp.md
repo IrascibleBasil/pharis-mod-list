@@ -7,20 +7,22 @@ Before running mlox or TES3Merge make sure no grass plugins are active in your l
 ## Sorting Load Order
 While it is entirely possible to sort your load order manually, and some stubborn few still do, it's a lot of trial and error with large modlists that just isn't worth the time. 
 
-As explained in the Preamble, **mlox** should be in your MO2 executables list. Run **mlox** through MO2.
+As explained in the Preamble, mlox should be in your MO2 executables list. Run mlox through MO2.
 
 ## Merged Patches
-Merging objects and levelled lists automatically solves many incompatibilities between mods and it is an essential part of maintaining a functioning load order. Both of these patches will be handled by **TES3Merge**, as since its latest update it supercedes the tes3cmd multipatch. 
+Merging objects and levelled lists automatically solves many incompatibilities between mods and it is an essential part of maintaining a functioning load order. Both of these patches will be handled by TES3Merge, as since its latest update it supercedes the tes3cmd multipatch. 
 
-As explained in the Preamble, you should have **TES3Merge** installed and added to your MO2 executables. Simply run **TES3Merge** through MO2. If using OpenMW, now is the time to use the export plugin.
+As explained in the Preamble, you should have TES3Merge installed and added to your MO2 executables. Simply run TES3Merge through MO2. If using OpenMW, now is the time to use the export plugin.
 
 ## Addendum
 
-Now that you've merged levelled lists and objects, sorted your load order, and (if on OpenMW) exported your mods create a test character and run around looking for any potential issues before starting a playthrough.
+Now that you've merged levelled lists and objects, sorted your load order, and (if on OpenMW) exported your mods, create a test character and run around looking for any potential issues before starting a playthrough.
+
+If you are playing on the original engine and need a tutorial for generating distant land I recommend you go [**here**](https://github.com/Necrolesian/morrowind-mod-list/blob/main/list.md#morrowind-graphics-extender-xe-distant-statics-overrides) (at least until I write my own guide).
 
 ## Troubleshooting Mods
 
-All mods on this list are compatible with eachother but other mods may conflict. If you have a question about what a mod does or any potential incompatabilities with other mods not on this list:
+All mods on this list are compatible with eachother if installed correctly but other mods may conflict. If you have a question about what a mod does or any potential incompatabilities with other mods not on this list:
 
 - Read the Nexus description
 - Read the mod's Readme
@@ -41,9 +43,11 @@ Only after doing these steps should you report a bug to the mod author (in the *
 
 ## Activating Groundcover **[*OpenMW Only*]**
 
-**Important Note: Do not activate grass plugins in the right pane of MO2 or in the OpenMW launcher, do not add content lines for groundcover plugins in openmw.cfg**
+> **Warning**
+> 
+> Do not activate grass plugins in the right pane of MO2 or in the OpenMW launcher, do not add content lines for groundcover plugins in `openmw.cfg`.
 
-Add the following lines to your **settings.cfg**:
+Add the following to your `settings.cfg`:
 ```
 [Groundcover]
 enabled = true
@@ -55,7 +59,7 @@ rendering distance = 12288
 ```
 Stomp intensity can be lowered to zero to disable stomping entirely and density can be lowered if desired.
 
-Add the following lines to your **openmw.cfg**:
+Add the following to your `openmw.cfg`:
 ```
 #Vanilla
 groundcover=Rem_BC.esp

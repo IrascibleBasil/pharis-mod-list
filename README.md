@@ -16,7 +16,7 @@ The primary goals of this modlist are:
 - Add new vanilla friendly content
 
 Sources of Inspiration:
-- Morrowind Sharp
+- Morrowind Sharp/Nerevar Rising
 - An Alternative to Morrowind Rebirth (and everything else from RP)
 - Necrolesian's Morrowind Modlist
 - All of the wonderful modders that did all of the hard work by creating these mods 💜
@@ -29,8 +29,6 @@ Sources of Inspiration:
 - [**Finishing Up**](finishingUp.md) <br>
 - [**Changelog**](changelog.md) <br>
 - [**Useful Links**](usefulLinks.md) <br>
-
-
 
 ## Before We Start
 

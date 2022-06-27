@@ -111,3 +111,6 @@
 ## 6/27/22
 - Updated Vanilla-friendly West Gash Tree Replacer installation instructions (FOMOD change)
 - Updated Melchior's Excellent Grazelands Acacia installation instructions (FOMOD change)
+- Updated TES3Merge exclusions
+- Added link for distant land tutorial to Finishing Up doc
+- 

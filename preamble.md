@@ -2,7 +2,7 @@
 
 # Utilities
 
-These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have **MO2** in my **Modding** Folder and the rest in a **Modding Tools** directory within the same folder.
+These are programs that are either necessary for this mod list or very helpful in modding and troubleshooting in general. Personally, I have MO2 in my **Modding** Folder and the rest in a **Modding Tools** directory within the same folder.
 
 ## Necessary
 
@@ -33,6 +33,10 @@ Add the following to your `TES3Merge.ini`:
 ```
 [FileFilters]
 BCOM_pathgrid_reset.esp=false
+BCOM_Canal_02.ESP=false
+BCOM - Taller Lighthouse.ESP=false
+BCOM_Suran Expansion.ESP=false
+BCOM_White_Suran.ESP=false
 BCOM_Izi_Hlaalu_plaza.ESP=false
 Interior exterior flag reset.esp=false
 BCOM_OpenMW_plazas.esp=false

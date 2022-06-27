@@ -6,6 +6,8 @@
 - [Lucas' Modding Tips](https://github.com/Sigourn/moddingtips.md/blob/main/README.md)
 - [An Alternative to Morrowind Rebirth](https://www.nexusmods.com/morrowind/mods/48812)
 - [Necrolesian's morrowind-mod-list](https://github.com/Necrolesian/morrowind-mod-list)
+- [Catologue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
+- [Lucevar Themed Mod Lists](https://github.com/Lucevar/mw-immersion-mods)
 
 ## Modding
 - [Abot's MMH Index](https://modlist.altervista.org/mmh/)
@@ -18,9 +20,6 @@
 ## OpenMW
 - [Advanced Settings Configuration](https://openmw.readthedocs.io/en/latest/reference/modding/settings/index.html)
 - [Modding-OpenMW](https://modding-openmw.com/)
-- [OpenMW Downloads](https://openmw.org/downloads/)
-- [OpenMW Gitlab](https://gitlab.com/OpenMW/openmw)
 
 ## MWSE/MGEXE
 - [MWSE Docs](https://mwse.github.io/MWSE/)
-- [MWSE Github](https://github.com/MWSE/MWSE)
