@@ -2069,6 +2069,9 @@ These mods rebalance the expansions as if they shipped with the game on release 
 ### [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)
 This makes Dagoth Ur, the Ash Vampires, all Dagoths, all ash slaves, corprus beasts, ascended sleepers and every other corprus beast to be incredibly difficult. They have lots of health. They do lots of damage. Their spells hurt, and some even regenerate health.
 
+### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
+Fixes a number of inconsistencies with creature edits in Beware the Sixth House.
+
 ### [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
 This mod rebalances Tribunal as if it shipped with Morrowind.
 
@@ -2078,8 +2081,10 @@ This mod rebalances Bloodmoon as if it shipped with Morrowind.
 Download:
 - **Bloodmoon Rebalance - Patch for Purists version**
 
-### [Beware the Sixth House Tweaks](https://www.nexusmods.com/morrowind/mods/49232)
-Fixes a number of inconsistencies with creature edits in Beware the Sixth House.
+### [Bloodmoon Rebalance - PFP Patch](https://www.dropbox.com/s/y4sko9cs5c9lud6/Bloodmoon%20Rebalance%20PFP%20Patch%201.0.7z?dl=1)
+Forwards a few Patch for Purists fixes to creatures edited by Bloodmoon Rebalance. 
+
+Thanks to Necrolesian.
 
 # Quests		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
