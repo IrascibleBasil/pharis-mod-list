@@ -16,9 +16,7 @@ Directory - The folder something is located in
 Mod Organizer 2 is a wonderful mod manager (not sponsored trust me) that makes adding, removing, and reordering mods very easy while maintaining a pristine vanilla install (except for MGE XE and a few other things of course).
 
 Sigourn, the author of Morrowind Sharp, also put together a general modding tips document [**here**](https://github.com/Sigourn/moddingtips.md/blob/main/README.md), I recommend you give it a read.
-<!--
-I will gladly help as best I can on Discord (**Pharis#2588**) if you have any other issues that aren't clearly explained here.
--->
+
 ## Installation
 To install Mod Organizer go to the Nexus page [**here**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files) and click on **Manual Install** below the Main File.
 
@@ -63,8 +61,9 @@ To add an executable to MO2:
 - In the **Modify Executables** window click on the plus icon at the top
 - Select **Add from file**
 - Navigate to the exe that you want to add and double click it
+<!--
 > ![exe](images/addExe.png)
-
+-->
 ## Hiding Files
 Files and folders can be hidden so that they won't overwrite other mods. 
 
@@ -89,15 +88,10 @@ To set an plugin as optional:
 -  Click on the plugin
 -  Click the left-facing green arrow in the center of the window
 
-<!--
-> ![configureExe](images/configureExe.png)
-
-> ![addExe](images/addExe.png)
--->
 Be sure to hit **apply** after changing anything so that your changes are saved.
 
-
 ## Installing Mods From Archives
+To install a mod from an archive click on the button shown below.
 
 > ![installArchive](images/installArchive.png)
 
@@ -119,7 +113,7 @@ Some mods are even more egregious in their packaging, such as the one shown belo
 This mod has the assets for each creature type separated into different folders but it isn't formatted for a BAIN installation, resulting in a mess of Data Files directories. 
 
 To solve this issue:
-- Take the `Meshes` and `Textures` folders from each data directory (data directory = creature folders) and drag them up to **<data files\>** 
+- Take the **Meshes** and **Textures** folders from each data directory (data directory = creature folders) and drag them up to **<data files\>** 
 - Install
 
 > ![egregiousPackagingFixed](images/egregiousPackagingFixed.png)
@@ -145,13 +139,20 @@ To create an empty mod:
 - Right click on any mod in the left pane
 - Select **All Mods>Create empty mod above**
 
-## Removing a Master With Wrye Mash
-To remove a master from a plugin with Wrye Mash:
+## Updating and Removing Masters With Wrye Mash
+
+To update masters with Wrye Mash:
 - Launch Wrye Mash through MO2
 - Click on the plugin in your load order
 - Click on the list of masters in the bottom right of the window
 - Click **Save**
 
-> ![removingMaster](images/removingMaster.png)
+To remove a master from a plugin with Wrye Mash:
+- Launch Wrye Mash through MO2
+- Click on the plugin in your load order
+- Click on the checkbox next to the master you want to remove in the bottom right of the window
+- Click **Save**
 
-## 
+If the master file isn't present (the plugin will be red in this instance) then updating the plugin's masters will remove the missing master from its list. While removing a master won't necessarily break a mod, doing so unnecessarily is (obviously) unnecessary, so don't.
+
+> ![removingMaster](images/removingMaster.png)
