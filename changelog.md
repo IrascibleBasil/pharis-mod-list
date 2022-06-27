@@ -107,3 +107,7 @@
 ## 6/26/22
 - Changed Foyada Mamaea Overhaul to OAAB - Foyada Mamaea
 - Added Tel Aruhn Chronicles quest and Yansirramus Overhaul addon (BCOM)
+
+## 6/27/22
+- Updated Vanilla-friendly West Gash Tree Replacer installation instructions (FOMOD change)
+- Updated Melchior's Excellent Grazelands Acacia installation instructions (FOMOD change)

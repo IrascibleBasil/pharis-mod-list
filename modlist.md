@@ -1045,14 +1045,13 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
 Download:
 - **Vanilla-friendly West Gash Tree Replacer**
   - [x] Tree Types > Pine
-  - [x] Leaf Billboards > No Billboard Leaves
 
 ### [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
 
 Download:
 - **Melchior's Excellent Grazelands Acacia**
-  - [x] Core
+  - [x] Addons > OAAB_Data
 
 ### [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 Replaces all of the trees in the Ascadian Isles region.
