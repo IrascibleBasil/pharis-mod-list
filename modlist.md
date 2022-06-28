@@ -602,9 +602,9 @@ Landscape facelift for an old classic mod, [The White Wolf of Lokken Mountain](h
 
 Download:
 - **Main File**
-	- [x] Core
-	- [x] Remiros Groundcover addon
-	- [x] Bloodmoon Rebalance patch
+	- [x] ESM or ESP? > ESM
+	- [x] Install Remiros Groundcover Addon? > Yes
+	- [x] Do you Bloodmoon Rebalance? > Yes
 
 If you are using OpenMW 0.47 you will need to remove `VSW_Tomb_of_the_Snow_Prince.esm` from the list of masters for the grass plugin using Wrye Mash.
 
@@ -801,7 +801,7 @@ Hide or Delete:
 ```
 OAAB - Foyada Mamaea.ESP
 ```
-
+<!--
 ### [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
 Overhauls all shipwrecks in the base game and moves them to exterior cells so you can drown without being bothered by pesky load doors.
 
@@ -809,7 +809,7 @@ Download:
 - **OAAB Shipwrecks**
 	- [x] Core
 	- [x] Patch - TR Patch
-
+-->
 ### [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646) ([Desquirmified](mods/Redaynia%20Restored%20-%20Desquirmified.7z))
 Restores the missing village at Ald Redaynia that is mentioned in dialogue.
 

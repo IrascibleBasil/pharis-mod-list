@@ -114,3 +114,6 @@
 - Updated TES3Merge exclusions
 - Added link for distant land tutorial to Finishing Up doc
 - Added Bloodmoon Rebalance - PFP Patch
+
+## 6/28/22
+- Temporarily removed OAAB Shipwrecks because I found a land tear and I need to check if there are any others
