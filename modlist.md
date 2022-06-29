@@ -88,7 +88,7 @@ Download:
 - **Main File**
 	- [x] adamantium armor compatibility
 
-If you want to use the Siege at Firemoth official plugin use the one from **BCOM - Patches**. 
+If you want to use the Siege at Firemoth official plugin use the one from **Beautiful Cities of Morrowind - Patches**. 
 
 I wouldn't recommend Lefemm or Entertainers. 
 Area Effect Arrows is replaced by Area Effect Arrows Integrated; Helm of Tohan and Master Index are replaced by Bethesda Official Plugins Naturalized.
@@ -602,9 +602,12 @@ Landscape facelift for an old classic mod, [The White Wolf of Lokken Mountain](h
 
 Download:
 - **Main File**
-	- [x] ESM or ESP? > ESM
-	- [x] Install Remiros Groundcover Addon? > Yes
-	- [x] Do you Bloodmoon Rebalance? > Yes
+	- ESM or ESP? 
+    	- [x] ESM
+	- Install Remiros Groundcover Addon?
+    	- [x] Yes
+	- Do you Bloodmoon Rebalance?
+    	- [x] Yes
 
 If you are using OpenMW 0.47 you will need to remove `VSW_Tomb_of_the_Snow_Prince.esm` from the list of masters for the grass plugin using Wrye Mash.
 
@@ -644,47 +647,107 @@ Concept Art Plantations.esp
 Best city mod there is, I only wish I could endorse it twice. For more information read the Nexus description(challenge: Impossible) and refer to the [linked google doc](https://docs.google.com/document/d/1mO75n7f6X6EH1SmmQ-CmPHvdPbH30Q3OWyn-PDSCnys/edit?usp=sharing) that explains the patches.
 
 Download:
-- **Beautiful Cities of Morrowind - BCOM Core**
-	- [x] Core
-	- [x] Hlaalu Council Hall Plaza - Pick *one*
-	- [x] Riverside - Pick *one*
-	- [x] **[Original Engine]** Plaza Weather Mechanics (MWSE) - Required 
-	- [x] **[OpenMW]** Weather Mechanics for (OpenMW) - Required
-	- [x] Suran dock expansion & clutter addon
-	- [x] White Suran
-	- [x] Stav's Mages Guilds
-	- [x] Taller Lighthouse
-	- [x] Expanded Sadrith Mora Dock
-	- [x] Vanilla Style Ghostfence Pillars
-- **BCOM - Patches**
-	- [x] Patch for Purists Patch
-	- [x] OAAB Foyada Mamaea
-	- [x] Improved Inns Expanded
-	- [x] Scrolls of the Nine Barriers
-	- [x] Concept Art Plantations
-	- [x] **[Only if *not* using TR Preview]** TR_Travels
-	- [x] **[Only if using TR Preview]** TR_Travels (Mainland and Preview)
-	- [x] **[Only if using SHOTN]** Skyrim Home of the Nords Patch
-	- [x] Ebonheart Underworks
-	- [x] Yet Another Guard Diveresity - RR Cephalopod Armor
-	- [x] Bounty Hunter Assignments
-	- [x] Ashlander Traders Remastered
-	- [x] Ghastly Glowfence Patch
-	- [x] Guild of Vampire Hunters
-	- [x] Traveling Merchants
-	- [x] Dura_Gra-Bols_House_Reclaimed
-	- [x] Glass Domes
-	- [x] The Cottage
-	- [x] OAAB Pomegranates Patch
-	- [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
-- **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
-	- [x] Project Atlas Patch
-	- [x] GITD + Atlas
-	- [x] Balmora Bridges with bigger arch - Atlas
-	- [x] Stav MGO - GITD + Atlas
-	- [x] RR Statues patch
-- **Beautiful Cities of Morrowind - HD Textures**
-
+- **Beautiful Cities of Morrowind - Core**
+	- **[OpenMW]** OpenMW or MGEXE
+    	- [x] OpenMW
+	- **[Original Engine]** OpenMW or MGEXE
+    	- [x] MGEXE
+	- Default BCOM or BCOM with Balmora Waterworks?
+    	- [x] Yes
+	- Waterfront Options
+    	- [x] Stone Dock
+	- Hlaalu Council Plaza Options
+		- [x] Izy Style
+	- Suran Options
+    	- [x] Suran Dock Expansion and Clutter Addon
+    	- [x] White Suran
+	- Taller Seyda Neen Lighthouse
+    	- [x] Yes
+	- Stav's MGO
+    	- [x] Stav MGO + GITD + Atlas
+	- Glow in the Dahrk?
+    	- [x] Yes + Atlas
+	- Expanded Sadrith Mora Dock?
+    	- [x] Yes
+	- Project Atlas?
+    	- [x] Yes
+	- Do you wish to install the HD textures?
+        - [x] Yes
+	- Balmora Bridges with bigger arch
+    	- [x] Yes + Atlas
+	- RR Statues Patch
+    	- [x] Yes
+	- Remiros Groundcover
+		- [x] Azura's Coast
+		- [x] Bitter Coast
+		- [x] West Gash
+- **Beautiful Cities of Morrowind - Patches**
+    - Patches
+    	- [x] Patch for Purists Patch
+    	- [x] Scrolls of the Nine Barriers
+    	- [x] Concept Art Plantations
+	- OAAB Foyada Mamaea Overhaul
+    	- [x] OAAB Foyada Mamaea Overhaul
+	- Main Quest Enhancers
+    	- [x] None
+	- Animated Morrowind
+    	- [x] None
+	- Improved Inns Expanded
+    	- [x] Improved Inns Expanded
+    	- [x] Improved Inns Expanded - TR Addon
+	- Rise of House Telvanni
+    	- [x] None
+	- NX9 Buyable Houses
+    	- [x] None
+	- Abot's Boats
+    	- [x] None
+	- Abot's Boats for Tomb of the Snow Prince
+    	- [x] None
+	- Abot's Silt Striders
+    	- [x] None
+	- TR_Travels
+    	- [x] **[Only if *not* using TR Preview]** TR_Travels
+    	- [x] **[Only if using TR Preview]** TR_Travels (Mainland and Preview)
+	- Welcome to the Arena
+    	- [x] None
+	- More Patches
+    	- [x] **[Only if using SHOTN]** Skyrim Home of the Nords
+    	- [x] Ebonheart Underworks
+	- Yet Another Guard Diversity
+    	- [x] RR Cephalopod Armor
+	- Select any that apply
+    	- [x] Bounty Hunter Assignments
+    	- [x] Ashlander Traders Remastered
+	- Apartments of Morrowind
+    	- [x] None
+	- Mines and Caverns
+    	- [x] None
+	- Suran Underworld
+    	- [x] None
+	- Welcome Home
+    	- [x] None
+	- Select all that apply
+    	- [x] Guild of Vampire Hunters
+    	- [x] Ghastly Glowfence
+	- Unique Banners and Signs
+    	- [x] None
+	- Starfire NPC Additions
+    	- [x] None
+	- Select all that apply
+    	- [x] Glass Domes
+    	- [x] The Cottage
+	- Traveling Merchants
+    	- [x] Traveling Merchants
+  	- Dura Gra-Bol's House Reclaimed
+    	- [x] Dura Gra-Bol's House Reclaimed
+  	- Balmora Docks
+    	- [x] None
+    - Select all that apply
+      - [x] OAAB Pomegranates
+      - [x] Tel Aruhn Chronocles quest Yansirramus Overhaul Addon
+    - Morowind Crafting
+        - [x] None
+ 
 ### [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
 Download:
 - **Main File**
@@ -795,7 +858,7 @@ Download:
 ### [OAAB - Foyada Mamaea](https://www.nexusmods.com/morrowind/mods/46424)
 Completely overhauls Foyada Mamaea.
 
-Only the assets are needed, use the plugin from **BCOM - Patches**.
+Only the assets are needed, use the plugin from **Beautiful Cities of Morrowind - Patches**.
 
 Hide or Delete:
 ```
@@ -820,7 +883,7 @@ The original mod was made by R-Zero, all credit goes to them, I just rotated som
 ### [The Cottage](https://www.nexusmods.com/morrowind/mods/49660)
 This mod adds a cozy little cottage on the outskirts of Gnisis.
 
-Only the assets are needed, use the plugin from **BCOM - Patches**.
+Only the assets are needed, use the plugin from **Beautiful Cities of Morrowind - Patches**.
 
 Hide or Delete:
 ```
@@ -1055,14 +1118,16 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
 
 Download:
 - **Vanilla-friendly West Gash Tree Replacer**
-  - [x] Tree Types > Pine
+  - Tree Types
+    - [x] Pine
 
 ### [Melchior's Excellent Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/51058)
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
 
 Download:
 - **Melchior's Excellent Grazelands Acacia**
-  - [x] Addons > OAAB_Data
+  - Addons
+    - [x] OAAB_Data
 
 ### [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 Replaces all of the trees in the Ascadian Isles region.
@@ -2052,7 +2117,7 @@ Adds fireflies around the Bitter Coast and the Ascadian Isles.
 ### [Traveling Merchants](https://mw.modhistory.com/download-90-15577)
 Adds merchants that travel along scripted routes between towns.
 
-Only the assets are needed, use the plugin from **BCOM - Patches**.
+Only the assets are needed, use the plugin from **Beautiful Cities of Morrowind - Patches**.
 
 Hide or Delete:
 ```
@@ -2142,7 +2207,7 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 ### [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
 Ebonheart now has its own sewage system. With filth, rats, people and quests.
 
-Only the assets are needed, use the plugin from **BCOM - Patches**.
+Only the assets are needed, use the plugin from **Beautiful Cities of Morrowind - Patches**.
 
 Hide or Delete:
 ```
@@ -2301,23 +2366,12 @@ Adds the legendary Wabbajack artifact!
 
 Hide or Delete:
 ```
+Rem_WG.esp
+Rem_BC.esp
+Rem_AC.esp
 Rem_AI.esp
 Rem_GL.esp
 Rem_Solstheim.esp
-```
-
-### [Beautiful Cities of Morrowind - Grass Patches](https://www.nexusmods.com/morrowind/mods/49231)
-Download:
-- **BCoM - Grass Patches**
-	- [x] Remiros Groundcover
-
-Hide or Delete:
-```
-REM_AC_No_Sheogorad.ESP
-Rem_AL_RMR+Kogoruhn Expanded.esp
-Rem_GL_Trackless_GL.esp
-Rem_WG - StoneWood Pass.esp
-Rem_AI.esp
 ```
 
 <br>
