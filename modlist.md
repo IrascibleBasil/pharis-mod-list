@@ -1636,8 +1636,12 @@ It also works as a TR_data and OAAB_data creatures integration mod.
 
 Download:
 - **Main File**
-	- [x] Core
-	- [x] Glowing Netch and Netch Betty
+	- Glowing Netch
+    	- [x] Yes
+	- Daedric creatures use bound weapons
+    	- [x] No
+	- Summons have 0 soul
+    	- [x] No
 
 ### [Daedric Intervention - Creatures](https://www.nexusmods.com/morrowind/mods/46044?tab=files)
 Pluginless mesh and texture replacer for Daedric creatures.
