@@ -118,3 +118,8 @@
 ## 6/28/22
 - Temporarily removed OAAB Shipwrecks because I found a land tear and I need to check if there are any others
 - Updated for FOMODs
+
+## 7/2/22
+- Added Hunting Big Tooth (A Quest for Magical Starter Weapons)
+- Added Written in the Stars - a birthsign mod
+- Added The Weary Vampire

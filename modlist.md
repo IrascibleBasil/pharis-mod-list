@@ -2128,6 +2128,9 @@ Hide or Delete:
 TravelingMerchants_v2_3.esp
 ```
 
+### [Written in the Stars - a birthsign mod](https://www.nexusmods.com/morrowind/mods/50378?tab=description)
+Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns. Original birthsigns are untouched.
+
 # Rebalance		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and makes the Sixth House, properly, the most difficult content in the game. If this sounds unappealing to you simply skip this separator.
 
@@ -2240,6 +2243,12 @@ Visit an old but familiar face to embark on a quest to discover an ancient encha
 ### [God of Worms](https://www.nexusmods.com/morrowind/mods/48028)
 Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
 
+### [Hunting Big Tooth (A Quest for Magical Starter Weapons)](https://www.nexusmods.com/morrowind/mods/51457?tab=description)
+In this Mod you meet a Dunmer near Balmora who sends you on a Hunt for Big Tooth. Your reward is a magical starter Weapon of your choice.
+
+Download:
+- **Hunting Big Tooth**
+
 ### [Love in the Time of Daedra](https://www.nexusmods.com/morrowind/mods/43635) ([Moved](https://www.nexusmods.com/morrowind/mods/48683))
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
 
@@ -2350,6 +2359,11 @@ Discover the remnants of a failed Telvanni expedition and explore the depths of 
 
 ### [The Wabbajack](https://www.nexusmods.com/morrowind/mods/44653) **[*Original Engine Only*]**
 Adds the legendary Wabbajack artifact!
+
+### [The Weary Vampire](https://www.nexusmods.com/morrowind/mods/49774) ([Guild of Vampire Hunters Patch](mods/The%20Weary%20Vampire%20-%20Guild%20of%20Vampire%20Hunters%20Patch.7z))
+This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."
+
+I have included a patch I made (link above) for The Weary Vampire and Guild of Vampire Hunters; The patch simply fixes a small incompatibility with one NPC's inventory.
 
 # Grass		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
