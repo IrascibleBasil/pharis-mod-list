@@ -20,7 +20,7 @@ This is for analyzing and sorting your load order using a set of ordering rules.
 
 Add to your **MO2** executables list and be sure to add the path to your **Data Files** folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
 
-When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. Optionally also add `-n -u` to the **Arguments** field to quickly sort plugins without the GUI.
+When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go.
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
