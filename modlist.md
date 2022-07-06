@@ -1302,6 +1302,18 @@ Download:
   - [x] Azura Marble
   - [x] Vivec Statues
 
+> **Warning**
+> 
+> The marble texture from RR Mod Series - Morrowind Statues Replacer will overwrite a texture from BCOM which causes the statue in Holamayan to look all messed up, to fix this install the mod below and hide the conflicting texture in this mod. 
+
+Hide or Delete:
+```
+Textures\rr\_hol\Marble\azuramarble.dds
+```
+
+### [RR Marble Azura Fix](https://www.nexusmods.com/morrowind/mods/51576?tab=description)
+This little patch fixes Azura’s Statue (Marble Variant) from RR Mod Series - Morrowind Statues Replacer, when you use it with RR Mod Series - Holamayan Monastery Replacer or Beautiful Cities of Morrowind (RR Holamayan is included in it).
+
 ### [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
 Retexture of the Vivec sewers.
 

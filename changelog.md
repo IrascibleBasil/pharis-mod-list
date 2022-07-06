@@ -142,3 +142,6 @@
 - Temporarily hid Justice For Khartag until I or someone else fixes the land tear with OAAB Twin Lamps
 - Added mlox_my_rules.txt, link in Preamble mlox section
 - Added Imperium - Imperial Armour Expanded
+
+## 7/6/22
+- Added RR Marble Azura Fix
