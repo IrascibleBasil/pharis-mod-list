@@ -116,10 +116,29 @@
 - Added Bloodmoon Rebalance - PFP Patch
 
 ## 6/28/22
-- Temporarily removed OAAB Shipwrecks because I found a land tear and I need to check if there are any others
+- Temporarily (maybe) removed OAAB Shipwrecks (because I found a land tear and I need to check if there are any others)
 - Updated for FOMODs
 
 ## 7/2/22
 - Added Hunting Big Tooth (A Quest for Magical Starter Weapons)
 - Added Written in the Stars - a birthsign mod
 - Added The Weary Vampire
+
+## 7/4/22
+- Removed Travelling Merchants (Incompatibility with OAAB Grazelands that I don't care to patch right now)
+- Added MUSE
+- Added MUSE (Necro Edit)
+- Added MUSE Music Expansion - Tomb
+- Added MUSE Music Expansion - Dwemer
+- Added MUSE Music Expansion - Sixth House
+- Added MUSE Music Expansion - Ashlander
+- Added Valley of the Wind Overhaul
+- Added Valley of the Wind Atmospheric Enhancements
+- Added Bal'laku - The Lonely Towers
+- Added Test of Faith
+- Added Salt Gems of Bensamsi
+- Added A Different Way to Go about Sheep Sounds - The Story of Shaggy the Goat
+- Added Strider Burial
+- Temporarily hid Justice For Khartag until I or someone else fixes the land tear with OAAB Twin Lamps
+- Added mlox_my_rules.txt, link in Preamble mlox section
+- Added Imperium - Imperial Armour Expanded

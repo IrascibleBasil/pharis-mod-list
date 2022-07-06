@@ -469,11 +469,13 @@ Download:
   - [x] Core
   - [x] Replacer
   - [x] Prayer wheel sound replacer
-<!--
+
 ### [MUSE](https://www.nexusmods.com/morrowind/mods/46200) ([Necro Edit](https://www.dropbox.com/s/0z4lcgpq9moopyo/MUSE%202.02%20Necro%20Edit.7z?dl=1)) **[*Original Engine Only*]**
 Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods. 
 
 Original mod by Rytelier, edits by Necrolesian.
+
+To really get the most out of this mod you'd have to spend time putting music into the folders for specifiic cells and regions, though the mods below cover some and when MUSE has nothing to play for a cell or region it will simply pick something from your Explore music folder.
 
 > **Note**
 > 
@@ -490,7 +492,7 @@ An Ashlander music expansion of original tracks by be created for the Morrowind 
 
 ### [MUSE Music Expansion - Sixth House](https://www.nexusmods.com/morrowind/mods/51082) **[*Original Engine Only*]**
 A 6th House music expansion of original tracks for the Morrowind MUSE mod, created using modern production techniques. Featuring 5 new exploration tracks, 4 new combat tracks, and 1 boss fight track.
--->
+
 ### [Aura 3.0 - Replacer](https://www.nexusmods.com/morrowind/mods/48255) **[*OpenMW Only*]**
 Download:
 - **Aura 3.0 - Replacer**
@@ -737,7 +739,7 @@ Download:
     	- [x] Glass Domes
     	- [x] The Cottage
 	- Traveling Merchants
-    	- [x] Traveling Merchants
+    	- [x] None
   	- Dura Gra-Bol's House Reclaimed
     	- [x] Dura Gra-Bol's House Reclaimed
   	- Balmora Docks
@@ -810,10 +812,10 @@ Lightweight overhaul of Dagon Fel to make it appropriately Nordic in appearance.
 
 ### [Dagon Fel Mill Redux](https://www.nexusmods.com/morrowind/mods/50067)
 Wonderful revival of [an old mod](https://www.nexusmods.com/morrowind/mods/42981) by RandomPal.
-
+<!--
 ### [Justice for Khartag(J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
 Changes Khartag Point making it the high peak described in the in-game dialogue.
-
+-->
 ### [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
 OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big.
 
@@ -907,6 +909,26 @@ Overhauls the vanilla Dwemer tileset and adds new pieces.
 
 ### [Berandas Overhaul](https://www.nexusmods.com/morrowind/mods/48236)
 This mod overhauls and slightly expands Berandas, the old Dunmer fortress near Gnisis.
+
+### [Bal'laku - The Lonely Towers](https://www.nexusmods.com/morrowind/mods/51060?tab=description)
+Looming high over the hills of the northern Ashlands, the towers of Bal'laku are an awe-inspiring sight to behold.
+
+Download:
+- **Bal'laku - Vanilla Friendly Version**
+
+### [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=description)
+Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.
+
+### [Valley of the Wind Atmospheric Enhancements](https://www.nexusmods.com/morrowind/mods/47563)
+According to Ashlander dialogue, the Valley of the Wind is rarely travelled because the spirits there are restless. This mod adds haunting sound effects and removes fences from the Valley of the Wind, because really - who would bother to put them there?
+
+### [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661)
+Strider Burial is an overhaul of the area containing a few Strider husks East of Urshilaku Camp, turning the zone in a small Silt Strider graveyard complete with an optional high-level unmarked quest.
+
+Download:
+- **Strider Burial**
+  - [x] Core
+  - [x] For Vanilla Rocks
 
 # Mesh & Texture Replacers		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
@@ -2117,7 +2139,7 @@ Fixes two inconsistencies in the game: one concerning the enchantment of Lord's 
 
 ### [Fireflies](https://www.nexusmods.com/morrowind/mods/51443?tab=description)
 Adds fireflies around the Bitter Coast and the Ascadian Isles.
-
+<!--
 ### [Traveling Merchants](https://mw.modhistory.com/download-90-15577)
 Adds merchants that travel along scripted routes between towns.
 
@@ -2127,9 +2149,14 @@ Hide or Delete:
 ```
 TravelingMerchants_v2_3.esp
 ```
-
+-->
 ### [Written in the Stars - a birthsign mod](https://www.nexusmods.com/morrowind/mods/50378?tab=description)
 Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns. Original birthsigns are untouched.
+
+### [Imperium - Imperial Armour Expanded](https://www.nexusmods.com/morrowind/mods/51408?tab=description)
+This mod adds, modifies and distributes suits of Legion armour with the intention of making armour a bigger facet of Legion identity. Legion uniforms are more diverse and will now be exclusive to the Legion; no more strutting around with a legionnaire's uniform if you haven't earned it.
+
+There were some minor placement issues with this mod when used with BCOM that I solved by deleting a few objects in Enchanted Editor. Literally just some armor pieces, it really is very minor; Use [my plugin](mods/ImperialArmourExpanded%20-%20BCOM%20nitpick.7z) with the original mod's assets.
 
 # Rebalance		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and makes the Sixth House, properly, the most difficult content in the game. If this sounds unappealing to you simply skip this separator.
@@ -2165,6 +2192,12 @@ Adds a new book "The Ayembedt for Outlanders" to the game and a quest to acquire
 
 ### [A Conjurer's Calling](https://www.nexusmods.com/morrowind/mods/51070)
 Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands. 
+
+### [A Different Way to Go about Sheep Sounds - The Story of Shaggy the Goat](https://www.nexusmods.com/morrowind/mods/51501?tab=description)
+As we all know you can hear the sound of a sheep if you wander through the Ashlands. There are mods that remove this sound. This Mod adds a story to explain the Sound.
+
+Download:
+- **Version B - TR_Data Version - Shaggy the Goat**
 
 ### [A Hermits Request](https://www.nexusmods.com/morrowind/mods/23714)
 To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.
@@ -2312,6 +2345,9 @@ Redesigns the Library of Vivec from scratch. There are also new NPCs for you to 
 Download:
 - **Library of Vivec Overhaul - Full**
 
+### [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126?tab=description)
+His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn more.
+
 ### [Scrolls of The Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831)
 This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the (now rare) 9th barrier scroll, adds new lore surrounding The Nine Barriers, and much more!
 
@@ -2334,6 +2370,9 @@ Journey through this quest mod to improve your alteration magic.
 
 ### [Tales from the Ashlands - The Great Hive Baan Binif](https://www.nexusmods.com/morrowind/mods/51419)
 Adds an imposing landmark, known as Baan Binif, to the Ashlands, and three new quests designed to flesh out the background of this mysterious structure.
+
+### [Test of Faith](https://www.nexusmods.com/morrowind/mods/51170)
+Collect and destroy ash statues. Complete a quest for the Imperial Cult and Temple.
 
 ### [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423)
 To align with what the in game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.

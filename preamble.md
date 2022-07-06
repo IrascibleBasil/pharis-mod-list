@@ -22,6 +22,8 @@ Add to your **MO2** executables list and be sure to add the path to your **Data 
 
 When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go.
 
+Mlox also parses a third file with personal rules that override the other files (order goes base>user>my_rules). I have added a few rules for my mod list in my personal rules file [**here**](config/mlox_my_rules.txt). Put this file in the same folder as your `mlox_base.txt`, if you choose to use it of course.
+
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870) ([.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download))
 A tool for automatically patching conflicts between mods by merging objects and levelled lists. For a more detailed description refer to the Nexus page.
 
