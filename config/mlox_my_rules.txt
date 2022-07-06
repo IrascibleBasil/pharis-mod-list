@@ -3,7 +3,7 @@ Better Morrowind Armor DeFemm(?).esp
 Remiros' Uniques.esp
 
 [Order] ; When they conflict I'd prefer ImperialArmourExpanded.esp to win
-Yet Another Guard Diversity - Better Telvanni Cephalopod Armor.ESP
+Yet Another Guard Diversity*.ESP
 ImperialArmourExpanded.esp
 
 [Order] ; To prevent NecromancersAmulet.esp being made completely redundant
