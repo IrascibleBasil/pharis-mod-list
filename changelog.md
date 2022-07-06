@@ -124,7 +124,7 @@
 - Added Written in the Stars - a birthsign mod
 - Added The Weary Vampire
 
-## 7/4/22
+## 7/5/22
 - Removed Travelling Merchants (Incompatibility with OAAB Grazelands that I don't care to patch right now)
 - Added MUSE
 - Added MUSE (Necro Edit)
