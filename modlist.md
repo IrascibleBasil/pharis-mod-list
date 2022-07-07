@@ -2316,13 +2316,13 @@ Use the moved version of the plugin linked above for Tamriel Rebuilt compatibili
 ### [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773)
 Adds five new duties for members of the Mages Guild to Master Wizard Folms Mirel, in Caldera.
 
-### [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?tab=description) ([BCOM Fixed](mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z))
+### [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?tab=description) <!-- ([BCOM Fixed](mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z))-->
 In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
+<!--
+~~There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.~~
 
-There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.
-
-All credit goes to the original authors, I just moved some activators.
-
+~~All credit goes to the original authors, I just moved some activators.~~ Now bundled with BCOM 
+-->
 ### [Maren's Misfit Mabrigash](https://www.nexusmods.com/morrowind/mods/48709)
 A dungeon overhaul and quest mod that overhauls and expands the Maren Ancestral Tomb into a hideout befitting of an ashlander, and adds a new quest to complete in the dungeon.
 
