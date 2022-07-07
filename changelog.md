@@ -1,5 +1,5 @@
 ## 7/7/22
-- Updated for BCOM FOMOD changes
+- Updated for BCOM and Vanilla friendly creatures and undeads expansion FOMOD changes
 
 ## 7/6/22
 - Added RR Marble Azura Fix
