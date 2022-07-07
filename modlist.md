@@ -1682,7 +1682,7 @@ Download:
 - **Main File**
 	- Glowing Netch
     	- [x] Yes
-	- Daedric creatures use bound weapons
+	- Daedric creatures give less loot
     	- [x] No
 	- Summons have 0 soul
     	- [x] No
