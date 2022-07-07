@@ -6,7 +6,7 @@
 
 # About
 
-This modlist is intended to be a comprehensive graphical overhaul of the game while staying true to the source material.
+This modlist is intended to be a comprehensive graphical overhaul of the game while staying true to the source material. It's a modlist rather than a guide because it currently feels too incomplete and lacking in detailed instruction to be called a guide. These are the mods I personally use, suggestions are always welcome but keep in mind that just because I haven't included a mod on this list doesn't mean that I dislike (or don't know about) it, and I may not add suggested mods, even if compatible.
 
 The primary goals of this modlist are:
 
