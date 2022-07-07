@@ -20,7 +20,7 @@ This is for analyzing and sorting your load order using a set of ordering rules.
 
 Add to your **MO2** executables list and be sure to add the path to your **Data Files** folder in the **Start in** field otherwise mlox may not be able to find your plugins. 
 
-When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go.
+When you run mlox for the first time it will create an `mlox_base.txt` file in `C:\Users\<your user name>\AppData\Local\mlox\mlox`, this directory is where the latest `mlox_user.txt` (link above) will go. If you have the latest version of mlox, the fork from rfuzzo💜, the latest user and base files will be automatically updated for you every time mlox is launched so it is no longer necessary to download the rules manually.
 
 Mlox also parses a third file with personal rules that override the other files (order goes base>user>my_rules). I have added a few rules for my mod list in my personal rules file [**here**](config/mlox_my_rules.txt). Put this file in the same folder as your `mlox_base.txt`, if you choose to use it of course.
 
@@ -85,7 +85,7 @@ A Vulkan-based translation layer for Direct3D 9/10/11
 Powerful editor for plugins and saves.
 
 ### [TESPCD](https://mw.modhistory.com/download-95-5283)
-For detecting conflicts between plugins, such as when two mods edit the same cell.
+For detecting conflicts between plugins, such as when two mods edit the same NPC or landscape in the same exterior cell.
 
 ### [Ordenador](https://www.nexusmods.com/newvegas/mods/46074?tab=description) ([.NET Framework 4.0](http://www.microsoft.com/download/en/details.aspx?id=17718))
 Ordenador is for optimizing textures. 
