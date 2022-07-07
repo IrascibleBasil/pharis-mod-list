@@ -655,27 +655,30 @@ Download:
 	- **[Original Engine]** OpenMW or MGEXE
     	- [x] MGEXE
 	- Default BCOM or BCOM with Balmora Waterworks?
-    	- [x] Yes
+    	- [x] Default BCOM
 	- Waterfront Options
     	- [x] Stone Dock
 	- Hlaalu Council Plaza Options
 		- [x] Izy Style
+	- Vanilla Style Ghostfence Pillars?
+		- [x] Yes	
 	- Suran Options
     	- [x] Suran Dock Expansion and Clutter Addon
-    	- [x] White Suran
 	- Taller Seyda Neen Lighthouse
     	- [x] Yes
 	- Stav's MGO
     	- [x] Stav MGO + GITD + Atlas
-	- Glow in the Dahrk?
-    	- [x] Yes + Atlas
+	- Vivec clutter addons
+		- [x] Planters
 	- Expanded Sadrith Mora Dock?
     	- [x] Yes
+	- Glow in the Dahrk?
+    	- [x] Yes + Atlas
 	- Project Atlas?
     	- [x] Yes
-	- Do you wish to install the HD textures?
+	- Do you wish to install the HD Textures?
         - [x] Yes
-	- Balmora Bridges with bigger arch
+	- Balmora Bridges with Bigger Arches
     	- [x] Yes + Atlas
 	- RR Statues Patch
     	- [x] Yes
@@ -685,7 +688,7 @@ Download:
 		- [x] West Gash
 - **Beautiful Cities of Morrowind - Patches**
     - Patches
-    	- [x] Patch for Purists Patch
+    	- [x] Patch for Purists
     	- [x] Scrolls of the Nine Barriers
     	- [x] Concept Art Plantations
 	- OAAB Foyada Mamaea Overhaul
@@ -696,7 +699,8 @@ Download:
     	- [x] None
 	- Improved Inns Expanded
     	- [x] Improved Inns Expanded
-    	- [x] Improved Inns Expanded - TR Addon
+    - Improved Inns Expanded - TR Addons 
+		- [x] Improved Inns Expanded - TR addon
 	- Rise of House Telvanni
     	- [x] None
 	- NX9 Buyable Houses
@@ -712,11 +716,11 @@ Download:
     	- [x] **[Only if using TR Preview]** TR_Travels (Mainland and Preview)
 	- Welcome to the Arena
     	- [x] None
+	- Yet Another Guard Diversity
+    	- [x] RR Cephalopod Armor
 	- More Patches
     	- [x] **[Only if using SHOTN]** Skyrim Home of the Nords
     	- [x] Ebonheart Underworks
-	- Yet Another Guard Diversity
-    	- [x] RR Cephalopod Armor
 	- Select any that apply
     	- [x] Bounty Hunter Assignments
     	- [x] Ashlander Traders Remastered
@@ -745,8 +749,10 @@ Download:
   	- Balmora Docks
     	- [x] None
     - Select all that apply
-      - [x] OAAB Pomegranates
-      - [x] Tel Aruhn Chronocles quest Yansirramus Overhaul Addon
+    	- [x] The Sanguine Rose	
+    	- [x] Mamaea Awakened
+      	- [x] OAAB Pomegranates
+      	- [x] Tel Aruhn Chronocles quest Yansirramus Overhaul Addon
     - Morowind Crafting
         - [x] None
  
@@ -776,6 +782,10 @@ I personally dislike the planets floating above the palace so I replaced the mes
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
+
+> **Warning**
+> 
+> May conflict with The Sanguine's Rose; I would recommend picking one or the other.
 
 <details>	<summary>Alternatives</summary>
 
