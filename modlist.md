@@ -2008,16 +2008,15 @@ Download:
 - **Paxon the Pack Rat**
 	- [x] Paxon the Pack Rat
 	- [x] Pack Rat Anti-Swish
-
-### [War Kagouti Companion - Mausi](https://www.nexusmods.com/morrowind/mods/45169)
+<!--
+### [War Kagouti Companion - Mausi](https://www.nexusmods.com/morrowind/mods/45169) **[*Original Engine Only*]**
 Take an armored kagouti into battle with you as a companion. Change out her armor to give her different abilities. Send her hunting for rats. Make a friend.
 
 Download:
 - **War Kagouti Companion**
 	- [x] Core
 	- [x] The Ashlanders & Finding the Erabenimsun Patch
-	- [x] Tyddy's Kagouti Replacer Aendemika of Vvardenfell
-
+-->
 ### [Stripes the Cat](https://www.nexusmods.com/morrowind/mods/51086) ([Required](https://mw.modhistory.com/download-24-15599))
 An adorable little companion in Caldera that makes cute noises and casts spells.
 
