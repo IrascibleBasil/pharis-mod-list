@@ -1,5 +1,6 @@
 ## 7/7/22
 - Updated for BCOM and Vanilla friendly creatures and undeads expansion FOMOD changes
+- Hid War Kagouti Companion - Mausi until I possibly make a BCOM patch
 
 ## 7/6/22
 - Added RR Marble Azura Fix
