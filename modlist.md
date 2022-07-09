@@ -723,7 +723,6 @@ Download:
     	- [x] Ebonheart Underworks
 	- Select any that apply
     	- [x] Bounty Hunter Assignments
-    	- [x] Ashlander Traders Remastered
 	- Apartments of Morrowind
     	- [x] None
 	- Mines and Caverns
@@ -734,25 +733,25 @@ Download:
     	- [x] None
 	- Select all that apply
     	- [x] Guild of Vampire Hunters
-    	- [x] Ghastly Glowfence
+      - [x] Ghastly Glowfence
 	- Unique Banners and Signs
-    	- [x] None
+      - [x] None
 	- Starfire NPC Additions
-    	- [x] None
+      - [x] None
 	- Select all that apply
-    	- [x] Glass Domes
-    	- [x] The Cottage
+      - [x] Glass Domes
+      - [x] The Cottage
 	- Traveling Merchants
-    	- [x] None
+      - [x] None
   	- Dura Gra-Bol's House Reclaimed
-    	- [x] Dura Gra-Bol's House Reclaimed
+      - [x] Dura Gra-Bol's House Reclaimed
   	- Balmora Docks
-    	- [x] None
+      - [x] None
     - Select all that apply
-    	- [x] The Sanguine Rose	
-    	- [x] Mamaea Awakened
-      	- [x] OAAB Pomegranates
-      	- [x] Tel Aruhn Chronocles quest Yansirramus Overhaul Addon
+      - [x] The Sanguine Rose	
+      - [x] Mamaea Awakened
+      - [x] OAAB Pomegranates
+      - [x] Tel Aruhn Chronocles quest Yansirramus Overhaul Addon
     - Morowind Crafting
         - [x] None
  
@@ -782,10 +781,6 @@ I personally dislike the planets floating above the palace so I replaced the mes
 
 ### [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 Replaces the prison moon with a model made by qwertyasdfgh for Morroblivion, also moves it to a higher position.
-
-> **Warning**
-> 
-> May conflict with The Sanguine's Rose; I would recommend picking one or the other.
 
 <details>	<summary>Alternatives</summary>
 
@@ -1064,7 +1059,6 @@ Makes windows glow at night and adds interior sunrays.
 	- [x] Raven Rock Windows
 	- [x]  Telvanni Tower Interior Glow > MGE XE
 
-
 ### [DN Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
 Glow in the Dahrk brought to a Dwemer ruin near you! Yay Darknut!
 
@@ -1088,6 +1082,17 @@ Download:
 	- [x] Graphic Herbalism Patch
 - **Hotfix 0.7.2**
 - **Textures - MET**
+
+### [Velothi Atlas Fix](mods/Velothi%20Atlas%20Fix.7z)
+There's currently an issue with the Project Atlas Glow in the Dahrk Patch that can be avoided by downloading the old Velothi atlas. I have bundled the Velothi atlas for vanilla and multiple replacers.
+
+Download:
+- **Velothi Atlas Fix**
+  - [x] Arkitektora
+
+> **Note**
+> 
+> This does not replace any of the atlases in My Atlas Texture Collection, those are still needed.
 
 ### [My Atlas Texture Collection](mods/My%20Atlas%20Texture%20Collection.7z)
 Some mods have outdated texture atlases or no atlas at all so I have provided atlases I generated with the Project Atlas BAT files.
@@ -1311,18 +1316,6 @@ Download:
 - **RR - Morrowind Statues Replacer**
   - [x] Azura Marble
   - [x] Vivec Statues
-
-> **Warning**
-> 
-> The marble texture from RR Mod Series - Morrowind Statues Replacer will overwrite a texture from BCOM which causes the statue in Holamayan to look all messed up, to fix this install the mod below and hide the conflicting texture in this mod. 
-
-Hide or Delete:
-```
-Textures\rr\_hol\Marble\azuramarble.dds
-```
-
-### [RR Marble Azura Fix](https://www.nexusmods.com/morrowind/mods/51576?tab=description)
-This little patch fixes Azura’s Statue (Marble Variant) from RR Mod Series - Morrowind Statues Replacer, when you use it with RR Mod Series - Holamayan Monastery Replacer or Beautiful Cities of Morrowind (RR Holamayan is included in it).
 
 ### [Sewers - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43144)
 Retexture of the Vivec sewers.
@@ -1839,7 +1832,12 @@ Download:
 ### [Better Robes](https://www.nexusmods.com/morrowind/mods/42773) ([Updated Updated Tamriel Data Patch](mods/Better%20Robes%20-%20Updated%20Updated%20Tamriel%20Rebuilt%20Patch.zip))
 This plugin replaces male robe meshes with smoothed versions (based on NioLiv\'s meshes) and adds female variants.
 
-Download the updated patch for Tamriel Data compatibility.
+Download:
+- **Better Robes ENG**
+  - [x] Data Files
+  - [x] patch for TR
+
+Download the updated updated patch above and merge it with Better Robes.
 
 ### [Robe Overhaul](https://www.nexusmods.com/morrowind/mods/43748) ([Blank Glow Maps](https://www.nexusmods.com/morrowind/mods/43795))
 Replacer for all vanilla robes with new high resolution textures and sometimes tweaked models based on Moranar's work.
@@ -1872,7 +1870,7 @@ Download:
 - **Main File**
 	- [x] Main Files
   
-Only the Assets are needed.
+Only the Assets are needed for the RR Cephalopod version of Yet Another Guard Diversity from BCOM.
 
 ### [Orcish retexture](https://www.nexusmods.com/morrowind/mods/43502)
 A retexture of the Orcish armor and tower shield.
@@ -2100,6 +2098,9 @@ Area Effect Projectiles Integrated.esp
 ### [Alternate Helmets](https://www.nexusmods.com/morrowind/mods/50713?tab=description)
 Adds some shiny new helmets to add visual variation to armour.
 
+### [Weapons Expansion Project](https://www.nexusmods.com/morrowind/mods/51587)
+The project is designed to add all the missing original weapons in the game, at the moment all weapons have been added from daggers to long spears, there are also crossbows and bows, they will also be added over time.
+
 # Gameplay		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 
 ### [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
@@ -2179,6 +2180,12 @@ This mod adds, modifies and distributes suits of Legion armour with the intentio
 
 There were some minor placement issues with this mod when used with BCOM that I solved by deleting a few objects in Enchanted Editor. Literally just some armor pieces, it really is very minor; Use [my plugin](mods/ImperialArmourExpanded%20-%20BCOM%20nitpick.7z) with the original mod's assets.
 
+### [Brother Juniper's Ashlander Traders - Remastered](https://www.nexusmods.com/morrowind/mods/48009)
+Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
+
+Download:
+- **Ashlander Traders Remastered - BCOM and Wares**
+
 # Rebalance		[<sub><sup>⭡</sup></sub>](https://github.com/PharisMods/pharis-mod-list/blob/main/modlist.md#jump-to-separator)
 These mods rebalance the expansions as if they shipped with the game on release and makes the Sixth House, properly, the most difficult content in the game. If this sounds unappealing to you simply skip this separator.
 
@@ -2228,7 +2235,8 @@ A merchant has set up shop outside of Vivec. Talk with him, and after some time 
 
 Download:
 - **Main File**
-	- [x] Core
+	- Core
+      - [x] Core Files
 
 ### [Ancient Foes](https://www.nexusmods.com/morrowind/mods/44705)
 To the west and slightly north of Dagon Fel, you'll find a small cottage along the shores of the Sheogorad, where a young Nord spends his days longing for home. Will you help him find what he seeks? Or will you be the instrument of his destruction?
@@ -2317,8 +2325,11 @@ Adds five new duties for members of the Mages Guild to Master Wizard Folms Mirel
 
 ### [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?tab=description) <!-- ([BCOM Fixed](mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z))-->
 In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
+
+Only the assets are needed, use the plugin from **Beautiful Cities of Morrowind - Patches**.
+
 <!--
-~~There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.~~
+There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.
 
 ~~All credit goes to the original authors, I just moved some activators.~~ Now bundled with BCOM 
 -->

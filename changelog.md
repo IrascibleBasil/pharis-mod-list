@@ -1,3 +1,9 @@
+## 7/9/22
+- Removed RR Marble Azura Fix (Fixed by RP)
+- Added Weapons Expansion Project
+- Added Brother Juniper's Ashlander Traders - Remastered (Replaces BCOM Ashlander Traders patch)
+- Added Velothi Atlas Fix
+
 ## 7/7/22
 - Updated for BCOM and Vanilla friendly creatures and undeads expansion FOMOD changes
 - Hid War Kagouti Companion - Mausi until I possibly make a BCOM patch
