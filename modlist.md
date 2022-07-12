@@ -207,6 +207,11 @@ MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu
 ### [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)
 Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!
 
+### [Attribute Effect Tweaks](https://www.nexusmods.com/morrowind/mods/51161)
+Tweaks how Restore/Damage Attribute works on the player. Required by certain mods. No meaningful gameplay effect on its own.
+
+Required by Class-Conscious Character Progression and Fortify Max.
+
 ### [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929)
 Adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 
